@@ -1,0 +1,17 @@
+platform,account_id,account_name,brand_code,account_timezone,currency,fixed_in_version
+meta,act_1011223352469,PureHealth Research - US,PHR,America/New_York,USD,0
+google,301-413-5611,PureHealth Research Search,PHR,America/Los_Angeles,USD,0
+meta,act_1011223360388,Nation Health MD - US,NHMD,America/New_York,USD,0
+google,302-416-5622,Nation Health MD Search,NHMD,America/Los_Angeles,USD,0
+meta,act_1011223368307,Pureance - US,PUR,America/New_York,USD,0
+google,303-419-5633,Pureance Search,PUR,America/Los_Angeles,USD,0
+meta,act_1011223376226,Nature's Blast - US,NBL,America/New_York,USD,0
+google,304-422-5644,Nature's Blast Search,NBL,America/Los_Angeles,USD,0
+meta,act_1011223384145,VitalPeak - US,VPK,America/New_York,USD,0
+google,305-425-5655,VitalPeak Search,VPK,America/Los_Angeles,USD,0
+meta,act_1011223392064,Trumeta - US,TRU,America/New_York,USD,0
+google,306-428-5666,Trumeta Search,TRU,America/Los_Angeles,USD,0
+meta,act_1011223399983,PetMade - US,PET,America/New_York,USD,0
+google,307-431-5677,PetMade Search,PET,America/Los_Angeles,USD,0
+meta,act_1011223399001,PureHealth Research - EU/UK,PHR,Europe/Vilnius,EUR,0
+meta,act_1011223399777,VitalPeak - US 2,VPK,America/New_York,USD,1

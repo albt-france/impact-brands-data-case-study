@@ -1,0 +1,14 @@
+issue_id,issue_type,description,detect_key
+1,3,Misspelled product in campaign name (BloodSugr),23851000001517
+2,3,Wrong brand prefix in campaign name (PHR on a Pureance account),23851000001614
+3,3,Campaign for Stress Release Complex named 'Sleep_StressRelief': matches the Sleep Formula rule,23851000001711
+4,6,"Dispute wave: 140 late chargebacks on Feb-Mar 2026 orders, filed in May after the books were closed",2026-03
+5,8,25 PayPal charges imported manually with amounts in units instead of cents,LHP-1055457
+6,8,"Orders in EUR and GBP next to USD; payment amounts in cents vs shop amounts in units (structural, handled in staging)",
+7,5,485 orders delivered twice by the shop webhook (replay),PAW-1111939
+8,9,530 subscriptions paused or in payment failure still carry status ACTIVE in the subscription tool,sub_516306
+9,7,Platform-reported conversions exceed real orders (view-through and 7-day click windows),
+10,4,"Store reports in New York time, Google Ads accounts in Los Angeles time, the EU Meta account in Vilnius time, payments in UTC",
+11,5,Meta connector re-synced 2026-05-14: every row loaded twice,2026-05-14
+12,1,New VitalPeak Meta account (act_1011223399777) missing from the connector for its first 5 days and absent from the account mapping,act_1011223399777
+13,2,New product PHR:yeast-protein-creatine-electrolytes launched 2026-07-01 with no row in the product mapping,YCH

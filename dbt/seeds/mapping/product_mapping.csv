@@ -1,0 +1,1034 @@
+source_system,source_sku,product_key,units_per_item,purchase_type,fixed_in_version,note
+shop,ABE,PHR:ageless-brain-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,ABE1AD,PHR:ageless-brain-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ABE3AD,PHR:ageless-brain-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ABE6AD,PHR:ageless-brain-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,RTV,PHR:artichoke-extract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,RTV1AD,PHR:artichoke-extract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,RTV3AD,PHR:artichoke-extract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,RTV6AD,PHR:artichoke-extract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,WGH,PHR:ashwagandha-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,WGZ1AD,PHR:ashwagandha-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,WGZ3AD,PHR:ashwagandha-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,WGZ6AD,PHR:ashwagandha-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,AF,PHR:bacopa-monnieri,1,one_time,0,bootstrapped from public catalogue
+shop,AFZ1AD,PHR:bacopa-monnieri,1,subscribe_save,0,bootstrapped from public catalogue
+shop,AFZ3AD,PHR:bacopa-monnieri,3,subscribe_save,0,bootstrapped from public catalogue
+shop,AFZ6AD,PHR:bacopa-monnieri,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BVK,PHR:beet-root-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BVK1AD,PHR:beet-root-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BVK3AD,PHR:beet-root-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BVK6AD,PHR:beet-root-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,KS,PHR:berberine-extract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,KSZ1AD,PHR:berberine-extract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KSZ3AD,PHR:berberine-extract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,KSZ6AD,PHR:berberine-extract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BSE,PHR:blood-sugar-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BSE1AD,PHR:blood-sugar-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BSE3AD,PHR:blood-sugar-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BSE6AD,PHR:blood-sugar-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TXM,PHR:bone-broth-protein-powder,1,one_time,0,bootstrapped from public catalogue
+shop,TXM1AD,PHR:bone-broth-protein-powder,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TXM3AD,PHR:bone-broth-protein-powder,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TXM6AD,PHR:bone-broth-protein-powder,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BHE,PHR:bone-health-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BHE1AD,PHR:bone-health-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BHE3AD,PHR:bone-health-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BHE6AD,PHR:bone-health-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BZO,PHR:breathecore-clear-lungs-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BZO1AD,PHR:breathecore-clear-lungs-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BZO3AD,PHR:breathecore-clear-lungs-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BZO6AD,PHR:breathecore-clear-lungs-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CLE,PHR:cl-balance-supplement-for-high-cholesterol,1,one_time,0,bootstrapped from public catalogue
+shop,CLE1AD,PHR:cl-balance-supplement-for-high-cholesterol,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CLE3AD,PHR:cl-balance-supplement-for-high-cholesterol,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CLE6AD,PHR:cl-balance-supplement-for-high-cholesterol,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CQF,PHR:comfortiq,1,one_time,0,bootstrapped from public catalogue
+shop,CQF1AD,PHR:comfortiq,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CQF3AD,PHR:comfortiq,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CQF6AD,PHR:comfortiq,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MCR,PHR:complete-omega-3,1,one_time,0,bootstrapped from public catalogue
+shop,MCR1AD,PHR:complete-omega-3,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MCR3AD,PHR:complete-omega-3,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MCR6AD,PHR:complete-omega-3,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VIC,PHR:complete-vision-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,VIC1AD,PHR:complete-vision-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VIC3AD,PHR:complete-vision-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VIC6AD,PHR:complete-vision-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SFZM,PHR:cortisol-capsules,1,one_time,0,bootstrapped from public catalogue
+shop,SFZM1AD,PHR:cortisol-capsules,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SFZM3AD,PHR:cortisol-capsules,3,subscribe_save,0,bootstrapped from public catalogue
+shop,SFZM6AD,PHR:cortisol-capsules,6,subscribe_save,0,bootstrapped from public catalogue
+shop,AIZ,PHR:creatine-monohydrate-powder-agilance,1,one_time,0,bootstrapped from public catalogue
+shop,AIZ1AD,PHR:creatine-monohydrate-powder-agilance,1,subscribe_save,0,bootstrapped from public catalogue
+shop,AIZ2AD,PHR:creatine-monohydrate-powder-agilance,2,subscribe_save,0,bootstrapped from public catalogue
+shop,AIZ3AD,PHR:creatine-monohydrate-powder-agilance,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CFE,PHR:curbfit-appetite-suppressant-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,CFE1AD,PHR:curbfit-appetite-suppressant-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CFE3AD,PHR:curbfit-appetite-suppressant-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CFE6AD,PHR:curbfit-appetite-suppressant-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CEC,PHR:curcumin-extract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,CEC1AD,PHR:curcumin-extract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CEC3AD,PHR:curcumin-extract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CEC6AD,PHR:curcumin-extract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,ML,PHR:daily-multivitamins,1,one_time,0,bootstrapped from public catalogue
+shop,ML1AD,PHR:daily-multivitamins,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ML3AD,PHR:daily-multivitamins,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ML6AD,PHR:daily-multivitamins,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PDRC,PHR:dermal-restore-repair-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PDRC1AD,PHR:dermal-restore-repair-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PDRC3AD,PHR:dermal-restore-repair-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PDRC6AD,PHR:dermal-restore-repair-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,ECC,PHR:earcare-ear-comfort-drops,1,one_time,0,bootstrapped from public catalogue
+shop,ECC1AD,PHR:earcare-ear-comfort-drops,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ECC3AD,PHR:earcare-ear-comfort-drops,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ECC6AD,PHR:earcare-ear-comfort-drops,6,subscribe_save,0,bootstrapped from public catalogue
+shop,EY,PHR:elderberry-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,EYZ1AD,PHR:elderberry-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,EYZ3AD,PHR:elderberry-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,EYZ6AD,PHR:elderberry-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,EBC,PHR:every-beat-heart-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,EBC1AD,PHR:every-beat-heart-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,EBC3AD,PHR:every-beat-heart-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,EBC6AD,PHR:every-beat-heart-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,EWLSA,PHR:express-weight-loss-system,1,one_time,0,bootstrapped from public catalogue
+shop,EWLSA1ADS,PHR:express-weight-loss-system,1,subscribe_save,0,bootstrapped from public catalogue
+shop,EWLSA3ADS,PHR:express-weight-loss-system,3,subscribe_save,0,bootstrapped from public catalogue
+shop,EWLSA6ADS,PHR:express-weight-loss-system,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TBE,PHR:exuberant,1,one_time,0,bootstrapped from public catalogue
+shop,TBE1AD,PHR:exuberant,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TBE3AD,PHR:exuberant,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TBE6AD,PHR:exuberant,6,subscribe_save,0,bootstrapped from public catalogue
+shop,EZC,PHR:fast-enzymes-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,EZC1AD,PHR:fast-enzymes-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,EZC3AD,PHR:fast-enzymes-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,EZC6AD,PHR:fast-enzymes-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LF,PHR:fit-on-powder-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,LF1AD,PHR:fit-on-powder-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LF3AD,PHR:fit-on-powder-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LF6AD,PHR:fit-on-powder-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,FFPSA,PHR:formidable-fungus-protocol,1,one_time,0,bootstrapped from public catalogue
+shop,FFPSA1ADS,PHR:formidable-fungus-protocol,1,subscribe_save,0,bootstrapped from public catalogue
+shop,FFPSA3ADS,PHR:formidable-fungus-protocol,3,subscribe_save,0,bootstrapped from public catalogue
+shop,FFPSA6ADS,PHR:formidable-fungus-protocol,6,subscribe_save,0,bootstrapped from public catalogue
+shop,POZ,PHR:fullswitch-natural-glp-capsules,1,one_time,0,bootstrapped from public catalogue
+shop,POZ1AD,PHR:fullswitch-natural-glp-capsules,1,subscribe_save,0,bootstrapped from public catalogue
+shop,POZ3AD,PHR:fullswitch-natural-glp-capsules,3,subscribe_save,0,bootstrapped from public catalogue
+shop,POZ6AD,PHR:fullswitch-natural-glp-capsules,6,subscribe_save,0,bootstrapped from public catalogue
+shop,FELM,PHR:fungus-eliminator-toenail-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,FELM1AD,PHR:fungus-eliminator-toenail-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,FELM3AD,PHR:fungus-eliminator-toenail-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,FELM6AD,PHR:fungus-eliminator-toenail-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,GBO,PHR:garlic-bulb-extract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,GBO1AD,PHR:garlic-bulb-extract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GBO3AD,PHR:garlic-bulb-extract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GBO6AD,PHR:garlic-bulb-extract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,GHC,PHR:gastro-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,GHC1AD,PHR:gastro-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GHC3AD,PHR:gastro-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GHC6AD,PHR:gastro-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,GU,PHR:ginseng-energy-and-focus-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,GUZ1AD,PHR:ginseng-energy-and-focus-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GUZ3AD,PHR:ginseng-energy-and-focus-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GUZ6AD,PHR:ginseng-energy-and-focus-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LGRC,PHR:gut-support-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,LGRC1AD,PHR:gut-support-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LGRC3AD,PHR:gut-support-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LGRC6AD,PHR:gut-support-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,OR,PHR:hawthorn,1,one_time,0,bootstrapped from public catalogue
+shop,ORZ1AD,PHR:hawthorn,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ORZ3AD,PHR:hawthorn,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ORZ6AD,PHR:hawthorn,6,subscribe_save,0,bootstrapped from public catalogue
+shop,HEC,PHR:hearing-support-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,HEC1AD,PHR:hearing-support-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HEC3AD,PHR:hearing-support-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HEC6AD,PHR:hearing-support-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SKO,PHR:holy-basil-holistic-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,SKO1AD,PHR:holy-basil-holistic-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SKO3AD,PHR:holy-basil-holistic-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,SKO6AD,PHR:holy-basil-holistic-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,IMC,PHR:immune-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,IMC1AD,PHR:immune-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,IMC3AD,PHR:immune-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,IMC6AD,PHR:immune-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PBC,PHR:improbiome-glp-digestive-health-capsules,1,one_time,0,bootstrapped from public catalogue
+shop,PBC1AD,PHR:improbiome-glp-digestive-health-capsules,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PBC3AD,PHR:improbiome-glp-digestive-health-capsules,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PBC6AD,PHR:improbiome-glp-digestive-health-capsules,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VTO,PHR:iron-supplement-with-vitamin-c,1,one_time,0,bootstrapped from public catalogue
+shop,VTO1AD,PHR:iron-supplement-with-vitamin-c,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VTO3AD,PHR:iron-supplement-with-vitamin-c,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VTO6AD,PHR:iron-supplement-with-vitamin-c,6,subscribe_save,0,bootstrapped from public catalogue
+shop,JSK,PHR:joint-support-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,JSK1AD,PHR:joint-support-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,JSK3AD,PHR:joint-support-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,JSK6AD,PHR:joint-support-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,KFC,PHR:keto-formula,1,one_time,0,bootstrapped from public catalogue
+shop,KFC1AD,PHR:keto-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KFC3AD,PHR:keto-formula,3,subscribe_save,0,bootstrapped from public catalogue
+shop,KFC6AD,PHR:keto-formula,6,subscribe_save,0,bootstrapped from public catalogue
+shop,KHEN,PHR:kidney-health-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,KHEN1AD,PHR:kidney-health-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KHEN3AD,PHR:kidney-health-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,KHEN6AD,PHR:kidney-health-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,GKC,PHR:kombucha-tea-powder,1,one_time,0,bootstrapped from public catalogue
+shop,GKC1AD,PHR:kombucha-tea-powder,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GKC3AD,PHR:kombucha-tea-powder,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GKC6AD,PHR:kombucha-tea-powder,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LHFU,PHR:liver-health-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,LHFU1AD,PHR:liver-health-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LHFU3AD,PHR:liver-health-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LHFU6AD,PHR:liver-health-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,NL,PHR:lycopene-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,NLZ1AD,PHR:lycopene-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,NLZ3AD,PHR:lycopene-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,NLZ6AD,PHR:lycopene-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LMOK,PHR:lymph-system-support,1,one_time,0,bootstrapped from public catalogue
+shop,LMOK1AD,PHR:lymph-system-support,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LMOK3AD,PHR:lymph-system-support,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LMOK6AD,PHR:lymph-system-support,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SN,PHR:magnesium-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,SNZ1AD,PHR:magnesium-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SNZ3AD,PHR:magnesium-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,SNZ6AD,PHR:magnesium-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,GNC,PHR:marine-collagen-booster-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,GNC1AD,PHR:marine-collagen-booster-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GNC3AD,PHR:marine-collagen-booster-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GNC6AD,PHR:marine-collagen-booster-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TH,PHR:matcha-green-tea-capsules,1,one_time,0,bootstrapped from public catalogue
+shop,THZ1AD,PHR:matcha-green-tea-capsules,1,subscribe_save,0,bootstrapped from public catalogue
+shop,THZ3AD,PHR:matcha-green-tea-capsules,3,subscribe_save,0,bootstrapped from public catalogue
+shop,THZ6AD,PHR:matcha-green-tea-capsules,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MHC,PHR:menoharmony-menopause-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MHC1AD,PHR:menoharmony-menopause-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MHC3AD,PHR:menoharmony-menopause-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MHC6AD,PHR:menoharmony-menopause-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,GRC,PHR:metabolic-greens-plus,1,one_time,0,bootstrapped from public catalogue
+shop,GRC1AD,PHR:metabolic-greens-plus,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GRC3AD,PHR:metabolic-greens-plus,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GRC6AD,PHR:metabolic-greens-plus,6,subscribe_save,0,bootstrapped from public catalogue
+shop,RDC,PHR:metabolic-reds,1,one_time,0,bootstrapped from public catalogue
+shop,RDC1AD,PHR:metabolic-reds,1,subscribe_save,0,bootstrapped from public catalogue
+shop,RDC3AD,PHR:metabolic-reds,3,subscribe_save,0,bootstrapped from public catalogue
+shop,RDC6AD,PHR:metabolic-reds,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MDC,PHR:metal-detox-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MDC1AD,PHR:metal-detox-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MDC3AD,PHR:metal-detox-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MDC6AD,PHR:metal-detox-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MQ,PHR:moringa-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MQ1AD,PHR:moringa-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MQ3AD,PHR:moringa-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MQ6AD,PHR:moringa-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,NRGE,PHR:nerve-regeneration-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,NRGE1AD,PHR:nerve-regeneration-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,NRGE3AD,PHR:nerve-regeneration-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,NRGE6AD,PHR:nerve-regeneration-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CLC,PHR:nmn-resveratrol-cellular-longevity-complex,1,one_time,0,bootstrapped from public catalogue
+shop,CLC1AD,PHR:nmn-resveratrol-cellular-longevity-complex,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CLC3AD,PHR:nmn-resveratrol-cellular-longevity-complex,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CLC6AD,PHR:nmn-resveratrol-cellular-longevity-complex,6,subscribe_save,0,bootstrapped from public catalogue
+shop,NMC,PHR:nootropic-mushroom-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,NMC1AD,PHR:nootropic-mushroom-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,NMC3AD,PHR:nootropic-mushroom-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,NMC6AD,PHR:nootropic-mushroom-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,JOO,PHR:olive-leaf,1,one_time,0,bootstrapped from public catalogue
+shop,JOO1AD,PHR:olive-leaf,1,subscribe_save,0,bootstrapped from public catalogue
+shop,JOO3AD,PHR:olive-leaf,3,subscribe_save,0,bootstrapped from public catalogue
+shop,JOO6AD,PHR:olive-leaf,6,subscribe_save,0,bootstrapped from public catalogue
+shop,OHC,PHR:oral-health-support,1,one_time,0,bootstrapped from public catalogue
+shop,OHC1AD,PHR:oral-health-support,1,subscribe_save,0,bootstrapped from public catalogue
+shop,OHC3AD,PHR:oral-health-support,3,subscribe_save,0,bootstrapped from public catalogue
+shop,OHC6AD,PHR:oral-health-support,6,subscribe_save,0,bootstrapped from public catalogue
+shop,RME,PHR:parabroom-parasite-cleanse-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,RME1AD,PHR:parabroom-parasite-cleanse-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,RME3AD,PHR:parabroom-parasite-cleanse-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,RME6AD,PHR:parabroom-parasite-cleanse-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PRE,PHR:proflow-prostate-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PRE1AD,PHR:proflow-prostate-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PRE3AD,PHR:proflow-prostate-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PRE6AD,PHR:proflow-prostate-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PZC,PHR:purizen-body-balance-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PZC1AD,PHR:purizen-body-balance-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PZC3AD,PHR:purizen-body-balance-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PZC6AD,PHR:purizen-body-balance-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,HRGE,PHR:regrow-hair-growth-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,HRGE1AD,PHR:regrow-hair-growth-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HRGE3AD,PHR:regrow-hair-growth-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HRGE6AD,PHR:regrow-hair-growth-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SPF,PHR:sapienbiotics-probiotics-prebiotics-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,SPF1AD,PHR:sapienbiotics-probiotics-prebiotics-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SPF3AD,PHR:sapienbiotics-probiotics-prebiotics-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,SPF6AD,PHR:sapienbiotics-probiotics-prebiotics-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PJM,PHR:saw-palmetto-urinary-tract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PJZ1AD,PHR:saw-palmetto-urinary-tract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PJZ3AD,PHR:saw-palmetto-urinary-tract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PJZ6AD,PHR:saw-palmetto-urinary-tract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,JTM,PHR:shilajit-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,JTM1AD,PHR:shilajit-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,JTM3AD,PHR:shilajit-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,JTM6AD,PHR:shilajit-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SFO,PHR:sleep-formula-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,SFO1AD,PHR:sleep-formula-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SFO3AD,PHR:sleep-formula-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,SFO6AD,PHR:sleep-formula-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LKT,PHR:spirulina-chlorella-complex-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,LKT1AD,PHR:spirulina-chlorella-complex-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LKT3AD,PHR:spirulina-chlorella-complex-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LKT6AD,PHR:spirulina-chlorella-complex-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SRC,PHR:stress-relief-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,SRC1AD,PHR:stress-relief-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SRC3AD,PHR:stress-relief-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,SRC6AD,PHR:stress-relief-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TYR,PHR:thyroid-harmony-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,TYR1AD,PHR:thyroid-harmony-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TYR3AD,PHR:thyroid-harmony-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TYR6AD,PHR:thyroid-harmony-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TTC,PHR:toenail-wellness,1,one_time,0,bootstrapped from public catalogue
+shop,TTC1AD,PHR:toenail-wellness,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TTC3AD,PHR:toenail-wellness,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TTC6AD,PHR:toenail-wellness,6,subscribe_save,0,bootstrapped from public catalogue
+shop,WAO,PHR:tongkat-ali-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,WAO1AD,PHR:tongkat-ali-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,WAO3AD,PHR:tongkat-ali-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,WAO6AD,PHR:tongkat-ali-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,UHA,PHR:ultimate-heart-health-protocol,1,one_time,0,bootstrapped from public catalogue
+shop,UHA1AD,PHR:ultimate-heart-health-protocol,1,subscribe_save,0,bootstrapped from public catalogue
+shop,UHA3AD,PHR:ultimate-heart-health-protocol,3,subscribe_save,0,bootstrapped from public catalogue
+shop,UHA6AD,PHR:ultimate-heart-health-protocol,6,subscribe_save,0,bootstrapped from public catalogue
+shop,UTE,PHR:ut-fix-urinary-tract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,UTE1AD,PHR:ut-fix-urinary-tract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,UTE3AD,PHR:ut-fix-urinary-tract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,UTE6AD,PHR:ut-fix-urinary-tract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VEE,PHR:venease-vein-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,VEE1AD,PHR:venease-vein-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VEE3AD,PHR:venease-vein-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VEE6AD,PHR:venease-vein-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,YCH,PHR:yeast-protein-creatine-electrolytes,1,one_time,1,new product launched without mapping - added after alert
+shop,YCH1AD,PHR:yeast-protein-creatine-electrolytes,1,subscribe_save,1,new product launched without mapping - added after alert
+shop,YCH3AD,PHR:yeast-protein-creatine-electrolytes,3,subscribe_save,1,new product launched without mapping - added after alert
+shop,YCH6AD,PHR:yeast-protein-creatine-electrolytes,6,subscribe_save,1,new product launched without mapping - added after alert
+shop,YSO,PHR:youth-switch-longevity-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,YSO1AD,PHR:youth-switch-longevity-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,YSO3AD,PHR:youth-switch-longevity-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,YSO6AD,PHR:youth-switch-longevity-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,ATK,NHMD:activespan-longevity-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,ATK1AD,NHMD:activespan-longevity-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ATK3AD,NHMD:activespan-longevity-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ATK6AD,NHMD:activespan-longevity-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,OKN,NHMD:artichoke-extract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,OKZ1AD,NHMD:artichoke-extract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,OKZ3AD,NHMD:artichoke-extract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,OKZ6AD,NHMD:artichoke-extract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,DHM,NHMD:ashwagandha-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,DHZ1AD,NHMD:ashwagandha-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,DHZ3AD,NHMD:ashwagandha-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,DHZ6AD,NHMD:ashwagandha-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MUO,NHMD:bacopa-monnieri-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MUO1AD,NHMD:bacopa-monnieri-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MUO3AD,NHMD:bacopa-monnieri-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MUO6AD,NHMD:bacopa-monnieri-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BIO,NHMD:balance-biotics-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BIO1AD,NHMD:balance-biotics-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BIO3AD,NHMD:balance-biotics-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BIO6AD,NHMD:balance-biotics-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BFO,NHMD:bare-feet-toenail-fungus-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BFO1AD,NHMD:bare-feet-toenail-fungus-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BFO3AD,NHMD:bare-feet-toenail-fungus-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BFO6AD,NHMD:bare-feet-toenail-fungus-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BDL,NHMD:beet-root-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BDL1AD,NHMD:beet-root-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BDL3AD,NHMD:beet-root-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BDL6AD,NHMD:beet-root-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BE,NHMD:berberine-extract-supplements,1,one_time,0,bootstrapped from public catalogue
+shop,BEZ1AD,NHMD:berberine-extract-supplements,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BEZ3AD,NHMD:berberine-extract-supplements,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BEZ6AD,NHMD:berberine-extract-supplements,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BTO,NHMD:bone-complex-natural-bone-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BTO1AD,NHMD:bone-complex-natural-bone-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BTO3AD,NHMD:bone-complex-natural-bone-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BTO6AD,NHMD:bone-complex-natural-bone-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CSO,NHMD:cl-switch-supplement-for-high-cholesterol,1,one_time,0,bootstrapped from public catalogue
+shop,CSO1AD,NHMD:cl-switch-supplement-for-high-cholesterol,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CSO3AD,NHMD:cl-switch-supplement-for-high-cholesterol,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CSO6AD,NHMD:cl-switch-supplement-for-high-cholesterol,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CNU,NHMD:cleanse24-parasite-cleanse-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,CNU1AD,NHMD:cleanse24-parasite-cleanse-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CNU3AD,NHMD:cleanse24-parasite-cleanse-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CNU6AD,NHMD:cleanse24-parasite-cleanse-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TOO,NHMD:clear-toenail-oil-essential-oil-for-toenail-fungus,1,one_time,0,bootstrapped from public catalogue
+shop,TOO1AD,NHMD:clear-toenail-oil-essential-oil-for-toenail-fungus,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TOO3AD,NHMD:clear-toenail-oil-essential-oil-for-toenail-fungus,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TOO6AD,NHMD:clear-toenail-oil-essential-oil-for-toenail-fungus,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BGR,NHMD:cognilux-memory-support-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BGR1AD,NHMD:cognilux-memory-support-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BGR3AD,NHMD:cognilux-memory-support-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BGR6AD,NHMD:cognilux-memory-support-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CMO,NHMD:curcumin-extract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,CMO1AD,NHMD:curcumin-extract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CMO3AD,NHMD:curcumin-extract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CMO6AD,NHMD:curcumin-extract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VXP,NHMD:daily-multivitamins,1,one_time,0,bootstrapped from public catalogue
+shop,VXP1AD,NHMD:daily-multivitamins,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VXP3AD,NHMD:daily-multivitamins,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VXP6AD,NHMD:daily-multivitamins,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PQO,NHMD:elderberry-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PQO1AD,NHMD:elderberry-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PQO3AD,NHMD:elderberry-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PQO6AD,NHMD:elderberry-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,FTO,NHMD:flow-active-prostate-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,FTO1AD,NHMD:flow-active-prostate-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,FTO3AD,NHMD:flow-active-prostate-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,FTO6AD,NHMD:flow-active-prostate-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,GOO,NHMD:garlic-bulb-extract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,GOO1AD,NHMD:garlic-bulb-extract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GOO3AD,NHMD:garlic-bulb-extract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GOO6AD,NHMD:garlic-bulb-extract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,GCO,NHMD:ginseng-energy-and-stamina-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,GCO1AD,NHMD:ginseng-energy-and-stamina-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GCO3AD,NHMD:ginseng-energy-and-stamina-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GCO6AD,NHMD:ginseng-energy-and-stamina-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BRE,NHMD:gluco24-blood-sugar-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BRE1AD,NHMD:gluco24-blood-sugar-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BRE3AD,NHMD:gluco24-blood-sugar-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BRE6AD,NHMD:gluco24-blood-sugar-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,ZLO,NHMD:greens-gut-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,ZLO1AD,NHMD:greens-gut-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ZLO3AD,NHMD:greens-gut-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ZLO6AD,NHMD:greens-gut-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,HSE,NHMD:hair-switch-hair-growth-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,HSE1AD,NHMD:hair-switch-hair-growth-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HSE3AD,NHMD:hair-switch-hair-growth-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HSE6AD,NHMD:hair-switch-hair-growth-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,ODM,NHMD:hawthorn-natural-herbal-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,ODZ1AD,NHMD:hawthorn-natural-herbal-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ODZ3AD,NHMD:hawthorn-natural-herbal-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ODZ6AD,NHMD:hawthorn-natural-herbal-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,HPO,NHMD:hearplus-hearing-support-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,HPO1AD,NHMD:hearplus-hearing-support-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HPO3AD,NHMD:hearplus-hearing-support-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HPO6AD,NHMD:hearplus-hearing-support-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PHCP,NHMD:hydration-creatine-electrolyte-replacement-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PHCP1AD,NHMD:hydration-creatine-electrolyte-replacement-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PHCP3AD,NHMD:hydration-creatine-electrolyte-replacement-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PHCP6AD,NHMD:hydration-creatine-electrolyte-replacement-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,IMDP,NHMD:immunomd-immune-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,IMDP1AD,NHMD:immunomd-immune-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,IMDP3AD,NHMD:immunomd-immune-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,IMDP6AD,NHMD:immunomd-immune-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,IONS,NHMD:inside-and-out-nail-support,1,one_time,0,bootstrapped from public catalogue
+shop,IONS1AD,NHMD:inside-and-out-nail-support,1,subscribe_save,0,bootstrapped from public catalogue
+shop,IONS3AD,NHMD:inside-and-out-nail-support,3,subscribe_save,0,bootstrapped from public catalogue
+shop,IONS6AD,NHMD:inside-and-out-nail-support,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VCO,NHMD:iron-supplement-with-vitamin-c,1,one_time,0,bootstrapped from public catalogue
+shop,VCO1AD,NHMD:iron-supplement-with-vitamin-c,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VCO3AD,NHMD:iron-supplement-with-vitamin-c,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VCO6AD,NHMD:iron-supplement-with-vitamin-c,6,subscribe_save,0,bootstrapped from public catalogue
+shop,JCE,NHMD:joint-complex-joint-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,JCE1AD,NHMD:joint-complex-joint-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,JCE3AD,NHMD:joint-complex-joint-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,JCE6AD,NHMD:joint-complex-joint-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,KTO,NHMD:keto-md-keto-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,KTO1AD,NHMD:keto-md-keto-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KTO3AD,NHMD:keto-md-keto-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,KTO6AD,NHMD:keto-md-keto-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,KVO,NHMD:kidney-vitality-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,KVO1AD,NHMD:kidney-vitality-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KVO3AD,NHMD:kidney-vitality-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,KVO6AD,NHMD:kidney-vitality-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LRG,NHMD:liver-renew-liver-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,LRG1AD,NHMD:liver-renew-liver-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LRG3AD,NHMD:liver-renew-liver-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LRG6AD,NHMD:liver-renew-liver-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LNGBXM,NHMD:longevity-bundle,1,one_time,0,bootstrapped from public catalogue
+shop,LNGBXM1AD,NHMD:longevity-bundle,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LNGBXM3AD,NHMD:longevity-bundle,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LNGBXM6AD,NHMD:longevity-bundle,6,subscribe_save,0,bootstrapped from public catalogue
+shop,NEN,NHMD:lycopene-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,NEX1AD,NHMD:lycopene-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,NEX3AD,NHMD:lycopene-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,NEX6AD,NHMD:lycopene-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LYMD,NHMD:lymph-md,1,one_time,0,bootstrapped from public catalogue
+shop,LYMD1AD,NHMD:lymph-md,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LYMD3AD,NHMD:lymph-md,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LYMD6AD,NHMD:lymph-md,6,subscribe_save,0,bootstrapped from public catalogue
+shop,NU,NHMD:magnesium-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,NUZ1AD,NHMD:magnesium-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,NUZ3AD,NHMD:magnesium-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,NUZ6AD,NHMD:magnesium-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CK,NHMD:matcha-antioxidant-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,CKZ1AD,NHMD:matcha-antioxidant-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CKZ3AD,NHMD:matcha-antioxidant-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CKZ6AD,NHMD:matcha-antioxidant-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MLP,NHMD:menoverra-natural-menopause-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MLP1AD,NHMD:menoverra-natural-menopause-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MLP3AD,NHMD:menoverra-natural-menopause-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MLP6AD,NHMD:menoverra-natural-menopause-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MRB,NHMD:mens-drive-male-virility-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MRB1AD,NHMD:mens-drive-male-virility-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MRB3AD,NHMD:mens-drive-male-virility-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MRB6AD,NHMD:mens-drive-male-virility-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MWO,NHMD:moringa-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MWO1AD,NHMD:moringa-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MWO3AD,NHMD:moringa-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MWO6AD,NHMD:moringa-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,NGR,NHMD:n-balance8-nerve-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,NGR1AD,NHMD:n-balance8-nerve-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,NGR3AD,NHMD:n-balance8-nerve-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,NGR6AD,NHMD:n-balance8-nerve-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BJM,NHMD:natural-holy-basil-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,BJZ1AD,NHMD:natural-holy-basil-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,BJZ3AD,NHMD:natural-holy-basil-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,BJZ6AD,NHMD:natural-holy-basil-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,NPO,NHMD:nootropeak-mushroom-brain-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,NPO1AD,NHMD:nootropeak-mushroom-brain-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,NPO3AD,NHMD:nootropeak-mushroom-brain-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,NPO6AD,NHMD:nootropeak-mushroom-brain-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,OLO,NHMD:olive-leaf-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,OLO1AD,NHMD:olive-leaf-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,OLO3AD,NHMD:olive-leaf-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,OLO6AD,NHMD:olive-leaf-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,OMP,NHMD:omega-3-md-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,OMP1AD,NHMD:omega-3-md-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,OMP3AD,NHMD:omega-3-md-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,OMP6AD,NHMD:omega-3-md-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PTP,NHMD:prebiotics-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PTP1AD,NHMD:prebiotics-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PTP3AD,NHMD:prebiotics-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PTP6AD,NHMD:prebiotics-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,ROO,NHMD:reds-metabolism-boosting-supplements,1,one_time,0,bootstrapped from public catalogue
+shop,ROO1AD,NHMD:reds-metabolism-boosting-supplements,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ROO3AD,NHMD:reds-metabolism-boosting-supplements,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ROO6AD,NHMD:reds-metabolism-boosting-supplements,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MPO,NHMD:saw-palmetto-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MPO1AD,NHMD:saw-palmetto-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MPO3AD,NHMD:saw-palmetto-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MPO6AD,NHMD:saw-palmetto-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,JKO,NHMD:shilajit-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,JKO1AD,NHMD:shilajit-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,JKO3AD,NHMD:shilajit-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,JKO6AD,NHMD:shilajit-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MNO,NHMD:spirulina-chlorella-complex-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MNO1AD,NHMD:spirulina-chlorella-complex-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MNO3AD,NHMD:spirulina-chlorella-complex-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,MNO6AD,NHMD:spirulina-chlorella-complex-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SEP,NHMD:stress-support-essentials-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,SEP1AD,NHMD:stress-support-essentials-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SEP3AD,NHMD:stress-support-essentials-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,SEP6AD,NHMD:stress-support-essentials-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,FGC,NHMD:t-forge-natural-energy-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,FGC1AD,NHMD:t-forge-natural-energy-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,FGC3AD,NHMD:t-forge-natural-energy-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,FGC6AD,NHMD:t-forge-natural-energy-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TSP,NHMD:thyro-support-thyroid-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,TSP1AD,NHMD:thyro-support-thyroid-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TSP3AD,NHMD:thyro-support-thyroid-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TSP6AD,NHMD:thyro-support-thyroid-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,QAL,NHMD:tongkat-ali-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,QAZ1AD,NHMD:tongkat-ali-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,QAZ3AD,NHMD:tongkat-ali-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,QAZ6AD,NHMD:tongkat-ali-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,UBR,NHMD:urobliss-urinary-tract-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,UBR1AD,NHMD:urobliss-urinary-tract-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,UBR3AD,NHMD:urobliss-urinary-tract-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,UBR6AD,NHMD:urobliss-urinary-tract-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VRE,NHMD:veinrenew-vein-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,VRE1AD,NHMD:veinrenew-vein-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VRE3AD,NHMD:veinrenew-vein-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VRE6AD,NHMD:veinrenew-vein-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VNK,NHMD:vision-nutri-complex-eye-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,VNK1AD,NHMD:vision-nutri-complex-eye-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VNK3AD,NHMD:vision-nutri-complex-eye-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VNK6AD,NHMD:vision-nutri-complex-eye-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,WMNBSB,NHMD:weight-management-bundle,1,one_time,0,bootstrapped from public catalogue
+shop,WMNBSB1ADS,NHMD:weight-management-bundle,1,subscribe_save,0,bootstrapped from public catalogue
+shop,WMNBSB3ADS,NHMD:weight-management-bundle,3,subscribe_save,0,bootstrapped from public catalogue
+shop,WMNBSB6ADS,NHMD:weight-management-bundle,6,subscribe_save,0,bootstrapped from public catalogue
+shop,BCHBUN,PUR:cellular-glow-thermal-beauty-duo-bundle,1,one_time,0,bootstrapped from public catalogue
+shop,CHO,PUR:cellular-hydration-serum,1,one_time,0,bootstrapped from public catalogue
+shop,CHO1AD,PUR:cellular-hydration-serum,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CHO2AD,PUR:cellular-hydration-serum,2,subscribe_save,0,bootstrapped from public catalogue
+shop,CHO3AD,PUR:cellular-hydration-serum,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CRAN,PUR:cellular-restore-serum,1,one_time,0,bootstrapped from public catalogue
+shop,CRAN1AD,PUR:cellular-restore-serum,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CRAN2AD,PUR:cellular-restore-serum,2,subscribe_save,0,bootstrapped from public catalogue
+shop,CRAN3AD,PUR:cellular-restore-serum,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CXN,PUR:circulex-vein-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,CXN1AD,PUR:circulex-vein-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CXN3AD,PUR:circulex-vein-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CXN6AD,PUR:circulex-vein-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CMROL,PUR:contour-massage-roller,1,one_time,0,bootstrapped from public catalogue
+shop,DSO,PUR:deepsea-collagen-marine-collagen-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,DSO1AD,PUR:deepsea-collagen-marine-collagen-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,DSO3AD,PUR:deepsea-collagen-marine-collagen-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,DSO6AD,PUR:deepsea-collagen-marine-collagen-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,DXO,PUR:dermaluxe-hydrolyzed-collagen-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,DXO1AD,PUR:dermaluxe-hydrolyzed-collagen-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,DXO3AD,PUR:dermaluxe-hydrolyzed-collagen-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,DXO6AD,PUR:dermaluxe-hydrolyzed-collagen-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,FWP,PUR:even-flow-lymphatic-support-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,FWP1AD,PUR:even-flow-lymphatic-support-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,FWP3AD,PUR:even-flow-lymphatic-support-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,FWP6AD,PUR:even-flow-lymphatic-support-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,EGI,PUR:even-glow,1,one_time,0,bootstrapped from public catalogue
+shop,EGI1AD,PUR:even-glow,1,subscribe_save,0,bootstrapped from public catalogue
+shop,EGI2AD,PUR:even-glow,2,subscribe_save,0,bootstrapped from public catalogue
+shop,EGI3AD,PUR:even-glow,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HRG,PUR:fine-lines-saggy-skin-system,1,one_time,0,bootstrapped from public catalogue
+shop,HRG1AD,PUR:fine-lines-saggy-skin-system,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HRG2AD,PUR:fine-lines-saggy-skin-system,2,subscribe_save,0,bootstrapped from public catalogue
+shop,HRG3AD,PUR:fine-lines-saggy-skin-system,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PUN,PUR:gentle-cleansing-foam,1,one_time,0,bootstrapped from public catalogue
+shop,PUN1AD,PUR:gentle-cleansing-foam,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PUN3AD,PUR:gentle-cleansing-foam,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PUN6AD,PUR:gentle-cleansing-foam,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GCER50,PUR:gift-certificates,1,one_time,0,bootstrapped from public catalogue
+shop,GCER100,PUR:gift-certificates,2,one_time,0,bootstrapped from public catalogue
+shop,PRNGFBN,PUR:giftbox,1,one_time,0,bootstrapped from public catalogue
+shop,HBMO,PUR:hair-re-bond-mask,1,one_time,0,bootstrapped from public catalogue
+shop,HBMO1AD,PUR:hair-re-bond-mask,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HBMO3AD,PUR:hair-re-bond-mask,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HBMO6AD,PUR:hair-re-bond-mask,6,subscribe_save,0,bootstrapped from public catalogue
+shop,HTO,PUR:hair-therapy-scalp-nourishment-moisturizing-oil,1,one_time,0,bootstrapped from public catalogue
+shop,HTO1AD,PUR:hair-therapy-scalp-nourishment-moisturizing-oil,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HTO3AD,PUR:hair-therapy-scalp-nourishment-moisturizing-oil,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HTO6AD,PUR:hair-therapy-scalp-nourishment-moisturizing-oil,6,subscribe_save,0,bootstrapped from public catalogue
+shop,HLO,PUR:hairlux-supplement-for-hair-growth,1,one_time,0,bootstrapped from public catalogue
+shop,HLO1AD,PUR:hairlux-supplement-for-hair-growth,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HLO3AD,PUR:hairlux-supplement-for-hair-growth,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HLO6AD,PUR:hairlux-supplement-for-hair-growth,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CBIK,PUR:hot-cold-beauty-device,1,one_time,0,bootstrapped from public catalogue
+shop,HDO,PUR:hydracleanse-deep-clean-detox-shampoo,1,one_time,0,bootstrapped from public catalogue
+shop,HDO1AD,PUR:hydracleanse-deep-clean-detox-shampoo,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HDO3AD,PUR:hydracleanse-deep-clean-detox-shampoo,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HDO6AD,PUR:hydracleanse-deep-clean-detox-shampoo,6,subscribe_save,0,bootstrapped from public catalogue
+shop,KOE,PUR:hydralift-volumizing-shampoo,1,one_time,0,bootstrapped from public catalogue
+shop,KOE1AD,PUR:hydralift-volumizing-shampoo,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KOE3AD,PUR:hydralift-volumizing-shampoo,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KOE6AD,PUR:hydralift-volumizing-shampoo,1,subscribe_save,0,bootstrapped from public catalogue
+shop,COE,PUR:hydrasilk-moisturizing-conditioner,1,one_time,0,bootstrapped from public catalogue
+shop,COE1AD,PUR:hydrasilk-moisturizing-conditioner,1,subscribe_save,0,bootstrapped from public catalogue
+shop,COE3AD,PUR:hydrasilk-moisturizing-conditioner,1,subscribe_save,0,bootstrapped from public catalogue
+shop,COE6AD,PUR:hydrasilk-moisturizing-conditioner,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KSMN,PUR:keratin-shine-mist,1,one_time,0,bootstrapped from public catalogue
+shop,KSMN1AD,PUR:keratin-shine-mist,1,subscribe_save,0,bootstrapped from public catalogue
+shop,KSMN3AD,PUR:keratin-shine-mist,3,subscribe_save,0,bootstrapped from public catalogue
+shop,KSMN6AD,PUR:keratin-shine-mist,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LGW,PUR:lift-and-glow,1,one_time,0,bootstrapped from public catalogue
+shop,LGW1AD,PUR:lift-and-glow,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LGW2AD,PUR:lift-and-glow,2,subscribe_save,0,bootstrapped from public catalogue
+shop,LGW3AD,PUR:lift-and-glow,3,subscribe_save,0,bootstrapped from public catalogue
+shop,COKOK,PUR:moisturizing-hydralift-shampoo-hydrasilk-conditioner,1,one_time,0,bootstrapped from public catalogue
+shop,COKOK1AD,PUR:moisturizing-hydralift-shampoo-hydrasilk-conditioner,1,subscribe_save,0,bootstrapped from public catalogue
+shop,COKOK2AD,PUR:moisturizing-hydralift-shampoo-hydrasilk-conditioner,2,subscribe_save,0,bootstrapped from public catalogue
+shop,COKOK3AD,PUR:moisturizing-hydralift-shampoo-hydrasilk-conditioner,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PPF,PUR:peptide-fusion-face-cream,1,one_time,0,bootstrapped from public catalogue
+shop,PPF1AD,PUR:peptide-fusion-face-cream,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PPF2AD,PUR:peptide-fusion-face-cream,2,subscribe_save,0,bootstrapped from public catalogue
+shop,PPF3AD,PUR:peptide-fusion-face-cream,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PSO,PUR:serene-probiotics-natural-probiotic-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PSO1AD,PUR:serene-probiotics-natural-probiotic-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PSO3AD,PUR:serene-probiotics-natural-probiotic-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PSO6AD,PUR:serene-probiotics-natural-probiotic-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,RYLGN,PUR:under-eye-renewal-system,1,one_time,0,bootstrapped from public catalogue
+shop,RYLGN1AD,PUR:under-eye-renewal-system,1,subscribe_save,0,bootstrapped from public catalogue
+shop,RYLGN2AD,PUR:under-eye-renewal-system,2,subscribe_save,0,bootstrapped from public catalogue
+shop,RYLGN3AD,PUR:under-eye-renewal-system,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TBPB1,TRU:bone-broth-protein,1,one_time,0,bootstrapped from public catalogue
+shop,TBPB6B,TRU:bone-broth-protein,6,one_time,0,bootstrapped from public catalogue
+shop,TBPB1SS,TRU:bone-broth-protein,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TBPB3SS,TRU:bone-broth-protein,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TBPB6SS,TRU:bone-broth-protein,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TIC1,TRU:creatine,1,one_time,0,bootstrapped from public catalogue
+shop,TIC3,TRU:creatine,3,one_time,0,bootstrapped from public catalogue
+shop,TIC6,TRU:creatine,6,one_time,0,bootstrapped from public catalogue
+shop,TIC1SS,TRU:creatine,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TIC3SS,TRU:creatine,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TIC6SS,TRU:creatine,6,subscribe_save,0,bootstrapped from public catalogue
+shop,RGMB1,TRU:greens-and-reds-powders,1,one_time,0,bootstrapped from public catalogue
+shop,RGMBAD1,TRU:greens-and-reds-powders,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TGJ,TRU:metabolic-greens,1,one_time,0,bootstrapped from public catalogue
+shop,TGJ6,TRU:metabolic-greens,6,one_time,0,bootstrapped from public catalogue
+shop,TGJ1SS,TRU:metabolic-greens,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TGJ3SS,TRU:metabolic-greens,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TGJ6SS,TRU:metabolic-greens,6,subscribe_save,0,bootstrapped from public catalogue
+shop,RT,TRU:metabolic-reds,1,one_time,0,bootstrapped from public catalogue
+shop,RT6,TRU:metabolic-reds,6,one_time,0,bootstrapped from public catalogue
+shop,RT1SS,TRU:metabolic-reds,1,subscribe_save,0,bootstrapped from public catalogue
+shop,RT3SS,TRU:metabolic-reds,3,subscribe_save,0,bootstrapped from public catalogue
+shop,RT6SS,TRU:metabolic-reds,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MX,TRU:mixer,1,one_time,0,bootstrapped from public catalogue
+shop,TPRSH1,TRU:performance-recovery-set,1,one_time,0,bootstrapped from public catalogue
+shop,TPRSH1SS,TRU:performance-recovery-set,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TW1,TRU:pre-workout,1,one_time,0,bootstrapped from public catalogue
+shop,TW6,TRU:pre-workout,6,one_time,0,bootstrapped from public catalogue
+shop,TW1SS,TRU:pre-workout,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TW3SS,TRU:pre-workout,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TW6SS,TRU:pre-workout,6,subscribe_save,0,bootstrapped from public catalogue
+shop,TVR1,TRU:recovery,1,one_time,0,bootstrapped from public catalogue
+shop,TVR6,TRU:recovery,6,one_time,0,bootstrapped from public catalogue
+shop,TVR1SS,TRU:recovery,1,subscribe_save,0,bootstrapped from public catalogue
+shop,TVR3SS,TRU:recovery,3,subscribe_save,0,bootstrapped from public catalogue
+shop,TVR6SS,TRU:recovery,6,subscribe_save,0,bootstrapped from public catalogue
+shop,ESBNDSN,PET:anti-inflammatory-daily-bundle,1,one_time,0,bootstrapped from public catalogue
+shop,ESBNDSN1AD,PET:anti-inflammatory-daily-bundle,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ESBNDSN2AD,PET:anti-inflammatory-daily-bundle,2,subscribe_save,0,bootstrapped from public catalogue
+shop,ESBNDSN3AD,PET:anti-inflammatory-daily-bundle,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CFOF,PET:calm-soft-dog-chews,1,one_time,0,bootstrapped from public catalogue
+shop,CFOF1AD,PET:calm-soft-dog-chews,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CFOF3AD,PET:calm-soft-dog-chews,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CFOF6AD,PET:calm-soft-dog-chews,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CTDM,PET:dog-ear-cleaner-wipes,1,one_time,0,bootstrapped from public catalogue
+shop,CTDY1AD,PET:dog-ear-cleaner-wipes,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CTDY3AD,PET:dog-ear-cleaner-wipes,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CTDY6AD,PET:dog-ear-cleaner-wipes,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ESBNDN,PET:essential-start-bundle,1,one_time,0,bootstrapped from public catalogue
+shop,ESBNDN1AD,PET:essential-start-bundle,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ESBNDN2AD,PET:essential-start-bundle,2,subscribe_save,0,bootstrapped from public catalogue
+shop,ESBNDN3AD,PET:essential-start-bundle,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HJFB,PET:hip-and-joint-formula,1,one_time,0,bootstrapped from public catalogue
+shop,HJFB1AD,PET:hip-and-joint-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HJFB3AD,PET:hip-and-joint-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HJFB6AD,PET:hip-and-joint-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PLOC,PET:longevity-formula,1,one_time,0,bootstrapped from public catalogue
+shop,PLOC1AD,PET:longevity-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PLOC3AD,PET:longevity-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PLOC6AD,PET:longevity-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,POFO,PET:omega-3-plus-formula,1,one_time,0,bootstrapped from public catalogue
+shop,POFO1AD,PET:omega-3-plus-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,POFO3AD,PET:omega-3-plus-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,POFO6AD,PET:omega-3-plus-formula,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CCO,NBL:cardiora-heart-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,CCO1AD,NBL:cardiora-heart-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CCO3AD,NBL:cardiora-heart-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,CCO6AD,NBL:cardiora-heart-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,CGA,NBL:cognicharge-brain-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,CGA1AD,NBL:cognicharge-brain-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,CGA2AD,NBL:cognicharge-brain-health-supplement,2,subscribe_save,0,bootstrapped from public catalogue
+shop,CGA3AD,NBL:cognicharge-brain-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GPO,NBL:gluco-powder-glucose-control-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,GPO1AD,NBL:gluco-powder-glucose-control-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,GPO3AD,NBL:gluco-powder-glucose-control-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,GPO6AD,NBL:gluco-powder-glucose-control-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,HVO,NBL:hairvive-hair-growth-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,HVO1AD,NBL:hairvive-hair-growth-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,HVO3AD,NBL:hairvive-hair-growth-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,HVO6AD,NBL:hairvive-hair-growth-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LVE,NBL:liver-360-liver-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,LVE1AD,NBL:liver-360-liver-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LVE3AD,NBL:liver-360-liver-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LVE6AD,NBL:liver-360-liver-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,LPE,NBL:lymph-go-lymphatic-support-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,LPE1AD,NBL:lymph-go-lymphatic-support-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,LPE3AD,NBL:lymph-go-lymphatic-support-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,LPE6AD,NBL:lymph-go-lymphatic-support-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,PMO,NBL:man-pulse-mens-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PMO1AD,NBL:man-pulse-mens-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PMO3AD,NBL:man-pulse-mens-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PMO6AD,NBL:man-pulse-mens-health-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,ZDO,NBL:metabolic-greens-superfood-powder,1,one_time,0,bootstrapped from public catalogue
+shop,ZDO1AD,NBL:metabolic-greens-superfood-powder,1,subscribe_save,0,bootstrapped from public catalogue
+shop,ZDO3AD,NBL:metabolic-greens-superfood-powder,3,subscribe_save,0,bootstrapped from public catalogue
+shop,ZDO6AD,NBL:metabolic-greens-superfood-powder,6,subscribe_save,0,bootstrapped from public catalogue
+shop,RAO,NBL:metabolic-reds-superfood-powder,1,one_time,0,bootstrapped from public catalogue
+shop,RAO1AD,NBL:metabolic-reds-superfood-powder,1,subscribe_save,0,bootstrapped from public catalogue
+shop,RAO3AD,NBL:metabolic-reds-superfood-powder,3,subscribe_save,0,bootstrapped from public catalogue
+shop,RAO6AD,NBL:metabolic-reds-superfood-powder,6,subscribe_save,0,bootstrapped from public catalogue
+shop,MBA,NBL:motion-bliss-joint-health-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,MBA1AD,NBL:motion-bliss-joint-health-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,MBA2AD,NBL:motion-bliss-joint-health-supplement,2,subscribe_save,0,bootstrapped from public catalogue
+shop,MBA3AD,NBL:motion-bliss-joint-health-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PAO,NBL:paratarget-parasite-cleanse-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,PAO1AD,NBL:paratarget-parasite-cleanse-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,PAO3AD,NBL:paratarget-parasite-cleanse-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,PAO6AD,NBL:paratarget-parasite-cleanse-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SUT,NBL:shape-fusion-appetite-suppressant-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,SUT1AD,NBL:shape-fusion-appetite-suppressant-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SUT3AD,NBL:shape-fusion-appetite-suppressant-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,SUT6AD,NBL:shape-fusion-appetite-suppressant-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,SMA,NBL:sight-max-vision-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,SMA1AD,NBL:sight-max-vision-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,SMA2AD,NBL:sight-max-vision-supplement,2,subscribe_save,0,bootstrapped from public catalogue
+shop,SMA3AD,NBL:sight-max-vision-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,YKO,NBL:youthspark-longevity-supplement,1,one_time,0,bootstrapped from public catalogue
+shop,YKO1AD,NBL:youthspark-longevity-supplement,1,subscribe_save,0,bootstrapped from public catalogue
+shop,YKO3AD,NBL:youthspark-longevity-supplement,3,subscribe_save,0,bootstrapped from public catalogue
+shop,YKO6AD,NBL:youthspark-longevity-supplement,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPA1,VPK:artichoke-extract,1,one_time,0,bootstrapped from public catalogue
+shop,VPA3,VPK:artichoke-extract,3,one_time,0,bootstrapped from public catalogue
+shop,VPA6,VPK:artichoke-extract,6,one_time,0,bootstrapped from public catalogue
+shop,VPA1AD,VPK:artichoke-extract,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPA3AD,VPK:artichoke-extract,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPA6AD,VPK:artichoke-extract,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPBP1,VPK:brain-peak,1,one_time,0,bootstrapped from public catalogue
+shop,VPBP3,VPK:brain-peak,3,one_time,0,bootstrapped from public catalogue
+shop,VPBP6,VPK:brain-peak,6,one_time,0,bootstrapped from public catalogue
+shop,VPBP1AD,VPK:brain-peak,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPBP3AD,VPK:brain-peak,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPBP6AD,VPK:brain-peak,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPEP1,VPK:elderberry-peak,1,one_time,0,bootstrapped from public catalogue
+shop,VPEP3,VPK:elderberry-peak,3,one_time,0,bootstrapped from public catalogue
+shop,VPEP6,VPK:elderberry-peak,6,one_time,0,bootstrapped from public catalogue
+shop,VPEP1AD,VPK:elderberry-peak,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPEP3AD,VPK:elderberry-peak,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPEP6AD,VPK:elderberry-peak,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPHP1,VPK:hair-peak,1,one_time,0,bootstrapped from public catalogue
+shop,VPHP3,VPK:hair-peak,3,one_time,0,bootstrapped from public catalogue
+shop,VPHP6,VPK:hair-peak,6,one_time,0,bootstrapped from public catalogue
+shop,VPHP1AD,VPK:hair-peak,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPHP3AD,VPK:hair-peak,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPHP6AD,VPK:hair-peak,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPLCD1,VPK:liver-cleanse-detox,1,one_time,0,bootstrapped from public catalogue
+shop,VPLCD3,VPK:liver-cleanse-detox,3,one_time,0,bootstrapped from public catalogue
+shop,VPLCD6,VPK:liver-cleanse-detox,6,one_time,0,bootstrapped from public catalogue
+shop,VPLCD1AD,VPK:liver-cleanse-detox,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPLCD3AD,VPK:liver-cleanse-detox,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPLCD6AD,VPK:liver-cleanse-detox,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPLP1,VPK:longevity-peak,1,one_time,0,bootstrapped from public catalogue
+shop,VPLP3,VPK:longevity-peak,3,one_time,0,bootstrapped from public catalogue
+shop,VPLP6,VPK:longevity-peak,6,one_time,0,bootstrapped from public catalogue
+shop,VPLP1AD,VPK:longevity-peak,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPLP3AD,VPK:longevity-peak,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPLP6AD,VPK:longevity-peak,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPMT1,VPK:milk-thistle-extract,1,one_time,0,bootstrapped from public catalogue
+shop,VPMT3,VPK:milk-thistle-extract,3,one_time,0,bootstrapped from public catalogue
+shop,VPMT6,VPK:milk-thistle-extract,6,one_time,0,bootstrapped from public catalogue
+shop,VPMT1AD,VPK:milk-thistle-extract,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPMT3AD,VPK:milk-thistle-extract,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPMT6AD,VPK:milk-thistle-extract,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPOG1,VPK:odorless-garlic-extract,1,one_time,0,bootstrapped from public catalogue
+shop,VPOG3,VPK:odorless-garlic-extract,3,one_time,0,bootstrapped from public catalogue
+shop,VPOG6,VPK:odorless-garlic-extract,6,one_time,0,bootstrapped from public catalogue
+shop,VPOG1AD,VPK:odorless-garlic-extract,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPOG3AD,VPK:odorless-garlic-extract,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPOG6AD,VPK:odorless-garlic-extract,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPP1,VPK:paracleanse,1,one_time,0,bootstrapped from public catalogue
+shop,VPP3,VPK:paracleanse,3,one_time,0,bootstrapped from public catalogue
+shop,VPP6,VPK:paracleanse,6,one_time,0,bootstrapped from public catalogue
+shop,VPP1AD,VPK:paracleanse,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPP3AD,VPK:paracleanse,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPP6AD,VPK:paracleanse,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPTP1,VPK:toenail-peak,1,one_time,0,bootstrapped from public catalogue
+shop,VPTP3,VPK:toenail-peak,3,one_time,0,bootstrapped from public catalogue
+shop,VPTP6,VPK:toenail-peak,6,one_time,0,bootstrapped from public catalogue
+shop,VPTP1AD,VPK:toenail-peak,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPTP3AD,VPK:toenail-peak,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPTP6AD,VPK:toenail-peak,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPTC1,VPK:turmeric-curcumin-extract,1,one_time,0,bootstrapped from public catalogue
+shop,VPTC3,VPK:turmeric-curcumin-extract,3,one_time,0,bootstrapped from public catalogue
+shop,VPTC6,VPK:turmeric-curcumin-extract,6,one_time,0,bootstrapped from public catalogue
+shop,VPTC1AD,VPK:turmeric-curcumin-extract,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPTC3AD,VPK:turmeric-curcumin-extract,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPTC6AD,VPK:turmeric-curcumin-extract,6,subscribe_save,0,bootstrapped from public catalogue
+shop,VPVCB1,VPK:vein-care-blend,1,one_time,0,bootstrapped from public catalogue
+shop,VPVCB3,VPK:vein-care-blend,3,one_time,0,bootstrapped from public catalogue
+shop,VPVCB6,VPK:vein-care-blend,6,one_time,0,bootstrapped from public catalogue
+shop,VPVCB1AD,VPK:vein-care-blend,1,subscribe_save,0,bootstrapped from public catalogue
+shop,VPVCB3AD,VPK:vein-care-blend,3,subscribe_save,0,bootstrapped from public catalogue
+shop,VPVCB6AD,VPK:vein-care-blend,6,subscribe_save,0,bootstrapped from public catalogue
+warehouse,WH-PHR-10000,PHR:ageless-brain-health-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10007,PHR:artichoke-extract-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10014,PHR:ashwagandha-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10021,PHR:bacopa-monnieri,1,any,0,3PL item master
+warehouse,WH-PHR-10028,PHR:beet-root-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10035,PHR:berberine-extract-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10042,PHR:blood-sugar-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10049,PHR:bone-broth-protein-powder,1,any,0,3PL item master
+warehouse,WH-PHR-10056,PHR:bone-health-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10063,PHR:breathecore-clear-lungs-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10070,PHR:cl-balance-supplement-for-high-cholesterol,1,any,0,3PL item master
+warehouse,WH-PHR-10077,PHR:comfortiq,1,any,0,3PL item master
+warehouse,WH-PHR-10084,PHR:complete-omega-3,1,any,0,3PL item master
+warehouse,WH-PHR-10091,PHR:complete-vision-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10098,PHR:cortisol-capsules,1,any,0,3PL item master
+warehouse,WH-PHR-10105,PHR:creatine-monohydrate-powder-agilance,1,any,0,3PL item master
+warehouse,WH-PHR-10112,PHR:curbfit-appetite-suppressant-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10119,PHR:curcumin-extract-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10126,PHR:daily-multivitamins,1,any,0,3PL item master
+warehouse,WH-PHR-10133,PHR:dermal-restore-repair-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10140,PHR:earcare-ear-comfort-drops,1,any,0,3PL item master
+warehouse,WH-PHR-10147,PHR:elderberry-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10154,PHR:every-beat-heart-health-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10161,PHR:express-weight-loss-system,1,any,0,3PL item master
+warehouse,WH-PHR-10168,PHR:exuberant,1,any,0,3PL item master
+warehouse,WH-PHR-10175,PHR:fast-enzymes-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10182,PHR:fit-on-powder-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10189,PHR:formidable-fungus-protocol,1,any,0,3PL item master
+warehouse,WH-PHR-10196,PHR:fullswitch-natural-glp-capsules,1,any,0,3PL item master
+warehouse,WH-PHR-10203,PHR:fungus-eliminator-toenail-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10210,PHR:garlic-bulb-extract-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10217,PHR:gastro-health-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10224,PHR:ginseng-energy-and-focus-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10231,PHR:gut-support-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10238,PHR:hawthorn,1,any,0,3PL item master
+warehouse,WH-PHR-10245,PHR:hearing-support-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10252,PHR:holy-basil-holistic-health-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10259,PHR:immune-health-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10266,PHR:improbiome-glp-digestive-health-capsules,1,any,0,3PL item master
+warehouse,WH-PHR-10273,PHR:iron-supplement-with-vitamin-c,1,any,0,3PL item master
+warehouse,WH-PHR-10280,PHR:joint-support-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10287,PHR:keto-formula,1,any,0,3PL item master
+warehouse,WH-PHR-10294,PHR:kidney-health-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10301,PHR:kombucha-tea-powder,1,any,0,3PL item master
+warehouse,WH-PHR-10308,PHR:liver-health-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10315,PHR:lycopene-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10322,PHR:lymph-system-support,1,any,0,3PL item master
+warehouse,WH-PHR-10329,PHR:magnesium-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10336,PHR:marine-collagen-booster-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10343,PHR:matcha-green-tea-capsules,1,any,0,3PL item master
+warehouse,WH-PHR-10350,PHR:menoharmony-menopause-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10357,PHR:metabolic-greens-plus,1,any,0,3PL item master
+warehouse,WH-PHR-10364,PHR:metabolic-reds,1,any,0,3PL item master
+warehouse,WH-PHR-10371,PHR:metal-detox-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10378,PHR:moringa-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10385,PHR:nerve-regeneration-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10392,PHR:nmn-resveratrol-cellular-longevity-complex,1,any,0,3PL item master
+warehouse,WH-PHR-10399,PHR:nootropic-mushroom-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10406,PHR:olive-leaf,1,any,0,3PL item master
+warehouse,WH-PHR-10413,PHR:oral-health-support,1,any,0,3PL item master
+warehouse,WH-PHR-10420,PHR:parabroom-parasite-cleanse-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10427,PHR:proflow-prostate-health-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10434,PHR:purizen-body-balance-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10441,PHR:regrow-hair-growth-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10448,PHR:sapienbiotics-probiotics-prebiotics-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10455,PHR:saw-palmetto-urinary-tract-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10462,PHR:shilajit-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10469,PHR:sleep-formula-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10476,PHR:spirulina-chlorella-complex-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10483,PHR:stress-relief-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10490,PHR:thyroid-harmony-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10497,PHR:toenail-wellness,1,any,0,3PL item master
+warehouse,WH-PHR-10504,PHR:tongkat-ali-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10511,PHR:ultimate-heart-health-protocol,1,any,0,3PL item master
+warehouse,WH-PHR-10518,PHR:ut-fix-urinary-tract-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10525,PHR:venease-vein-health-supplement,1,any,0,3PL item master
+warehouse,WH-PHR-10532,PHR:yeast-protein-creatine-electrolytes,1,any,1,3PL item master
+warehouse,WH-PHR-10539,PHR:youth-switch-longevity-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10546,NHMD:activespan-longevity-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10553,NHMD:artichoke-extract-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10560,NHMD:ashwagandha-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10567,NHMD:bacopa-monnieri-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10574,NHMD:balance-biotics-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10581,NHMD:bare-feet-toenail-fungus-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10588,NHMD:beet-root-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10595,NHMD:berberine-extract-supplements,1,any,0,3PL item master
+warehouse,WH-NHMD-10602,NHMD:bone-complex-natural-bone-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10609,NHMD:cl-switch-supplement-for-high-cholesterol,1,any,0,3PL item master
+warehouse,WH-NHMD-10616,NHMD:cleanse24-parasite-cleanse-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10623,NHMD:clear-toenail-oil-essential-oil-for-toenail-fungus,1,any,0,3PL item master
+warehouse,WH-NHMD-10630,NHMD:cognilux-memory-support-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10637,NHMD:curcumin-extract-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10644,NHMD:daily-multivitamins,1,any,0,3PL item master
+warehouse,WH-NHMD-10651,NHMD:elderberry-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10658,NHMD:flow-active-prostate-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10665,NHMD:garlic-bulb-extract-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10672,NHMD:ginseng-energy-and-stamina-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10679,NHMD:gluco24-blood-sugar-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10686,NHMD:greens-gut-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10693,NHMD:hair-switch-hair-growth-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10700,NHMD:hawthorn-natural-herbal-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10707,NHMD:hearplus-hearing-support-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10714,NHMD:hydration-creatine-electrolyte-replacement-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10721,NHMD:immunomd-immune-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10728,NHMD:inside-and-out-nail-support,1,any,0,3PL item master
+warehouse,WH-NHMD-10735,NHMD:iron-supplement-with-vitamin-c,1,any,0,3PL item master
+warehouse,WH-NHMD-10742,NHMD:joint-complex-joint-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10749,NHMD:keto-md-keto-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10756,NHMD:kidney-vitality-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10763,NHMD:liver-renew-liver-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10770,NHMD:longevity-bundle,1,any,0,3PL item master
+warehouse,WH-NHMD-10777,NHMD:lycopene-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10784,NHMD:lymph-md,1,any,0,3PL item master
+warehouse,WH-NHMD-10791,NHMD:magnesium-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10798,NHMD:matcha-antioxidant-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10805,NHMD:menoverra-natural-menopause-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10812,NHMD:mens-drive-male-virility-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10819,NHMD:moringa-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10826,NHMD:n-balance8-nerve-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10833,NHMD:natural-holy-basil-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10840,NHMD:nootropeak-mushroom-brain-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10847,NHMD:olive-leaf-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10854,NHMD:omega-3-md-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10861,NHMD:prebiotics-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10868,NHMD:reds-metabolism-boosting-supplements,1,any,0,3PL item master
+warehouse,WH-NHMD-10875,NHMD:saw-palmetto-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10882,NHMD:shilajit-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10889,NHMD:spirulina-chlorella-complex-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10896,NHMD:stress-support-essentials-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10903,NHMD:t-forge-natural-energy-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10910,NHMD:thyro-support-thyroid-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10917,NHMD:tongkat-ali-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10924,NHMD:urobliss-urinary-tract-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10931,NHMD:veinrenew-vein-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10938,NHMD:vision-nutri-complex-eye-health-supplement,1,any,0,3PL item master
+warehouse,WH-NHMD-10945,NHMD:weight-management-bundle,1,any,0,3PL item master
+warehouse,WH-PUR-10952,PUR:cellular-glow-thermal-beauty-duo-bundle,1,any,0,3PL item master
+warehouse,WH-PUR-10959,PUR:cellular-hydration-serum,1,any,0,3PL item master
+warehouse,WH-PUR-10966,PUR:cellular-restore-serum,1,any,0,3PL item master
+warehouse,WH-PUR-10973,PUR:circulex-vein-health-supplement,1,any,0,3PL item master
+warehouse,WH-PUR-10980,PUR:contour-massage-roller,1,any,0,3PL item master
+warehouse,WH-PUR-10987,PUR:deepsea-collagen-marine-collagen-supplement,1,any,0,3PL item master
+warehouse,WH-PUR-10994,PUR:dermaluxe-hydrolyzed-collagen-supplement,1,any,0,3PL item master
+warehouse,WH-PUR-11001,PUR:even-flow-lymphatic-support-supplement,1,any,0,3PL item master
+warehouse,WH-PUR-11008,PUR:even-glow,1,any,0,3PL item master
+warehouse,WH-PUR-11015,PUR:fine-lines-saggy-skin-system,1,any,0,3PL item master
+warehouse,WH-PUR-11022,PUR:gentle-cleansing-foam,1,any,0,3PL item master
+warehouse,WH-PUR-11029,PUR:gift-certificates,1,any,0,3PL item master
+warehouse,WH-PUR-11036,PUR:giftbox,1,any,0,3PL item master
+warehouse,WH-PUR-11043,PUR:hair-re-bond-mask,1,any,0,3PL item master
+warehouse,WH-PUR-11050,PUR:hair-therapy-scalp-nourishment-moisturizing-oil,1,any,0,3PL item master
+warehouse,WH-PUR-11057,PUR:hairlux-supplement-for-hair-growth,1,any,0,3PL item master
+warehouse,WH-PUR-11064,PUR:hot-cold-beauty-device,1,any,0,3PL item master
+warehouse,WH-PUR-11071,PUR:hydracleanse-deep-clean-detox-shampoo,1,any,0,3PL item master
+warehouse,WH-PUR-11078,PUR:hydralift-volumizing-shampoo,1,any,0,3PL item master
+warehouse,WH-PUR-11085,PUR:hydrasilk-moisturizing-conditioner,1,any,0,3PL item master
+warehouse,WH-PUR-11092,PUR:keratin-shine-mist,1,any,0,3PL item master
+warehouse,WH-PUR-11099,PUR:lift-and-glow,1,any,0,3PL item master
+warehouse,WH-PUR-11106,PUR:moisturizing-hydralift-shampoo-hydrasilk-conditioner,1,any,0,3PL item master
+warehouse,WH-PUR-11113,PUR:peptide-fusion-face-cream,1,any,0,3PL item master
+warehouse,WH-PUR-11120,PUR:serene-probiotics-natural-probiotic-supplement,1,any,0,3PL item master
+warehouse,WH-PUR-11127,PUR:under-eye-renewal-system,1,any,0,3PL item master
+warehouse,WH-TRU-11134,TRU:bone-broth-protein,1,any,0,3PL item master
+warehouse,WH-TRU-11141,TRU:creatine,1,any,0,3PL item master
+warehouse,WH-TRU-11148,TRU:greens-and-reds-powders,1,any,0,3PL item master
+warehouse,WH-TRU-11155,TRU:metabolic-greens,1,any,0,3PL item master
+warehouse,WH-TRU-11162,TRU:metabolic-reds,1,any,0,3PL item master
+warehouse,WH-TRU-11169,TRU:mixer,1,any,0,3PL item master
+warehouse,WH-TRU-11176,TRU:performance-recovery-set,1,any,0,3PL item master
+warehouse,WH-TRU-11183,TRU:pre-workout,1,any,0,3PL item master
+warehouse,WH-TRU-11190,TRU:recovery,1,any,0,3PL item master
+warehouse,WH-PET-11197,PET:anti-inflammatory-daily-bundle,1,any,0,3PL item master
+warehouse,WH-PET-11204,PET:calm-soft-dog-chews,1,any,0,3PL item master
+warehouse,WH-PET-11211,PET:dog-ear-cleaner-wipes,1,any,0,3PL item master
+warehouse,WH-PET-11218,PET:essential-start-bundle,1,any,0,3PL item master
+warehouse,WH-PET-11225,PET:hip-and-joint-formula,1,any,0,3PL item master
+warehouse,WH-PET-11232,PET:longevity-formula,1,any,0,3PL item master
+warehouse,WH-PET-11239,PET:omega-3-plus-formula,1,any,0,3PL item master
+warehouse,WH-NBL-11246,NBL:cardiora-heart-health-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11253,NBL:cognicharge-brain-health-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11260,NBL:gluco-powder-glucose-control-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11267,NBL:hairvive-hair-growth-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11274,NBL:liver-360-liver-health-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11281,NBL:lymph-go-lymphatic-support-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11288,NBL:man-pulse-mens-health-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11295,NBL:metabolic-greens-superfood-powder,1,any,0,3PL item master
+warehouse,WH-NBL-11302,NBL:metabolic-reds-superfood-powder,1,any,0,3PL item master
+warehouse,WH-NBL-11309,NBL:motion-bliss-joint-health-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11316,NBL:paratarget-parasite-cleanse-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11323,NBL:shape-fusion-appetite-suppressant-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11330,NBL:sight-max-vision-supplement,1,any,0,3PL item master
+warehouse,WH-NBL-11337,NBL:youthspark-longevity-supplement,1,any,0,3PL item master
+warehouse,WH-VPK-11344,VPK:artichoke-extract,1,any,0,3PL item master
+warehouse,WH-VPK-11351,VPK:brain-peak,1,any,0,3PL item master
+warehouse,WH-VPK-11358,VPK:elderberry-peak,1,any,0,3PL item master
+warehouse,WH-VPK-11365,VPK:hair-peak,1,any,0,3PL item master
+warehouse,WH-VPK-11372,VPK:hearing-peak,1,any,0,3PL item master
+warehouse,WH-VPK-11379,VPK:liver-cleanse-detox,1,any,0,3PL item master
+warehouse,WH-VPK-11386,VPK:longevity-peak,1,any,0,3PL item master
+warehouse,WH-VPK-11393,VPK:lymph-peak,1,any,0,3PL item master
+warehouse,WH-VPK-11400,VPK:milk-thistle-extract,1,any,0,3PL item master
+warehouse,WH-VPK-11407,VPK:odorless-garlic-extract,1,any,0,3PL item master
+warehouse,WH-VPK-11414,VPK:paracleanse,1,any,0,3PL item master
+warehouse,WH-VPK-11421,VPK:provision-formula,1,any,0,3PL item master
+warehouse,WH-VPK-11428,VPK:toenail-peak,1,any,0,3PL item master
+warehouse,WH-VPK-11435,VPK:turmeric-curcumin-extract,1,any,0,3PL item master
+warehouse,WH-VPK-11442,VPK:vein-care-blend,1,any,0,3PL item master
