@@ -1,0 +1,40 @@
+version: 2
+
+models:
+  - name: int_ad_spend_daily
+    description: "Meta and Google in one shape, at campaign x day (account date). Spend and platform value converted to USD."
+  - name: int_campaigns_mapped
+    description: >
+      Product & brand mapping of every campaign. Brand = brand of the ad account (seed ad_accounts).
+      Product = campaign_id override, else the longest product token found in the squashed campaign name
+      within that brand (seed campaign_product_rules). Also reads the brand written in the name to flag mismatches.
+    columns:
+      - name: campaign_id
+        data_tests: [unique, not_null]
+      - name: mapping_method
+        description: "override, rule, unmapped_campaign or unmapped_account."
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["override", "rule", "unmapped_campaign", "unmapped_account"]
+      - name: is_name_brand_mismatch
+        description: "True when the campaign name starts with another brand than the ad account's brand."
+  - name: int_orders_usd
+    description: "Orders with brand (from store code) and amounts in USD at the monthly rate of the order month."
+  - name: int_order_lines_mapped
+    description: "Order lines mapped to the canonical product through the shop SKU mapping; units = quantity x units_per_item."
+  - name: int_payments_usd
+    description: "Payments in USD at the monthly rate of the payment month, with the order's brand and month."
+  - name: int_order_payments
+    description: "One row per order: order total vs what the payment provider charged, refunds, chargebacks, fees."
+    columns:
+      - name: order_id
+        data_tests: [unique, not_null]
+  - name: int_subscription_periods
+    description: "Subscription sessions: each event opens a period with one state (active, paused, past_due, cancelled) until the next event."
+    columns:
+      - name: state
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["active", "paused", "past_due", "cancelled"]

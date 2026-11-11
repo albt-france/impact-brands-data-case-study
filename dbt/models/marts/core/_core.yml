@@ -1,0 +1,116 @@
+version: 2
+
+models:
+  - name: dim_date
+    description: "Calendar, one row per day from calendar_start to calendar_end. has_data marks days with simulated activity."
+    columns:
+      - name: date_day
+        data_tests: [unique, not_null]
+
+  - name: dim_brand
+    description: "The 7 brands (PUBLIC DATA) with their store code."
+    columns:
+      - name: brand_code
+        data_tests: [unique, not_null]
+      - name: store_code
+        description: "Store merchant code used in order numbers. Nation Health MD uses LHP."
+
+  - name: dim_product
+    description: "Canonical products from the real public catalogue (PUBLIC DATA), key = brand_code:product_slug, with the number of source codes mapped to each."
+    columns:
+      - name: product_key
+        description: "Canonical product key, e.g. PHR:liver-health-formula-supplement."
+        data_tests: [unique, not_null]
+      - name: brand_code
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_brand')
+                field: brand_code
+      - name: subscribe_discount_pct
+        description: "Discount of subscribe & save vs one-time price for one unit."
+      - name: max_discount_vs_list_pct
+        description: "Deepest discount vs the crossed-out list price, across bundle sizes and purchase types."
+
+  - name: dim_customer
+    description: "One row per shop customer, joined to the CRM on the hashed e-mail."
+    columns:
+      - name: customer_id
+        data_tests: [unique, not_null]
+      - name: is_multi_brand
+        description: "Bought from more than one brand of the group."
+
+  - name: dim_ad_account
+    description: "Every ad account seen in the connectors or declared in the mapping seed, with its brand."
+    columns:
+      - name: account_id
+        data_tests: [unique, not_null]
+
+  - name: fct_orders
+    description: "One row per order with gross and net revenue in USD, attribution (UTM campaign) and subscription flags."
+    columns:
+      - name: order_id
+        data_tests: [unique, not_null]
+      - name: brand_code
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_brand')
+                field: brand_code
+      - name: customer_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_customer')
+                field: customer_id
+      - name: gross_revenue_usd
+        description: "Order total (after discounts, incl. shipping) in USD."
+      - name: net_revenue_usd
+        description: "Gross revenue minus refunds and chargebacks known today, in USD (METRICS.md: net_revenue)."
+      - name: starts_subscription
+        description: "First order of a subscribe & save subscription (renewals excluded)."
+
+  - name: fct_order_lines
+    description: "One row per order line with its canonical product. Unmapped lines keep product_key null."
+    columns:
+      - name: order_line_id
+        data_tests: [unique, not_null]
+      - name: product_key
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_product')
+                field: product_key
+      - name: allocated_revenue_usd
+        description: "Share of the order's total allocated to the line pro rata of the line amount."
+
+  - name: fct_payments
+    description: "One row per charge, refund or chargeback, in payment currency and USD."
+    columns:
+      - name: payment_id
+        data_tests: [unique, not_null]
+      - name: is_after_order_month
+        description: "The money moved in a later month than the order (late refund or chargeback)."
+
+  - name: fct_ad_spend_daily
+    description: "One row per campaign x day (ad account date) with spend in USD, platform-reported conversions and the mapped brand and product."
+    columns:
+      - name: ad_spend_id
+        data_tests: [unique, not_null]
+      - name: platform
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["meta", "google"]
+
+  - name: fct_subscriptions_daily
+    description: "One row per subscription per day while not cancelled, with its state and both active flags."
+    columns:
+      - name: subscription_day_id
+        data_tests: [unique, not_null]
+      - name: is_active
+        description: "Documented definition: state = active (not paused, no failed payment being retried)."
+      - name: is_active_naive
+        description: "What the subscription tool shows: everything not cancelled."
