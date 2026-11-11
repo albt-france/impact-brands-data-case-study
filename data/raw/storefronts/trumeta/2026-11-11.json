@@ -1,0 +1,442 @@
+{
+ "brand": "trumeta",
+ "base_url": "https://www.trumeta.com",
+ "snapshot_date": "2026-11-11",
+ "collected_at_utc": "2026-11-10T23:35:10+00:00",
+ "method": "sitemap.xml -> /product/ pages -> embedded product JSON",
+ "products": [
+  {
+   "url": "https://www.trumeta.com/product/bone-broth-protein",
+   "name": "Bone Broth Protein",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "jar",
+    "isBilledMonthly": true,
+    "servings": 30,
+    "savePerYear": 82.8,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 0,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TBPB1=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 12,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TBPB1=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 66.99,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TBPB6B"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 3.9,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TBPB1SS"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 22.5,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TBPB3SS"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 86.19,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TBPB6SS"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/creatine",
+   "name": "Creatine",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "jar",
+    "isBilledMonthly": true,
+    "servings": 90,
+    "savePerYear": 19.6,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 0,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TIC1=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 12,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TIC3=1"
+     },
+     "6": {
+      "price": 22,
+      "save": 66.99,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TIC6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "save": 2.9,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TIC1SS"
+     },
+     "3": {
+      "price": 22.5,
+      "save": 19.5,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TIC3SS"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 80.19,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TIC6SS"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/greens-and-reds-powders",
+   "name": "Metabolic Greens and Reds Powders Bundle",
+   "regular_price": null,
+   "price_options": {
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "numberOfBottles": 1,
+    "measurementUnit": "set",
+    "regular": {
+     "1": {
+      "price": 55,
+      "save": 3,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_RGMB1=1"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 46.98,
+      "save": 36.01,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_RGMBAD1=1"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/metabolic-greens",
+   "name": "Trumeta Greens",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "jar",
+    "savePerYear": 58.8,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 0,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TGJ=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 12,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TGJ=3"
+     },
+     "6": {
+      "price": 22,
+      "save": 66.99,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TGJ6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "save": 2.9,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TGJ1SS"
+     },
+     "3": {
+      "price": 22.5,
+      "save": 19.5,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TGJ3SS"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 80.19,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TGJ6SS"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/metabolic-reds",
+   "name": "Reds",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "jar",
+    "isBilledMonthly": true,
+    "servings": 30,
+    "savePerYear": 240,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 0,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_RT=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 12,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_RT=3"
+     },
+     "6": {
+      "price": 22,
+      "save": 66.99,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=RT6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "save": 2.9,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=RT1SS"
+     },
+     "3": {
+      "price": 22.5,
+      "save": 19.5,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=RT3SS"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 80.19,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=RT6SS"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/mixer",
+   "name": "Mixer",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "mixer",
+    "maxQtyRegular": 10,
+    "regular": {
+     "1": {
+      "price": 24.99,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=1"
+     },
+     "2": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=2"
+     },
+     "3": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=3"
+     },
+     "4": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=4"
+     },
+     "5": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=5"
+     },
+     "6": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=6"
+     },
+     "7": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=7"
+     },
+     "8": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=8"
+     },
+     "9": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=9"
+     },
+     "10": {
+      "price": 24.99,
+      "save": null,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_MX=10"
+     }
+    },
+    "vip": {}
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/performance-recovery-set",
+   "name": "Performance & Recovery Set",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "set",
+    "savePerYear": 362.88,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regular": {
+     "1": {
+      "price": 119.7,
+      "save": 6.3,
+      "totalPriceBuyingSeparately": 126,
+      "saveBuyingSeparately": 6.3,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TPRSH1=1"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 102.06,
+      "save": 48.93,
+      "priceBuyingSeparately": 113.4,
+      "saveBuyingSeparately": 12.6,
+      "saveFromSeparatePrice": 11.34,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TPRSH1SS=1"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/pre-workout",
+   "name": "Pre-Workout Powder",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "jar",
+    "isBilledMonthly": true,
+    "servings": 20,
+    "savePerYear": 58.8,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 0,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TW1=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 12,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TW1=3"
+     },
+     "6": {
+      "price": 22,
+      "save": 66.99,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TW6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "save": 2.9,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TW1SS"
+     },
+     "3": {
+      "price": 22.5,
+      "save": 19.5,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TW3SS"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 80.19,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TW6SS"
+     }
+    }
+   },
+   "site_rating_value": 8.0,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/recovery",
+   "name": "Muscle Recovery Supplement",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "jar",
+    "isBilledMonthly": true,
+    "servings": 20,
+    "savePerYear": 58.8,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 0,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TVR1=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 12,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD_TVR1=3"
+     },
+     "6": {
+      "price": 22,
+      "save": 66.99,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TVR6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "save": 2.9,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TVR1SS"
+     },
+     "3": {
+      "price": 22.5,
+      "save": 19.5,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TVR3SS"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 80.19,
+      "orderLink": "https://secure.trumeta.com/cgi-bin/UCEditor?MerchantID=TRU&ADD=TVR6SS"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.trumeta.com/product/whey",
+   "name": "Subscribe",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  }
+ ]
+}

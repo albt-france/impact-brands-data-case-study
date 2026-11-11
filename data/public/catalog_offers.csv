@@ -1,0 +1,1131 @@
+brand_code,product_slug,product_name,measurement_unit,store_merchant_id,purchase_type,bundle_size,unit_price,bundle_total,list_unit_price,store_sku,store_qty,snapshot_date,discount_vs_list_pct
+PHR,ageless-brain-health-supplement,Ageless Brain,Bottle,PHR1,one_time,1,59.99,59.99,69.0,ABE,1,2026-11-11,0.1306
+PHR,ageless-brain-health-supplement,Ageless Brain,Bottle,PHR1,one_time,3,49.99,149.97,69.0,ABE,3,2026-11-11,0.2755
+PHR,ageless-brain-health-supplement,Ageless Brain,Bottle,PHR1,one_time,6,39.99,239.94,69.0,ABE,6,2026-11-11,0.4204
+PHR,ageless-brain-health-supplement,Ageless Brain,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,ABE1AD,1,2026-11-11,0.2755
+PHR,ageless-brain-health-supplement,Ageless Brain,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,ABE3AD,1,2026-11-11,0.4204
+PHR,ageless-brain-health-supplement,Ageless Brain,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,ABE6AD,1,2026-11-11,0.5654
+PHR,artichoke-extract-supplement,Artichoke Extract,Bottle,PHR1,one_time,1,19.5,19.5,69.0,RTV,1,2026-11-11,0.7174
+PHR,artichoke-extract-supplement,Artichoke Extract,Bottle,PHR1,one_time,3,17.5,52.5,69.0,RTV,3,2026-11-11,0.7464
+PHR,artichoke-extract-supplement,Artichoke Extract,Bottle,PHR1,one_time,6,16.0,96.0,69.0,RTV,6,2026-11-11,0.7681
+PHR,artichoke-extract-supplement,Artichoke Extract,Bottle,PHR1,subscribe_save,1,17.55,17.55,69.0,RTV1AD,1,2026-11-11,0.7457
+PHR,artichoke-extract-supplement,Artichoke Extract,Bottle,PHR1,subscribe_save,3,15.75,47.25,69.0,RTV3AD,1,2026-11-11,0.7717
+PHR,artichoke-extract-supplement,Artichoke Extract,Bottle,PHR1,subscribe_save,6,14.4,86.4,69.0,RTV6AD,1,2026-11-11,0.7913
+PHR,ashwagandha-supplement,Ashwagandha,Bottle,PHR1,one_time,1,39.0,39.0,69.0,WGH,1,2026-11-11,0.4348
+PHR,ashwagandha-supplement,Ashwagandha,Bottle,PHR1,one_time,3,35.0,105.0,69.0,WGH,3,2026-11-11,0.4928
+PHR,ashwagandha-supplement,Ashwagandha,Bottle,PHR1,one_time,6,32.0,192.0,69.0,WGH,6,2026-11-11,0.5362
+PHR,ashwagandha-supplement,Ashwagandha,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,WGZ1AD,1,2026-11-11,0.4913
+PHR,ashwagandha-supplement,Ashwagandha,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,WGZ3AD,1,2026-11-11,0.5435
+PHR,ashwagandha-supplement,Ashwagandha,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,WGZ6AD,1,2026-11-11,0.5826
+PHR,bacopa-monnieri,Bacopa Monnieri,Bottle,PHR1,one_time,1,39.0,39.0,69.0,AF,1,2026-11-11,0.4348
+PHR,bacopa-monnieri,Bacopa Monnieri,Bottle,PHR1,one_time,3,35.0,105.0,69.0,AF,3,2026-11-11,0.4928
+PHR,bacopa-monnieri,Bacopa Monnieri,Bottle,PHR1,one_time,6,32.0,192.0,69.0,AF,6,2026-11-11,0.5362
+PHR,bacopa-monnieri,Bacopa Monnieri,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,AFZ1AD,1,2026-11-11,0.4913
+PHR,bacopa-monnieri,Bacopa Monnieri,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,AFZ3AD,1,2026-11-11,0.5435
+PHR,bacopa-monnieri,Bacopa Monnieri,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,AFZ6AD,1,2026-11-11,0.5826
+PHR,beet-root-supplement,Beet Root,Bottle,PHR1,one_time,1,39.0,39.0,69.0,BVK,1,2026-11-11,0.4348
+PHR,beet-root-supplement,Beet Root,Bottle,PHR1,one_time,3,35.0,105.0,69.0,BVK,3,2026-11-11,0.4928
+PHR,beet-root-supplement,Beet Root,Bottle,PHR1,one_time,6,32.0,192.0,69.0,BVK,6,2026-11-11,0.5362
+PHR,beet-root-supplement,Beet Root,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,BVK1AD,1,2026-11-11,0.4913
+PHR,beet-root-supplement,Beet Root,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,BVK3AD,1,2026-11-11,0.5435
+PHR,beet-root-supplement,Beet Root,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,BVK6AD,1,2026-11-11,0.5826
+PHR,berberine-extract-supplement,Berberine Extract,Bottle,PHR1,one_time,1,39.0,39.0,69.0,KS,1,2026-11-11,0.4348
+PHR,berberine-extract-supplement,Berberine Extract,Bottle,PHR1,one_time,3,35.0,105.0,69.0,KS,3,2026-11-11,0.4928
+PHR,berberine-extract-supplement,Berberine Extract,Bottle,PHR1,one_time,6,32.0,192.0,69.0,KS,6,2026-11-11,0.5362
+PHR,berberine-extract-supplement,Berberine Extract,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,KSZ1AD,1,2026-11-11,0.4913
+PHR,berberine-extract-supplement,Berberine Extract,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,KSZ3AD,1,2026-11-11,0.5435
+PHR,berberine-extract-supplement,Berberine Extract,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,KSZ6AD,1,2026-11-11,0.5826
+PHR,blood-sugar-formula-supplement,Blood Sugar Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,BSE,1,2026-11-11,0.1306
+PHR,blood-sugar-formula-supplement,Blood Sugar Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,BSE,3,2026-11-11,0.2755
+PHR,blood-sugar-formula-supplement,Blood Sugar Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,BSE,6,2026-11-11,0.4204
+PHR,blood-sugar-formula-supplement,Blood Sugar Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,BSE1AD,1,2026-11-11,0.2755
+PHR,blood-sugar-formula-supplement,Blood Sugar Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,BSE3AD,1,2026-11-11,0.4204
+PHR,blood-sugar-formula-supplement,Blood Sugar Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,BSE6AD,1,2026-11-11,0.5654
+PHR,bone-broth-protein-powder,Bone Broth Protein,Jar,PHR1,one_time,1,69.0,69.0,98.0,TXM,1,2026-11-11,0.2959
+PHR,bone-broth-protein-powder,Bone Broth Protein,Jar,PHR1,one_time,3,65.0,195.0,98.0,TXM,3,2026-11-11,0.3367
+PHR,bone-broth-protein-powder,Bone Broth Protein,Jar,PHR1,one_time,6,62.0,372.0,98.0,TXM,6,2026-11-11,0.3673
+PHR,bone-broth-protein-powder,Bone Broth Protein,Jar,PHR1,subscribe_save,1,62.1,62.1,98.0,TXM1AD,1,2026-11-11,0.3663
+PHR,bone-broth-protein-powder,Bone Broth Protein,Jar,PHR1,subscribe_save,3,58.5,175.5,98.0,TXM3AD,1,2026-11-11,0.4031
+PHR,bone-broth-protein-powder,Bone Broth Protein,Jar,PHR1,subscribe_save,6,55.8,334.8,98.0,TXM6AD,1,2026-11-11,0.4306
+PHR,bone-health-formula-supplement,Bone Health Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,BHE,1,2026-11-11,0.1306
+PHR,bone-health-formula-supplement,Bone Health Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,BHE,3,2026-11-11,0.2755
+PHR,bone-health-formula-supplement,Bone Health Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,BHE,6,2026-11-11,0.4204
+PHR,bone-health-formula-supplement,Bone Health Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,BHE1AD,1,2026-11-11,0.2755
+PHR,bone-health-formula-supplement,Bone Health Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,BHE3AD,1,2026-11-11,0.4204
+PHR,bone-health-formula-supplement,Bone Health Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,BHE6AD,1,2026-11-11,0.5654
+PHR,breathecore-clear-lungs-supplement,BreatheCore,Bottle,PHR1,one_time,1,59.99,59.99,69.0,BZO,1,2026-11-11,0.1306
+PHR,breathecore-clear-lungs-supplement,BreatheCore,Bottle,PHR1,one_time,3,49.99,149.97,69.0,BZO,3,2026-11-11,0.2755
+PHR,breathecore-clear-lungs-supplement,BreatheCore,Bottle,PHR1,one_time,6,39.99,239.94,69.0,BZO,6,2026-11-11,0.4204
+PHR,breathecore-clear-lungs-supplement,BreatheCore,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,BZO1AD,1,2026-11-11,0.2755
+PHR,breathecore-clear-lungs-supplement,BreatheCore,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,BZO3AD,1,2026-11-11,0.4204
+PHR,breathecore-clear-lungs-supplement,BreatheCore,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,BZO6AD,1,2026-11-11,0.5654
+PHR,cl-balance-supplement-for-high-cholesterol,CL BALANCE,Bottle,PHR1,one_time,1,59.99,59.99,69.0,CLE,1,2026-11-11,0.1306
+PHR,cl-balance-supplement-for-high-cholesterol,CL BALANCE,Bottle,PHR1,one_time,3,49.99,149.97,69.0,CLE,3,2026-11-11,0.2755
+PHR,cl-balance-supplement-for-high-cholesterol,CL BALANCE,Bottle,PHR1,one_time,6,39.99,239.94,69.0,CLE,6,2026-11-11,0.4204
+PHR,cl-balance-supplement-for-high-cholesterol,CL BALANCE,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,CLE1AD,1,2026-11-11,0.2755
+PHR,cl-balance-supplement-for-high-cholesterol,CL BALANCE,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,CLE3AD,1,2026-11-11,0.4204
+PHR,cl-balance-supplement-for-high-cholesterol,CL BALANCE,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,CLE6AD,1,2026-11-11,0.5654
+PHR,comfortiq,Comfortiq,Bottle,PHR1,one_time,1,38.99,38.99,69.0,CQF,1,2026-11-11,0.4349
+PHR,comfortiq,Comfortiq,Bottle,PHR1,one_time,3,32.49,97.47,69.0,CQF,3,2026-11-11,0.5291
+PHR,comfortiq,Comfortiq,Bottle,PHR1,one_time,6,25.99,155.94,69.0,CQF,6,2026-11-11,0.6233
+PHR,comfortiq,Comfortiq,Bottle,PHR1,subscribe_save,1,32.49,32.49,69.0,CQF1AD,1,2026-11-11,0.5291
+PHR,comfortiq,Comfortiq,Bottle,PHR1,subscribe_save,3,25.99,77.97,69.0,CQF3AD,1,2026-11-11,0.6233
+PHR,comfortiq,Comfortiq,Bottle,PHR1,subscribe_save,6,19.49,116.94,69.0,CQF6AD,1,2026-11-11,0.7175
+PHR,complete-omega-3,Complete Omega-3,Bottle,PHR1,one_time,1,59.99,59.99,69.0,MCR,1,2026-11-11,0.1306
+PHR,complete-omega-3,Complete Omega-3,Bottle,PHR1,one_time,3,49.99,149.97,69.0,MCR,3,2026-11-11,0.2755
+PHR,complete-omega-3,Complete Omega-3,Bottle,PHR1,one_time,6,39.99,239.94,69.0,MCR,6,2026-11-11,0.4204
+PHR,complete-omega-3,Complete Omega-3,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,MCR1AD,1,2026-11-11,0.2755
+PHR,complete-omega-3,Complete Omega-3,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,MCR3AD,1,2026-11-11,0.4204
+PHR,complete-omega-3,Complete Omega-3,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,MCR6AD,1,2026-11-11,0.5654
+PHR,complete-vision-formula-supplement,Complete Vision Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,VIC,1,2026-11-11,0.1306
+PHR,complete-vision-formula-supplement,Complete Vision Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,VIC,3,2026-11-11,0.2755
+PHR,complete-vision-formula-supplement,Complete Vision Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,VIC,6,2026-11-11,0.4204
+PHR,complete-vision-formula-supplement,Complete Vision Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,VIC1AD,1,2026-11-11,0.2755
+PHR,complete-vision-formula-supplement,Complete Vision Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,VIC3AD,1,2026-11-11,0.4204
+PHR,complete-vision-formula-supplement,Complete Vision Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,VIC6AD,1,2026-11-11,0.5654
+PHR,cortisol-capsules,Cortisol & Sleep Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,SFZM,1,2026-11-11,0.1306
+PHR,cortisol-capsules,Cortisol & Sleep Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,SFZM,3,2026-11-11,0.2755
+PHR,cortisol-capsules,Cortisol & Sleep Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,SFZM,6,2026-11-11,0.4204
+PHR,cortisol-capsules,Cortisol & Sleep Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,SFZM1AD,1,2026-11-11,0.2755
+PHR,cortisol-capsules,Cortisol & Sleep Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,SFZM3AD,1,2026-11-11,0.4204
+PHR,cortisol-capsules,Cortisol & Sleep Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,SFZM6AD,1,2026-11-11,0.5654
+PHR,creatine-monohydrate-powder-agilance,Agilance,Jar,PHR1,one_time,1,49.0,49.0,69.0,AIZ,1,2026-11-11,0.2899
+PHR,creatine-monohydrate-powder-agilance,Agilance,Jar,PHR1,one_time,2,45.0,90.0,69.0,AIZ,2,2026-11-11,0.3478
+PHR,creatine-monohydrate-powder-agilance,Agilance,Jar,PHR1,one_time,3,42.0,126.0,69.0,AIZ,3,2026-11-11,0.3913
+PHR,creatine-monohydrate-powder-agilance,Agilance,Jar,PHR1,subscribe_save,1,44.1,44.1,69.0,AIZ1AD,1,2026-11-11,0.3609
+PHR,creatine-monohydrate-powder-agilance,Agilance,Jar,PHR1,subscribe_save,2,40.5,81.0,69.0,AIZ2AD,1,2026-11-11,0.413
+PHR,creatine-monohydrate-powder-agilance,Agilance,Jar,PHR1,subscribe_save,3,37.8,113.4,69.0,AIZ3AD,1,2026-11-11,0.4522
+PHR,curbfit-appetite-suppressant-supplement,CurbFit,Bottle,PHR1,one_time,1,59.99,59.99,69.0,CFE,1,2026-11-11,0.1306
+PHR,curbfit-appetite-suppressant-supplement,CurbFit,Bottle,PHR1,one_time,3,49.99,149.97,69.0,CFE,3,2026-11-11,0.2755
+PHR,curbfit-appetite-suppressant-supplement,CurbFit,Bottle,PHR1,one_time,6,39.99,239.94,69.0,CFE,6,2026-11-11,0.4204
+PHR,curbfit-appetite-suppressant-supplement,CurbFit,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,CFE1AD,1,2026-11-11,0.2755
+PHR,curbfit-appetite-suppressant-supplement,CurbFit,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,CFE3AD,1,2026-11-11,0.4204
+PHR,curbfit-appetite-suppressant-supplement,CurbFit,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,CFE6AD,1,2026-11-11,0.5654
+PHR,curcumin-extract-supplement,Curcumin Extract,Bottle,PHR1,one_time,1,59.99,59.99,69.0,CEC,1,2026-11-11,0.1306
+PHR,curcumin-extract-supplement,Curcumin Extract,Bottle,PHR1,one_time,3,49.99,149.97,69.0,CEC,3,2026-11-11,0.2755
+PHR,curcumin-extract-supplement,Curcumin Extract,Bottle,PHR1,one_time,6,39.99,239.94,69.0,CEC,6,2026-11-11,0.4204
+PHR,curcumin-extract-supplement,Curcumin Extract,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,CEC1AD,1,2026-11-11,0.2755
+PHR,curcumin-extract-supplement,Curcumin Extract,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,CEC3AD,1,2026-11-11,0.4204
+PHR,curcumin-extract-supplement,Curcumin Extract,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,CEC6AD,1,2026-11-11,0.5654
+PHR,daily-multivitamins,MultiBlend,Bottle,PHR1,one_time,1,39.0,39.0,69.0,ML,1,2026-11-11,0.4348
+PHR,daily-multivitamins,MultiBlend,Bottle,PHR1,one_time,3,35.0,105.0,69.0,ML,3,2026-11-11,0.4928
+PHR,daily-multivitamins,MultiBlend,Bottle,PHR1,one_time,6,32.0,192.0,69.0,ML,6,2026-11-11,0.5362
+PHR,daily-multivitamins,MultiBlend,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,ML1AD,1,2026-11-11,0.4913
+PHR,daily-multivitamins,MultiBlend,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,ML3AD,1,2026-11-11,0.5435
+PHR,daily-multivitamins,MultiBlend,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,ML6AD,1,2026-11-11,0.5826
+PHR,dermal-restore-repair-supplement,Dermal Restore,Bottle,PHR1,one_time,1,38.99,38.99,69.0,PDRC,1,2026-11-11,0.4349
+PHR,dermal-restore-repair-supplement,Dermal Restore,Bottle,PHR1,one_time,3,32.49,97.47,69.0,PDRC,3,2026-11-11,0.5291
+PHR,dermal-restore-repair-supplement,Dermal Restore,Bottle,PHR1,one_time,6,25.99,155.94,69.0,PDRC,6,2026-11-11,0.6233
+PHR,dermal-restore-repair-supplement,Dermal Restore,Bottle,PHR1,subscribe_save,1,32.49,32.49,69.0,PDRC1AD,1,2026-11-11,0.5291
+PHR,dermal-restore-repair-supplement,Dermal Restore,Bottle,PHR1,subscribe_save,3,25.99,77.97,69.0,PDRC3AD,1,2026-11-11,0.6233
+PHR,dermal-restore-repair-supplement,Dermal Restore,Bottle,PHR1,subscribe_save,6,19.49,116.94,69.0,PDRC6AD,1,2026-11-11,0.7175
+PHR,earcare-ear-comfort-drops,EarCare,Bottle,PHR1,one_time,1,59.99,59.99,69.0,ECC,1,2026-11-11,0.1306
+PHR,earcare-ear-comfort-drops,EarCare,Bottle,PHR1,one_time,3,49.99,149.97,69.0,ECC,3,2026-11-11,0.2755
+PHR,earcare-ear-comfort-drops,EarCare,Bottle,PHR1,one_time,6,39.99,239.94,69.0,ECC,6,2026-11-11,0.4204
+PHR,earcare-ear-comfort-drops,EarCare,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,ECC1AD,1,2026-11-11,0.2755
+PHR,earcare-ear-comfort-drops,EarCare,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,ECC3AD,1,2026-11-11,0.4204
+PHR,earcare-ear-comfort-drops,EarCare,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,ECC6AD,1,2026-11-11,0.5654
+PHR,elderberry-supplement,Elderberry,Bottle,PHR1,one_time,1,39.0,39.0,69.0,EY,1,2026-11-11,0.4348
+PHR,elderberry-supplement,Elderberry,Bottle,PHR1,one_time,3,35.0,105.0,69.0,EY,3,2026-11-11,0.4928
+PHR,elderberry-supplement,Elderberry,Bottle,PHR1,one_time,6,32.0,192.0,69.0,EY,6,2026-11-11,0.5362
+PHR,elderberry-supplement,Elderberry,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,EYZ1AD,1,2026-11-11,0.4913
+PHR,elderberry-supplement,Elderberry,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,EYZ3AD,1,2026-11-11,0.5435
+PHR,elderberry-supplement,Elderberry,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,EYZ6AD,1,2026-11-11,0.5826
+PHR,every-beat-heart-health-supplement,Every Beat,Bottle,PHR1,one_time,1,29.99,29.99,69.0,EBC,1,2026-11-11,0.5654
+PHR,every-beat-heart-health-supplement,Every Beat,Bottle,PHR1,one_time,3,24.99,74.97,69.09,EBC,3,2026-11-11,0.6383
+PHR,every-beat-heart-health-supplement,Every Beat,Bottle,PHR1,one_time,6,19.99,119.94,69.0,EBC,6,2026-11-11,0.7103
+PHR,every-beat-heart-health-supplement,Every Beat,Bottle,PHR1,subscribe_save,1,24.99,24.99,69.0,EBC1AD,1,2026-11-11,0.6378
+PHR,every-beat-heart-health-supplement,Every Beat,Bottle,PHR1,subscribe_save,3,19.99,59.97,69.0,EBC3AD,1,2026-11-11,0.7103
+PHR,every-beat-heart-health-supplement,Every Beat,Bottle,PHR1,subscribe_save,6,14.99,89.94,69.0,EBC6AD,1,2026-11-11,0.7828
+PHR,express-weight-loss-system,Express Weight Loss System,Set,PHR1,one_time,1,139.0,139.0,207.0,EWLSA,1,2026-11-11,0.3285
+PHR,express-weight-loss-system,Express Weight Loss System,Set,PHR1,one_time,3,129.0,387.0,207.0,EWLSA,3,2026-11-11,0.3768
+PHR,express-weight-loss-system,Express Weight Loss System,Set,PHR1,one_time,6,119.0,714.0,207.0,EWLSA,6,2026-11-11,0.4251
+PHR,express-weight-loss-system,Express Weight Loss System,Set,PHR1,subscribe_save,1,125.1,125.1,207.0,EWLSA1ADS,1,2026-11-11,0.3957
+PHR,express-weight-loss-system,Express Weight Loss System,Set,PHR1,subscribe_save,3,116.1,348.3,207.0,EWLSA3ADS,1,2026-11-11,0.4391
+PHR,express-weight-loss-system,Express Weight Loss System,Set,PHR1,subscribe_save,6,107.1,642.6,207.0,EWLSA6ADS,1,2026-11-11,0.4826
+PHR,exuberant,Exuberant,Bottle,PHR1,one_time,1,59.99,59.99,69.0,TBE,1,2026-11-11,0.1306
+PHR,exuberant,Exuberant,Bottle,PHR1,one_time,3,49.99,149.97,69.0,TBE,3,2026-11-11,0.2755
+PHR,exuberant,Exuberant,Bottle,PHR1,one_time,6,39.99,239.94,69.0,TBE,6,2026-11-11,0.4204
+PHR,exuberant,Exuberant,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,TBE1AD,1,2026-11-11,0.2755
+PHR,exuberant,Exuberant,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,TBE3AD,1,2026-11-11,0.4204
+PHR,exuberant,Exuberant,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,TBE6AD,1,2026-11-11,0.5654
+PHR,fast-enzymes-supplement,FastEnzymes,Bottle,PHR1,one_time,1,38.99,38.99,69.0,EZC,1,2026-11-11,0.4349
+PHR,fast-enzymes-supplement,FastEnzymes,Bottle,PHR1,one_time,3,32.49,97.47,69.0,EZC,3,2026-11-11,0.5291
+PHR,fast-enzymes-supplement,FastEnzymes,Bottle,PHR1,one_time,6,25.99,155.94,69.0,EZC,6,2026-11-11,0.6233
+PHR,fast-enzymes-supplement,FastEnzymes,Bottle,PHR1,subscribe_save,1,32.49,32.49,69.0,EZC1AD,1,2026-11-11,0.5291
+PHR,fast-enzymes-supplement,FastEnzymes,Bottle,PHR1,subscribe_save,3,25.99,77.97,69.0,EZC3AD,1,2026-11-11,0.6233
+PHR,fast-enzymes-supplement,FastEnzymes,Bottle,PHR1,subscribe_save,6,19.49,116.94,69.0,EZC6AD,1,2026-11-11,0.7175
+PHR,fit-on-powder-supplement,Fit ON,Bottle,PHR1,one_time,1,49.0,49.0,69.0,LF,1,2026-11-11,0.2899
+PHR,fit-on-powder-supplement,Fit ON,Bottle,PHR1,one_time,3,45.0,135.0,69.0,LF,3,2026-11-11,0.3478
+PHR,fit-on-powder-supplement,Fit ON,Bottle,PHR1,one_time,6,42.0,252.0,69.0,LF,6,2026-11-11,0.3913
+PHR,fit-on-powder-supplement,Fit ON,Bottle,PHR1,subscribe_save,1,44.1,44.1,69.0,LF1AD,1,2026-11-11,0.3609
+PHR,fit-on-powder-supplement,Fit ON,Bottle,PHR1,subscribe_save,3,40.5,121.5,69.0,LF3AD,1,2026-11-11,0.413
+PHR,fit-on-powder-supplement,Fit ON,Bottle,PHR1,subscribe_save,6,37.8,226.8,69.0,LF6AD,1,2026-11-11,0.4522
+PHR,formidable-fungus-protocol,Formidable Fungus Protocol,Set,PHR1,one_time,1,139.0,139.0,207.0,FFPSA,1,2026-11-11,0.3285
+PHR,formidable-fungus-protocol,Formidable Fungus Protocol,Set,PHR1,one_time,3,129.0,387.0,207.0,FFPSA,3,2026-11-11,0.3768
+PHR,formidable-fungus-protocol,Formidable Fungus Protocol,Set,PHR1,one_time,6,119.0,714.0,207.0,FFPSA,6,2026-11-11,0.4251
+PHR,formidable-fungus-protocol,Formidable Fungus Protocol,Set,PHR1,subscribe_save,1,125.1,125.1,207.0,FFPSA1ADS,1,2026-11-11,0.3957
+PHR,formidable-fungus-protocol,Formidable Fungus Protocol,Set,PHR1,subscribe_save,3,116.1,348.3,207.0,FFPSA3ADS,1,2026-11-11,0.4391
+PHR,formidable-fungus-protocol,Formidable Fungus Protocol,Set,PHR1,subscribe_save,6,107.1,642.6,207.0,FFPSA6ADS,1,2026-11-11,0.4826
+PHR,fullswitch-natural-glp-capsules,FullSwitch,Bottle,PHR1,one_time,1,69.0,69.0,89.0,POZ,1,2026-11-11,0.2247
+PHR,fullswitch-natural-glp-capsules,FullSwitch,Bottle,PHR1,one_time,3,59.0,177.0,89.0,POZ,3,2026-11-11,0.3371
+PHR,fullswitch-natural-glp-capsules,FullSwitch,Bottle,PHR1,one_time,6,49.0,294.0,89.0,POZ,6,2026-11-11,0.4494
+PHR,fullswitch-natural-glp-capsules,FullSwitch,Bottle,PHR1,subscribe_save,1,62.1,62.1,89.0,POZ1AD,1,2026-11-11,0.3022
+PHR,fullswitch-natural-glp-capsules,FullSwitch,Bottle,PHR1,subscribe_save,3,53.1,159.3,89.0,POZ3AD,1,2026-11-11,0.4034
+PHR,fullswitch-natural-glp-capsules,FullSwitch,Bottle,PHR1,subscribe_save,6,44.1,264.6,89.0,POZ6AD,1,2026-11-11,0.5045
+PHR,fungus-eliminator-toenail-supplement,Fungus Eliminator,Bottle,PHR1,one_time,1,29.0,29.0,69.0,FELM,1,2026-11-11,0.5797
+PHR,fungus-eliminator-toenail-supplement,Fungus Eliminator,Bottle,PHR1,one_time,3,25.0,75.0,69.0,FELM,3,2026-11-11,0.6377
+PHR,fungus-eliminator-toenail-supplement,Fungus Eliminator,Bottle,PHR1,one_time,6,22.0,132.0,69.0,FELM,6,2026-11-11,0.6812
+PHR,fungus-eliminator-toenail-supplement,Fungus Eliminator,Bottle,PHR1,subscribe_save,1,26.1,26.1,69.0,FELM1AD,1,2026-11-11,0.6217
+PHR,fungus-eliminator-toenail-supplement,Fungus Eliminator,Bottle,PHR1,subscribe_save,3,22.5,67.5,69.0,FELM3AD,1,2026-11-11,0.6739
+PHR,fungus-eliminator-toenail-supplement,Fungus Eliminator,Bottle,PHR1,subscribe_save,6,19.8,118.8,69.0,FELM6AD,1,2026-11-11,0.713
+PHR,garlic-bulb-extract-supplement,Garlic Bulb Extract,Bottle,PHR1,one_time,1,19.5,19.5,69.0,GBO,1,2026-11-11,0.7174
+PHR,garlic-bulb-extract-supplement,Garlic Bulb Extract,Bottle,PHR1,one_time,3,17.5,52.5,69.0,GBO,3,2026-11-11,0.7464
+PHR,garlic-bulb-extract-supplement,Garlic Bulb Extract,Bottle,PHR1,one_time,6,16.0,96.0,69.0,GBO,6,2026-11-11,0.7681
+PHR,garlic-bulb-extract-supplement,Garlic Bulb Extract,Bottle,PHR1,subscribe_save,1,17.55,17.55,69.0,GBO1AD,1,2026-11-11,0.7457
+PHR,garlic-bulb-extract-supplement,Garlic Bulb Extract,Bottle,PHR1,subscribe_save,3,15.75,47.25,69.0,GBO3AD,1,2026-11-11,0.7717
+PHR,garlic-bulb-extract-supplement,Garlic Bulb Extract,Bottle,PHR1,subscribe_save,6,14.4,86.4,69.0,GBO6AD,1,2026-11-11,0.7913
+PHR,gastro-health-supplement,Gastro Health Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,GHC,1,2026-11-11,0.1306
+PHR,gastro-health-supplement,Gastro Health Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,GHC,3,2026-11-11,0.2755
+PHR,gastro-health-supplement,Gastro Health Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,GHC,6,2026-11-11,0.4204
+PHR,gastro-health-supplement,Gastro Health Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,GHC1AD,1,2026-11-11,0.2755
+PHR,gastro-health-supplement,Gastro Health Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,GHC3AD,1,2026-11-11,0.4204
+PHR,gastro-health-supplement,Gastro Health Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,GHC6AD,1,2026-11-11,0.5654
+PHR,gift-card,Gift Card,,PHR1,one_time,1,50.0,50.0,50.0,GC50,1,2026-11-11,0.0
+PHR,gift-card,Gift Card,,PHR1,one_time,2,100.0,200.0,100.0,GC100,1,2026-11-11,0.0
+PHR,ginseng-energy-and-focus-supplement,Ginseng,Bottle,PHR1,one_time,1,39.0,39.0,69.0,GU,1,2026-11-11,0.4348
+PHR,ginseng-energy-and-focus-supplement,Ginseng,Bottle,PHR1,one_time,3,35.0,105.0,69.0,GU,3,2026-11-11,0.4928
+PHR,ginseng-energy-and-focus-supplement,Ginseng,Bottle,PHR1,one_time,6,32.0,192.0,69.0,GU,6,2026-11-11,0.5362
+PHR,ginseng-energy-and-focus-supplement,Ginseng,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,GUZ1AD,1,2026-11-11,0.4913
+PHR,ginseng-energy-and-focus-supplement,Ginseng,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,GUZ3AD,1,2026-11-11,0.5435
+PHR,ginseng-energy-and-focus-supplement,Ginseng,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,GUZ6AD,1,2026-11-11,0.5826
+PHR,gut-support-formula-supplement,Gut Support Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,LGRC,1,2026-11-11,0.1306
+PHR,gut-support-formula-supplement,Gut Support Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,LGRC,3,2026-11-11,0.2755
+PHR,gut-support-formula-supplement,Gut Support Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,LGRC,6,2026-11-11,0.4204
+PHR,gut-support-formula-supplement,Gut Support Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,LGRC1AD,1,2026-11-11,0.2755
+PHR,gut-support-formula-supplement,Gut Support Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,LGRC3AD,1,2026-11-11,0.4204
+PHR,gut-support-formula-supplement,Gut Support Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,LGRC6AD,1,2026-11-11,0.5654
+PHR,hawthorn,Hawthorn,Bottle,PHR1,one_time,1,39.0,39.0,69.0,OR,1,2026-11-11,0.4348
+PHR,hawthorn,Hawthorn,Bottle,PHR1,one_time,3,35.0,105.0,69.0,OR,3,2026-11-11,0.4928
+PHR,hawthorn,Hawthorn,Bottle,PHR1,one_time,6,32.0,192.0,69.0,OR,6,2026-11-11,0.5362
+PHR,hawthorn,Hawthorn,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,ORZ1AD,1,2026-11-11,0.4913
+PHR,hawthorn,Hawthorn,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,ORZ3AD,1,2026-11-11,0.5435
+PHR,hawthorn,Hawthorn,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,ORZ6AD,1,2026-11-11,0.5826
+PHR,hearing-support-formula-supplement,Hearing Support Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,HEC,1,2026-11-11,0.1306
+PHR,hearing-support-formula-supplement,Hearing Support Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,HEC,3,2026-11-11,0.2755
+PHR,hearing-support-formula-supplement,Hearing Support Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,HEC,6,2026-11-11,0.4204
+PHR,hearing-support-formula-supplement,Hearing Support Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,HEC1AD,1,2026-11-11,0.2755
+PHR,hearing-support-formula-supplement,Hearing Support Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,HEC3AD,1,2026-11-11,0.4204
+PHR,hearing-support-formula-supplement,Hearing Support Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,HEC6AD,1,2026-11-11,0.5654
+PHR,holy-basil-holistic-health-supplement,Holy Basil,Bottle,PHR1,one_time,1,19.5,19.5,69.0,SKO,1,2026-11-11,0.7174
+PHR,holy-basil-holistic-health-supplement,Holy Basil,Bottle,PHR1,one_time,3,17.5,52.5,69.0,SKO,3,2026-11-11,0.7464
+PHR,holy-basil-holistic-health-supplement,Holy Basil,Bottle,PHR1,one_time,6,16.0,96.0,69.0,SKO,6,2026-11-11,0.7681
+PHR,holy-basil-holistic-health-supplement,Holy Basil,Bottle,PHR1,subscribe_save,1,17.55,17.55,69.0,SKO1AD,1,2026-11-11,0.7457
+PHR,holy-basil-holistic-health-supplement,Holy Basil,Bottle,PHR1,subscribe_save,3,15.75,47.25,69.0,SKO3AD,1,2026-11-11,0.7717
+PHR,holy-basil-holistic-health-supplement,Holy Basil,Bottle,PHR1,subscribe_save,6,14.4,86.4,69.0,SKO6AD,1,2026-11-11,0.7913
+PHR,immune-health-supplement,Immuno,Bottle,PHR1,one_time,1,38.99,38.99,69.0,IMC,1,2026-11-11,0.4349
+PHR,immune-health-supplement,Immuno,Bottle,PHR1,one_time,3,32.49,97.47,69.0,IMC,3,2026-11-11,0.5291
+PHR,immune-health-supplement,Immuno,Bottle,PHR1,one_time,6,25.99,155.94,69.0,IMC,6,2026-11-11,0.6233
+PHR,immune-health-supplement,Immuno,Bottle,PHR1,subscribe_save,1,32.49,32.49,69.0,IMC1AD,1,2026-11-11,0.5291
+PHR,immune-health-supplement,Immuno,Bottle,PHR1,subscribe_save,3,25.99,77.97,69.0,IMC3AD,1,2026-11-11,0.6233
+PHR,immune-health-supplement,Immuno,Bottle,PHR1,subscribe_save,6,19.49,116.94,69.0,IMC6AD,1,2026-11-11,0.7175
+PHR,improbiome-glp-digestive-health-capsules,ImproBiome,Bottle,PHR1,one_time,1,38.99,38.99,69.0,PBC,1,2026-11-11,0.4349
+PHR,improbiome-glp-digestive-health-capsules,ImproBiome,Bottle,PHR1,one_time,3,32.49,97.47,69.0,PBC,3,2026-11-11,0.5291
+PHR,improbiome-glp-digestive-health-capsules,ImproBiome,Bottle,PHR1,one_time,6,25.99,155.94,69.0,PBC,6,2026-11-11,0.6233
+PHR,improbiome-glp-digestive-health-capsules,ImproBiome,Bottle,PHR1,subscribe_save,1,32.49,32.49,69.0,PBC1AD,1,2026-11-11,0.5291
+PHR,improbiome-glp-digestive-health-capsules,ImproBiome,Bottle,PHR1,subscribe_save,3,25.99,77.97,69.0,PBC3AD,1,2026-11-11,0.6233
+PHR,improbiome-glp-digestive-health-capsules,ImproBiome,Bottle,PHR1,subscribe_save,6,19.49,116.94,69.0,PBC6AD,1,2026-11-11,0.7175
+PHR,iron-supplement-with-vitamin-c,Iron & Vitamin C,Bottle,PHR1,one_time,1,19.5,19.5,69.0,VTO,1,2026-11-11,0.7174
+PHR,iron-supplement-with-vitamin-c,Iron & Vitamin C,Bottle,PHR1,one_time,3,17.5,52.5,69.0,VTO,3,2026-11-11,0.7464
+PHR,iron-supplement-with-vitamin-c,Iron & Vitamin C,Bottle,PHR1,one_time,6,16.0,96.0,69.0,VTO,6,2026-11-11,0.7681
+PHR,iron-supplement-with-vitamin-c,Iron & Vitamin C,Bottle,PHR1,subscribe_save,1,17.55,17.55,69.0,VTO1AD,1,2026-11-11,0.7457
+PHR,iron-supplement-with-vitamin-c,Iron & Vitamin C,Bottle,PHR1,subscribe_save,3,15.75,47.25,69.0,VTO3AD,1,2026-11-11,0.7717
+PHR,iron-supplement-with-vitamin-c,Iron & Vitamin C,Bottle,PHR1,subscribe_save,6,14.4,86.4,69.0,VTO6AD,1,2026-11-11,0.7913
+PHR,joint-support-formula-supplement,Joint Support,Bottle,PHR1,one_time,1,59.99,59.99,69.0,JSK,1,2026-11-11,0.1306
+PHR,joint-support-formula-supplement,Joint Support,Bottle,PHR1,one_time,3,49.99,149.97,69.0,JSK,3,2026-11-11,0.2755
+PHR,joint-support-formula-supplement,Joint Support,Bottle,PHR1,one_time,6,39.99,239.94,69.0,JSK,6,2026-11-11,0.4204
+PHR,joint-support-formula-supplement,Joint Support,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,JSK1AD,1,2026-11-11,0.2755
+PHR,joint-support-formula-supplement,Joint Support,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,JSK3AD,1,2026-11-11,0.4204
+PHR,joint-support-formula-supplement,Joint Support,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,JSK6AD,1,2026-11-11,0.5654
+PHR,keto-formula,Keto Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,KFC,1,2026-11-11,0.1306
+PHR,keto-formula,Keto Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,KFC,3,2026-11-11,0.2755
+PHR,keto-formula,Keto Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,KFC,6,2026-11-11,0.4204
+PHR,keto-formula,Keto Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,KFC1AD,1,2026-11-11,0.2755
+PHR,keto-formula,Keto Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,KFC3AD,1,2026-11-11,0.4204
+PHR,keto-formula,Keto Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,KFC6AD,1,2026-11-11,0.5654
+PHR,kidney-health-formula-supplement,Kidney Health Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,KHEN,1,2026-11-11,0.1306
+PHR,kidney-health-formula-supplement,Kidney Health Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,KHEN,3,2026-11-11,0.2755
+PHR,kidney-health-formula-supplement,Kidney Health Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,KHEN,6,2026-11-11,0.4204
+PHR,kidney-health-formula-supplement,Kidney Health Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,KHEN1AD,1,2026-11-11,0.2755
+PHR,kidney-health-formula-supplement,Kidney Health Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,KHEN3AD,1,2026-11-11,0.4204
+PHR,kidney-health-formula-supplement,Kidney Health Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,KHEN6AD,1,2026-11-11,0.5654
+PHR,kombucha-tea-powder,Gut Kombucha,Bottle,PHR1,one_time,1,59.99,59.99,69.0,GKC,1,2026-11-11,0.1306
+PHR,kombucha-tea-powder,Gut Kombucha,Bottle,PHR1,one_time,3,49.99,149.97,69.0,GKC,3,2026-11-11,0.2755
+PHR,kombucha-tea-powder,Gut Kombucha,Bottle,PHR1,one_time,6,39.99,239.94,69.0,GKC,6,2026-11-11,0.4204
+PHR,kombucha-tea-powder,Gut Kombucha,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,GKC1AD,1,2026-11-11,0.2755
+PHR,kombucha-tea-powder,Gut Kombucha,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,GKC3AD,1,2026-11-11,0.4204
+PHR,kombucha-tea-powder,Gut Kombucha,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,GKC6AD,1,2026-11-11,0.5654
+PHR,liver-health-formula-supplement,Liver Health Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,LHFU,1,2026-11-11,0.1306
+PHR,liver-health-formula-supplement,Liver Health Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,LHFU,3,2026-11-11,0.2755
+PHR,liver-health-formula-supplement,Liver Health Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,LHFU,6,2026-11-11,0.4204
+PHR,liver-health-formula-supplement,Liver Health Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,LHFU1AD,1,2026-11-11,0.2755
+PHR,liver-health-formula-supplement,Liver Health Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,LHFU3AD,1,2026-11-11,0.4204
+PHR,liver-health-formula-supplement,Liver Health Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,LHFU6AD,1,2026-11-11,0.5654
+PHR,lycopene-supplement,Lycopene,Bottle,PHR1,one_time,1,39.0,39.0,69.0,NL,1,2026-11-11,0.4348
+PHR,lycopene-supplement,Lycopene,Bottle,PHR1,one_time,3,35.0,105.0,69.0,NL,3,2026-11-11,0.4928
+PHR,lycopene-supplement,Lycopene,Bottle,PHR1,one_time,6,32.0,192.0,69.0,NL,6,2026-11-11,0.5362
+PHR,lycopene-supplement,Lycopene,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,NLZ1AD,1,2026-11-11,0.4913
+PHR,lycopene-supplement,Lycopene,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,NLZ3AD,1,2026-11-11,0.5435
+PHR,lycopene-supplement,Lycopene,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,NLZ6AD,1,2026-11-11,0.5826
+PHR,lymph-system-support,Lymph System Support,Bottle,PHR1,one_time,1,59.99,59.99,69.0,LMOK,1,2026-11-11,0.1306
+PHR,lymph-system-support,Lymph System Support,Bottle,PHR1,one_time,3,49.99,149.97,69.0,LMOK,3,2026-11-11,0.2755
+PHR,lymph-system-support,Lymph System Support,Bottle,PHR1,one_time,6,39.99,239.94,69.0,LMOK,6,2026-11-11,0.4204
+PHR,lymph-system-support,Lymph System Support,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,LMOK1AD,1,2026-11-11,0.2755
+PHR,lymph-system-support,Lymph System Support,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,LMOK3AD,1,2026-11-11,0.4204
+PHR,lymph-system-support,Lymph System Support,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,LMOK6AD,1,2026-11-11,0.5654
+PHR,magnesium-supplement,Magnesium,Bottle,PHR1,one_time,1,39.0,39.0,69.0,SN,1,2026-11-11,0.4348
+PHR,magnesium-supplement,Magnesium,Bottle,PHR1,one_time,3,35.0,105.0,69.0,SN,3,2026-11-11,0.4928
+PHR,magnesium-supplement,Magnesium,Bottle,PHR1,one_time,6,32.0,192.0,69.0,SN,6,2026-11-11,0.5362
+PHR,magnesium-supplement,Magnesium,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,SNZ1AD,1,2026-11-11,0.4913
+PHR,magnesium-supplement,Magnesium,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,SNZ3AD,1,2026-11-11,0.5435
+PHR,magnesium-supplement,Magnesium,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,SNZ6AD,1,2026-11-11,0.5826
+PHR,marine-collagen-booster-supplement,Marine Collagen Booster,Bottle,PHR1,one_time,1,59.99,59.99,69.0,GNC,1,2026-11-11,0.1306
+PHR,marine-collagen-booster-supplement,Marine Collagen Booster,Bottle,PHR1,one_time,3,49.99,149.97,69.0,GNC,3,2026-11-11,0.2755
+PHR,marine-collagen-booster-supplement,Marine Collagen Booster,Bottle,PHR1,one_time,6,39.99,239.94,69.0,GNC,6,2026-11-11,0.4204
+PHR,marine-collagen-booster-supplement,Marine Collagen Booster,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,GNC1AD,1,2026-11-11,0.2755
+PHR,marine-collagen-booster-supplement,Marine Collagen Booster,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,GNC3AD,1,2026-11-11,0.4204
+PHR,marine-collagen-booster-supplement,Marine Collagen Booster,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,GNC6AD,1,2026-11-11,0.5654
+PHR,matcha-green-tea-capsules,Matcha,Bottle,PHR1,one_time,1,39.0,39.0,69.0,TH,1,2026-11-11,0.4348
+PHR,matcha-green-tea-capsules,Matcha,Bottle,PHR1,one_time,3,35.0,105.0,69.0,TH,3,2026-11-11,0.4928
+PHR,matcha-green-tea-capsules,Matcha,Bottle,PHR1,one_time,6,32.0,192.0,69.0,TH,6,2026-11-11,0.5362
+PHR,matcha-green-tea-capsules,Matcha,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,THZ1AD,1,2026-11-11,0.4913
+PHR,matcha-green-tea-capsules,Matcha,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,THZ3AD,1,2026-11-11,0.5435
+PHR,matcha-green-tea-capsules,Matcha,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,THZ6AD,1,2026-11-11,0.5826
+PHR,menoharmony-menopause-supplement,MenoHarmony,Bottle,PHR1,one_time,1,59.99,59.99,69.0,MHC,1,2026-11-11,0.1306
+PHR,menoharmony-menopause-supplement,MenoHarmony,Bottle,PHR1,one_time,3,49.99,149.97,69.0,MHC,3,2026-11-11,0.2755
+PHR,menoharmony-menopause-supplement,MenoHarmony,Bottle,PHR1,one_time,6,39.99,239.94,69.0,MHC,6,2026-11-11,0.4204
+PHR,menoharmony-menopause-supplement,MenoHarmony,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,MHC1AD,1,2026-11-11,0.2755
+PHR,menoharmony-menopause-supplement,MenoHarmony,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,MHC3AD,1,2026-11-11,0.4204
+PHR,menoharmony-menopause-supplement,MenoHarmony,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,MHC6AD,1,2026-11-11,0.5654
+PHR,metabolic-greens-plus,Metabolic Greens+,Bottle,PHR1,one_time,1,59.99,59.99,69.0,GRC,1,2026-11-11,0.1306
+PHR,metabolic-greens-plus,Metabolic Greens+,Bottle,PHR1,one_time,3,49.99,149.97,69.0,GRC,3,2026-11-11,0.2755
+PHR,metabolic-greens-plus,Metabolic Greens+,Bottle,PHR1,one_time,6,39.99,239.94,69.0,GRC,6,2026-11-11,0.4204
+PHR,metabolic-greens-plus,Metabolic Greens+,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,GRC1AD,1,2026-11-11,0.2755
+PHR,metabolic-greens-plus,Metabolic Greens+,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,GRC3AD,1,2026-11-11,0.4204
+PHR,metabolic-greens-plus,Metabolic Greens+,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,GRC6AD,1,2026-11-11,0.5654
+PHR,metabolic-reds,Metabolic Reds+,Bottle,PHR1,one_time,1,59.99,59.99,69.0,RDC,1,2026-11-11,0.1306
+PHR,metabolic-reds,Metabolic Reds+,Bottle,PHR1,one_time,3,49.99,149.97,69.0,RDC,3,2026-11-11,0.2755
+PHR,metabolic-reds,Metabolic Reds+,Bottle,PHR1,one_time,6,39.99,239.94,69.0,RDC,6,2026-11-11,0.4204
+PHR,metabolic-reds,Metabolic Reds+,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,RDC1AD,1,2026-11-11,0.2755
+PHR,metabolic-reds,Metabolic Reds+,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,RDC3AD,1,2026-11-11,0.4204
+PHR,metabolic-reds,Metabolic Reds+,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,RDC6AD,1,2026-11-11,0.5654
+PHR,metal-detox-supplement,Metal Detox Formula,Bottle,PHR1,one_time,1,38.99,38.99,69.0,MDC,1,2026-11-11,0.4349
+PHR,metal-detox-supplement,Metal Detox Formula,Bottle,PHR1,one_time,3,32.49,97.47,69.0,MDC,3,2026-11-11,0.5291
+PHR,metal-detox-supplement,Metal Detox Formula,Bottle,PHR1,one_time,6,25.99,155.94,69.0,MDC,6,2026-11-11,0.6233
+PHR,metal-detox-supplement,Metal Detox Formula,Bottle,PHR1,subscribe_save,1,32.49,32.49,69.0,MDC1AD,1,2026-11-11,0.5291
+PHR,metal-detox-supplement,Metal Detox Formula,Bottle,PHR1,subscribe_save,3,25.99,77.97,69.0,MDC3AD,1,2026-11-11,0.6233
+PHR,metal-detox-supplement,Metal Detox Formula,Bottle,PHR1,subscribe_save,6,19.49,116.94,69.0,MDC6AD,1,2026-11-11,0.7175
+PHR,moringa-supplement,Moringa,Bottle,PHR1,one_time,1,39.0,39.0,69.0,MQ,1,2026-11-11,0.4348
+PHR,moringa-supplement,Moringa,Bottle,PHR1,one_time,3,35.0,105.0,69.0,MQ,3,2026-11-11,0.4928
+PHR,moringa-supplement,Moringa,Bottle,PHR1,one_time,6,32.0,192.0,69.0,MQ,6,2026-11-11,0.5362
+PHR,moringa-supplement,Moringa,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,MQ1AD,1,2026-11-11,0.4913
+PHR,moringa-supplement,Moringa,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,MQ3AD,1,2026-11-11,0.5435
+PHR,moringa-supplement,Moringa,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,MQ6AD,1,2026-11-11,0.5826
+PHR,nerve-regeneration-formula-supplement,Nerve ReGen Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,NRGE,1,2026-11-11,0.1306
+PHR,nerve-regeneration-formula-supplement,Nerve ReGen Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,NRGE,3,2026-11-11,0.2755
+PHR,nerve-regeneration-formula-supplement,Nerve ReGen Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,NRGE,6,2026-11-11,0.4204
+PHR,nerve-regeneration-formula-supplement,Nerve ReGen Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,NRGE1AD,1,2026-11-11,0.2755
+PHR,nerve-regeneration-formula-supplement,Nerve ReGen Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,NRGE3AD,1,2026-11-11,0.4204
+PHR,nerve-regeneration-formula-supplement,Nerve ReGen Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,NRGE6AD,1,2026-11-11,0.5654
+PHR,nmn-resveratrol-cellular-longevity-complex,Cellular Longevity Complex,Bottle,PHR1,one_time,1,69.0,69.0,89.0,CLC,1,2026-11-11,0.2247
+PHR,nmn-resveratrol-cellular-longevity-complex,Cellular Longevity Complex,Bottle,PHR1,one_time,3,59.0,177.0,89.0,CLC,3,2026-11-11,0.3371
+PHR,nmn-resveratrol-cellular-longevity-complex,Cellular Longevity Complex,Bottle,PHR1,one_time,6,49.0,294.0,89.0,CLC,6,2026-11-11,0.4494
+PHR,nmn-resveratrol-cellular-longevity-complex,Cellular Longevity Complex,Bottle,PHR1,subscribe_save,1,62.1,62.1,89.0,CLC1AD,1,2026-11-11,0.3022
+PHR,nmn-resveratrol-cellular-longevity-complex,Cellular Longevity Complex,Bottle,PHR1,subscribe_save,3,53.1,159.3,89.0,CLC3AD,1,2026-11-11,0.4034
+PHR,nmn-resveratrol-cellular-longevity-complex,Cellular Longevity Complex,Bottle,PHR1,subscribe_save,6,44.1,264.6,89.0,CLC6AD,1,2026-11-11,0.5045
+PHR,nootropic-mushroom-formula-supplement,Nootropic Mushroom Formula,Bottle,PHR1,one_time,1,38.99,38.99,69.0,NMC,1,2026-11-11,0.4349
+PHR,nootropic-mushroom-formula-supplement,Nootropic Mushroom Formula,Bottle,PHR1,one_time,3,32.49,97.47,69.0,NMC,3,2026-11-11,0.5291
+PHR,nootropic-mushroom-formula-supplement,Nootropic Mushroom Formula,Bottle,PHR1,one_time,6,25.99,155.94,69.0,NMC,6,2026-11-11,0.6233
+PHR,nootropic-mushroom-formula-supplement,Nootropic Mushroom Formula,Bottle,PHR1,subscribe_save,1,32.49,32.49,69.0,NMC1AD,1,2026-11-11,0.5291
+PHR,nootropic-mushroom-formula-supplement,Nootropic Mushroom Formula,Bottle,PHR1,subscribe_save,3,25.99,77.97,69.0,NMC3AD,1,2026-11-11,0.6233
+PHR,nootropic-mushroom-formula-supplement,Nootropic Mushroom Formula,Bottle,PHR1,subscribe_save,6,19.49,116.94,69.0,NMC6AD,1,2026-11-11,0.7175
+PHR,olive-leaf,Olive Leaf,Bottle,PHR1,one_time,1,19.5,19.5,69.0,JOO,1,2026-11-11,0.7174
+PHR,olive-leaf,Olive Leaf,Bottle,PHR1,one_time,3,17.5,52.5,69.0,JOO,3,2026-11-11,0.7464
+PHR,olive-leaf,Olive Leaf,Bottle,PHR1,one_time,6,16.0,96.0,69.0,JOO,6,2026-11-11,0.7681
+PHR,olive-leaf,Olive Leaf,Bottle,PHR1,subscribe_save,1,17.55,17.55,69.0,JOO1AD,1,2026-11-11,0.7457
+PHR,olive-leaf,Olive Leaf,Bottle,PHR1,subscribe_save,3,15.75,47.25,69.0,JOO3AD,1,2026-11-11,0.7717
+PHR,olive-leaf,Olive Leaf,Bottle,PHR1,subscribe_save,6,14.4,86.4,69.0,JOO6AD,1,2026-11-11,0.7913
+PHR,oral-health-support,Oral Health Support,Bottle,PHR1,one_time,1,29.99,29.99,69.0,OHC,1,2026-11-11,0.5654
+PHR,oral-health-support,Oral Health Support,Bottle,PHR1,one_time,3,24.99,74.97,69.09,OHC,3,2026-11-11,0.6383
+PHR,oral-health-support,Oral Health Support,Bottle,PHR1,one_time,6,19.99,119.94,69.0,OHC,6,2026-11-11,0.7103
+PHR,oral-health-support,Oral Health Support,Bottle,PHR1,subscribe_save,1,24.99,24.99,69.0,OHC1AD,1,2026-11-11,0.6378
+PHR,oral-health-support,Oral Health Support,Bottle,PHR1,subscribe_save,3,19.99,59.97,69.0,OHC3AD,1,2026-11-11,0.7103
+PHR,oral-health-support,Oral Health Support,Bottle,PHR1,subscribe_save,6,14.99,89.94,69.0,OHC6AD,1,2026-11-11,0.7828
+PHR,parabroom-parasite-cleanse-supplement,Parabroom,Bottle,PHR1,one_time,1,59.99,59.99,69.0,RME,1,2026-11-11,0.1306
+PHR,parabroom-parasite-cleanse-supplement,Parabroom,Bottle,PHR1,one_time,3,49.99,149.97,69.0,RME,3,2026-11-11,0.2755
+PHR,parabroom-parasite-cleanse-supplement,Parabroom,Bottle,PHR1,one_time,6,39.99,239.94,69.0,RME,6,2026-11-11,0.4204
+PHR,parabroom-parasite-cleanse-supplement,Parabroom,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,RME1AD,1,2026-11-11,0.2755
+PHR,parabroom-parasite-cleanse-supplement,Parabroom,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,RME3AD,1,2026-11-11,0.4204
+PHR,parabroom-parasite-cleanse-supplement,Parabroom,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,RME6AD,1,2026-11-11,0.5654
+PHR,proflow-prostate-health-supplement,ProFlow+,Bottle,PHR1,one_time,1,59.99,59.99,69.0,PRE,1,2026-11-11,0.1306
+PHR,proflow-prostate-health-supplement,ProFlow+,Bottle,PHR1,one_time,3,49.99,149.97,69.0,PRE,3,2026-11-11,0.2755
+PHR,proflow-prostate-health-supplement,ProFlow+,Bottle,PHR1,one_time,6,39.99,239.94,69.0,PRE,6,2026-11-11,0.4204
+PHR,proflow-prostate-health-supplement,ProFlow+,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,PRE1AD,1,2026-11-11,0.2755
+PHR,proflow-prostate-health-supplement,ProFlow+,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,PRE3AD,1,2026-11-11,0.4204
+PHR,proflow-prostate-health-supplement,ProFlow+,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,PRE6AD,1,2026-11-11,0.5654
+PHR,purizen-body-balance-supplement,PuriZen,Bottle,PHR1,one_time,1,59.99,59.99,69.0,PZC,1,2026-11-11,0.1306
+PHR,purizen-body-balance-supplement,PuriZen,Bottle,PHR1,one_time,3,49.99,149.97,69.0,PZC,3,2026-11-11,0.2755
+PHR,purizen-body-balance-supplement,PuriZen,Bottle,PHR1,one_time,6,39.99,239.94,69.0,PZC,6,2026-11-11,0.4204
+PHR,purizen-body-balance-supplement,PuriZen,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,PZC1AD,1,2026-11-11,0.2755
+PHR,purizen-body-balance-supplement,PuriZen,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,PZC3AD,1,2026-11-11,0.4204
+PHR,purizen-body-balance-supplement,PuriZen,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,PZC6AD,1,2026-11-11,0.5654
+PHR,regrow-hair-growth-supplement,ReGROW – HAIR Activation Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,HRGE,1,2026-11-11,0.1306
+PHR,regrow-hair-growth-supplement,ReGROW – HAIR Activation Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,HRGE,3,2026-11-11,0.2755
+PHR,regrow-hair-growth-supplement,ReGROW – HAIR Activation Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,HRGE,6,2026-11-11,0.4204
+PHR,regrow-hair-growth-supplement,ReGROW – HAIR Activation Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,HRGE1AD,1,2026-11-11,0.2755
+PHR,regrow-hair-growth-supplement,ReGROW – HAIR Activation Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,HRGE3AD,1,2026-11-11,0.4204
+PHR,regrow-hair-growth-supplement,ReGROW – HAIR Activation Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,HRGE6AD,1,2026-11-11,0.5654
+PHR,sapienbiotics-probiotics-prebiotics-supplement,Sapienbiotics,Bottle,PHR1,one_time,1,38.99,38.99,69.0,SPF,1,2026-11-11,0.4349
+PHR,sapienbiotics-probiotics-prebiotics-supplement,Sapienbiotics,Bottle,PHR1,one_time,3,32.49,97.47,69.0,SPF,3,2026-11-11,0.5291
+PHR,sapienbiotics-probiotics-prebiotics-supplement,Sapienbiotics,Bottle,PHR1,one_time,6,25.99,155.94,69.0,SPF,6,2026-11-11,0.6233
+PHR,sapienbiotics-probiotics-prebiotics-supplement,Sapienbiotics,Bottle,PHR1,subscribe_save,1,32.49,32.49,69.0,SPF1AD,1,2026-11-11,0.5291
+PHR,sapienbiotics-probiotics-prebiotics-supplement,Sapienbiotics,Bottle,PHR1,subscribe_save,3,25.99,77.97,69.0,SPF3AD,1,2026-11-11,0.6233
+PHR,sapienbiotics-probiotics-prebiotics-supplement,Sapienbiotics,Bottle,PHR1,subscribe_save,6,19.49,116.94,69.0,SPF6AD,1,2026-11-11,0.7175
+PHR,saw-palmetto-urinary-tract-supplement,Saw Palmetto,Bottle,PHR1,one_time,1,39.0,39.0,69.0,PJM,1,2026-11-11,0.4348
+PHR,saw-palmetto-urinary-tract-supplement,Saw Palmetto,Bottle,PHR1,one_time,3,35.0,105.0,69.0,PJM,3,2026-11-11,0.4928
+PHR,saw-palmetto-urinary-tract-supplement,Saw Palmetto,Bottle,PHR1,one_time,6,32.0,192.0,69.0,PJM,6,2026-11-11,0.5362
+PHR,saw-palmetto-urinary-tract-supplement,Saw Palmetto,Bottle,PHR1,subscribe_save,1,35.1,35.1,69.0,PJZ1AD,1,2026-11-11,0.4913
+PHR,saw-palmetto-urinary-tract-supplement,Saw Palmetto,Bottle,PHR1,subscribe_save,3,31.5,94.5,69.0,PJZ3AD,1,2026-11-11,0.5435
+PHR,saw-palmetto-urinary-tract-supplement,Saw Palmetto,Bottle,PHR1,subscribe_save,6,28.8,172.8,69.0,PJZ6AD,1,2026-11-11,0.5826
+PHR,shilajit-supplement,Shilajit,Bottle,PHR1,one_time,1,49.0,49.0,69.0,JTM,1,2026-11-11,0.2899
+PHR,shilajit-supplement,Shilajit,Bottle,PHR1,one_time,3,45.0,135.0,69.0,JTM,3,2026-11-11,0.3478
+PHR,shilajit-supplement,Shilajit,Bottle,PHR1,one_time,6,42.0,252.0,69.0,JTM,6,2026-11-11,0.3913
+PHR,shilajit-supplement,Shilajit,Bottle,PHR1,subscribe_save,1,44.1,44.1,69.0,JTM1AD,1,2026-11-11,0.3609
+PHR,shilajit-supplement,Shilajit,Bottle,PHR1,subscribe_save,3,40.5,121.5,69.0,JTM3AD,1,2026-11-11,0.413
+PHR,shilajit-supplement,Shilajit,Bottle,PHR1,subscribe_save,6,37.8,226.8,69.0,JTM6AD,1,2026-11-11,0.4522
+PHR,sleep-formula-supplement,Sleep Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,SFO,1,2026-11-11,0.1306
+PHR,sleep-formula-supplement,Sleep Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,SFO,3,2026-11-11,0.2755
+PHR,sleep-formula-supplement,Sleep Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,SFO,6,2026-11-11,0.4204
+PHR,sleep-formula-supplement,Sleep Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,SFO1AD,1,2026-11-11,0.2755
+PHR,sleep-formula-supplement,Sleep Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,SFO3AD,1,2026-11-11,0.4204
+PHR,sleep-formula-supplement,Sleep Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,SFO6AD,1,2026-11-11,0.5654
+PHR,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Complex,Bottle,PHR1,one_time,1,19.5,19.5,69.0,LKT,1,2026-11-11,0.7174
+PHR,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Complex,Bottle,PHR1,one_time,3,17.5,52.5,69.0,LKT,3,2026-11-11,0.7464
+PHR,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Complex,Bottle,PHR1,one_time,6,16.0,96.0,69.0,LKT,6,2026-11-11,0.7681
+PHR,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Complex,Bottle,PHR1,subscribe_save,1,17.55,17.55,69.0,LKT1AD,1,2026-11-11,0.7457
+PHR,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Complex,Bottle,PHR1,subscribe_save,3,15.75,47.25,69.0,LKT3AD,1,2026-11-11,0.7717
+PHR,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Complex,Bottle,PHR1,subscribe_save,6,14.4,86.4,69.0,LKT6AD,1,2026-11-11,0.7913
+PHR,stress-relief-supplement,Stress Release Complex,Bottle,PHR1,one_time,1,59.99,59.99,69.0,SRC,1,2026-11-11,0.1306
+PHR,stress-relief-supplement,Stress Release Complex,Bottle,PHR1,one_time,3,49.99,149.97,69.0,SRC,3,2026-11-11,0.2755
+PHR,stress-relief-supplement,Stress Release Complex,Bottle,PHR1,one_time,6,39.99,239.94,69.0,SRC,6,2026-11-11,0.4204
+PHR,stress-relief-supplement,Stress Release Complex,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,SRC1AD,1,2026-11-11,0.2755
+PHR,stress-relief-supplement,Stress Release Complex,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,SRC3AD,1,2026-11-11,0.4204
+PHR,stress-relief-supplement,Stress Release Complex,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,SRC6AD,1,2026-11-11,0.5654
+PHR,thyroid-harmony-supplement,Thyroid Harmony Formula,Bottle,PHR1,one_time,1,59.99,59.99,69.0,TYR,1,2026-11-11,0.1306
+PHR,thyroid-harmony-supplement,Thyroid Harmony Formula,Bottle,PHR1,one_time,3,49.99,149.97,69.0,TYR,3,2026-11-11,0.2755
+PHR,thyroid-harmony-supplement,Thyroid Harmony Formula,Bottle,PHR1,one_time,6,39.99,239.94,69.0,TYR,6,2026-11-11,0.4204
+PHR,thyroid-harmony-supplement,Thyroid Harmony Formula,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,TYR1AD,1,2026-11-11,0.2755
+PHR,thyroid-harmony-supplement,Thyroid Harmony Formula,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,TYR3AD,1,2026-11-11,0.4204
+PHR,thyroid-harmony-supplement,Thyroid Harmony Formula,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,TYR6AD,1,2026-11-11,0.5654
+PHR,toenail-wellness,Toenail Wellness,Bottle,PHR1,one_time,1,59.99,59.99,69.0,TTC,1,2026-11-11,0.1306
+PHR,toenail-wellness,Toenail Wellness,Bottle,PHR1,one_time,3,49.99,149.97,69.0,TTC,3,2026-11-11,0.2755
+PHR,toenail-wellness,Toenail Wellness,Bottle,PHR1,one_time,6,39.99,239.94,69.0,TTC,6,2026-11-11,0.4204
+PHR,toenail-wellness,Toenail Wellness,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,TTC1AD,1,2026-11-11,0.2755
+PHR,toenail-wellness,Toenail Wellness,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,TTC3AD,1,2026-11-11,0.4204
+PHR,toenail-wellness,Toenail Wellness,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,TTC6AD,1,2026-11-11,0.5654
+PHR,tongkat-ali-supplement,Tongkat Ali,Bottle,PHR1,one_time,1,19.5,19.5,69.0,WAO,1,2026-11-11,0.7174
+PHR,tongkat-ali-supplement,Tongkat Ali,Bottle,PHR1,one_time,3,17.5,52.5,69.0,WAO,3,2026-11-11,0.7464
+PHR,tongkat-ali-supplement,Tongkat Ali,Bottle,PHR1,one_time,6,16.0,96.0,69.0,WAO,6,2026-11-11,0.7681
+PHR,tongkat-ali-supplement,Tongkat Ali,Bottle,PHR1,subscribe_save,1,17.55,17.55,69.0,WAO1AD,1,2026-11-11,0.7457
+PHR,tongkat-ali-supplement,Tongkat Ali,Bottle,PHR1,subscribe_save,3,15.75,47.25,69.0,WAO3AD,1,2026-11-11,0.7717
+PHR,tongkat-ali-supplement,Tongkat Ali,Bottle,PHR1,subscribe_save,6,14.4,86.4,69.0,WAO6AD,1,2026-11-11,0.7913
+PHR,ultimate-heart-health-protocol,Ultimate Heart Health Protocol,Set,PHR1,one_time,1,139.0,139.0,207.0,UHA,1,2026-11-11,0.3285
+PHR,ultimate-heart-health-protocol,Ultimate Heart Health Protocol,Set,PHR1,one_time,3,129.0,387.0,207.0,UHA,3,2026-11-11,0.3768
+PHR,ultimate-heart-health-protocol,Ultimate Heart Health Protocol,Set,PHR1,one_time,6,119.0,714.0,207.0,UHA,6,2026-11-11,0.4251
+PHR,ultimate-heart-health-protocol,Ultimate Heart Health Protocol,Set,PHR1,subscribe_save,1,125.1,125.1,207.0,UHA1AD,1,2026-11-11,0.3957
+PHR,ultimate-heart-health-protocol,Ultimate Heart Health Protocol,Set,PHR1,subscribe_save,3,116.1,348.3,207.0,UHA3AD,1,2026-11-11,0.4391
+PHR,ultimate-heart-health-protocol,Ultimate Heart Health Protocol,Set,PHR1,subscribe_save,6,107.1,642.6,207.0,UHA6AD,1,2026-11-11,0.4826
+PHR,ut-fix-urinary-tract-supplement,UT FIX,Bottle,PHR1,one_time,1,59.99,59.99,69.0,UTE,1,2026-11-11,0.1306
+PHR,ut-fix-urinary-tract-supplement,UT FIX,Bottle,PHR1,one_time,3,49.99,149.97,69.0,UTE,3,2026-11-11,0.2755
+PHR,ut-fix-urinary-tract-supplement,UT FIX,Bottle,PHR1,one_time,6,39.99,239.94,69.0,UTE,6,2026-11-11,0.4204
+PHR,ut-fix-urinary-tract-supplement,UT FIX,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,UTE1AD,1,2026-11-11,0.2755
+PHR,ut-fix-urinary-tract-supplement,UT FIX,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,UTE3AD,1,2026-11-11,0.4204
+PHR,ut-fix-urinary-tract-supplement,UT FIX,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,UTE6AD,1,2026-11-11,0.5654
+PHR,venease-vein-health-supplement,VenEase,Bottle,PHR1,one_time,1,59.99,59.99,69.0,VEE,1,2026-11-11,0.1306
+PHR,venease-vein-health-supplement,VenEase,Bottle,PHR1,one_time,3,49.99,149.97,69.0,VEE,3,2026-11-11,0.2755
+PHR,venease-vein-health-supplement,VenEase,Bottle,PHR1,one_time,6,39.99,239.94,69.0,VEE,6,2026-11-11,0.4204
+PHR,venease-vein-health-supplement,VenEase,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,VEE1AD,1,2026-11-11,0.2755
+PHR,venease-vein-health-supplement,VenEase,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,VEE3AD,1,2026-11-11,0.4204
+PHR,venease-vein-health-supplement,VenEase,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,VEE6AD,1,2026-11-11,0.5654
+PHR,yeast-protein-creatine-electrolytes,Yeast Protein + Creatine + Hydration,Jar,PHR1,one_time,1,59.99,59.99,69.0,YCH,1,2026-11-11,0.1306
+PHR,yeast-protein-creatine-electrolytes,Yeast Protein + Creatine + Hydration,Jar,PHR1,one_time,3,49.99,149.97,69.0,YCH,3,2026-11-11,0.2755
+PHR,yeast-protein-creatine-electrolytes,Yeast Protein + Creatine + Hydration,Jar,PHR1,one_time,6,39.99,239.94,69.0,YCH,6,2026-11-11,0.4204
+PHR,yeast-protein-creatine-electrolytes,Yeast Protein + Creatine + Hydration,Jar,PHR1,subscribe_save,1,49.99,49.99,69.0,YCH1AD,1,2026-11-11,0.2755
+PHR,yeast-protein-creatine-electrolytes,Yeast Protein + Creatine + Hydration,Jar,PHR1,subscribe_save,3,39.99,119.97,69.0,YCH3AD,1,2026-11-11,0.4204
+PHR,yeast-protein-creatine-electrolytes,Yeast Protein + Creatine + Hydration,Jar,PHR1,subscribe_save,6,29.99,179.94,69.0,YCH6AD,1,2026-11-11,0.5654
+PHR,youth-switch-longevity-supplement,Youth Switch,Bottle,PHR1,one_time,1,59.99,59.99,69.0,YSO,1,2026-11-11,0.1306
+PHR,youth-switch-longevity-supplement,Youth Switch,Bottle,PHR1,one_time,3,49.99,149.97,69.0,YSO,3,2026-11-11,0.2755
+PHR,youth-switch-longevity-supplement,Youth Switch,Bottle,PHR1,one_time,6,39.99,239.94,69.0,YSO,6,2026-11-11,0.4204
+PHR,youth-switch-longevity-supplement,Youth Switch,Bottle,PHR1,subscribe_save,1,49.99,49.99,69.0,YSO1AD,1,2026-11-11,0.2755
+PHR,youth-switch-longevity-supplement,Youth Switch,Bottle,PHR1,subscribe_save,3,39.99,119.97,69.0,YSO3AD,1,2026-11-11,0.4204
+PHR,youth-switch-longevity-supplement,Youth Switch,Bottle,PHR1,subscribe_save,6,29.99,179.94,69.0,YSO6AD,1,2026-11-11,0.5654
+NHMD,activespan-longevity-supplement,ActiveSpan,Bottle,LHP,one_time,1,59.99,59.99,69.0,ATK,1,2026-11-11,0.1306
+NHMD,activespan-longevity-supplement,ActiveSpan,Bottle,LHP,one_time,3,49.99,149.97,69.0,ATK,3,2026-11-11,0.2755
+NHMD,activespan-longevity-supplement,ActiveSpan,Bottle,LHP,one_time,6,39.99,239.94,69.0,ATK,6,2026-11-11,0.4204
+NHMD,activespan-longevity-supplement,ActiveSpan,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,ATK1AD,1,2026-11-11,0.2755
+NHMD,activespan-longevity-supplement,ActiveSpan,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,ATK3AD,1,2026-11-11,0.4204
+NHMD,activespan-longevity-supplement,ActiveSpan,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,ATK6AD,1,2026-11-11,0.5654
+NHMD,artichoke-extract-supplement,Artichoke Extract Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,OKN,1,2026-11-11,0.4348
+NHMD,artichoke-extract-supplement,Artichoke Extract Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,OKN,3,2026-11-11,0.4928
+NHMD,artichoke-extract-supplement,Artichoke Extract Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,OKN,6,2026-11-11,0.5362
+NHMD,artichoke-extract-supplement,Artichoke Extract Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,OKZ1AD,1,2026-11-11,0.4913
+NHMD,artichoke-extract-supplement,Artichoke Extract Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,OKZ3AD,1,2026-11-11,0.5435
+NHMD,artichoke-extract-supplement,Artichoke Extract Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,OKZ6AD,1,2026-11-11,0.5826
+NHMD,ashwagandha-supplement,Ashwagandha Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,DHM,1,2026-11-11,0.4348
+NHMD,ashwagandha-supplement,Ashwagandha Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,DHM,3,2026-11-11,0.4928
+NHMD,ashwagandha-supplement,Ashwagandha Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,DHM,6,2026-11-11,0.5362
+NHMD,ashwagandha-supplement,Ashwagandha Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,DHZ1AD,1,2026-11-11,0.4913
+NHMD,ashwagandha-supplement,Ashwagandha Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,DHZ3AD,1,2026-11-11,0.5435
+NHMD,ashwagandha-supplement,Ashwagandha Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,DHZ6AD,1,2026-11-11,0.5826
+NHMD,bacopa-monnieri-supplement,Bacopa Monnieri Capsules,Bottle,LHP,one_time,1,19.5,19.5,69.0,MUO,1,2026-11-11,0.7174
+NHMD,bacopa-monnieri-supplement,Bacopa Monnieri Capsules,Bottle,LHP,one_time,3,17.5,52.5,69.0,MUO,3,2026-11-11,0.7464
+NHMD,bacopa-monnieri-supplement,Bacopa Monnieri Capsules,Bottle,LHP,one_time,6,16.0,96.0,69.0,MUO,6,2026-11-11,0.7681
+NHMD,bacopa-monnieri-supplement,Bacopa Monnieri Capsules,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,MUO1AD,1,2026-11-11,0.7457
+NHMD,bacopa-monnieri-supplement,Bacopa Monnieri Capsules,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,MUO3AD,1,2026-11-11,0.7717
+NHMD,bacopa-monnieri-supplement,Bacopa Monnieri Capsules,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,MUO6AD,1,2026-11-11,0.7913
+NHMD,balance-biotics-supplement,Balance Biotics,Bottle,LHP,one_time,1,59.99,59.99,69.0,BIO,1,2026-11-11,0.1306
+NHMD,balance-biotics-supplement,Balance Biotics,Bottle,LHP,one_time,3,49.99,149.97,69.0,BIO,3,2026-11-11,0.2755
+NHMD,balance-biotics-supplement,Balance Biotics,Bottle,LHP,one_time,6,39.99,239.94,69.0,BIO,6,2026-11-11,0.4204
+NHMD,balance-biotics-supplement,Balance Biotics,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,BIO1AD,1,2026-11-11,0.2755
+NHMD,balance-biotics-supplement,Balance Biotics,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,BIO3AD,1,2026-11-11,0.4204
+NHMD,balance-biotics-supplement,Balance Biotics,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,BIO6AD,1,2026-11-11,0.5654
+NHMD,bare-feet-toenail-fungus-supplement,Bare Feet,Bottle,LHP,one_time,1,29.0,29.0,69.0,BFO,1,2026-11-11,0.5797
+NHMD,bare-feet-toenail-fungus-supplement,Bare Feet,Bottle,LHP,one_time,3,25.0,75.0,69.0,BFO,3,2026-11-11,0.6377
+NHMD,bare-feet-toenail-fungus-supplement,Bare Feet,Bottle,LHP,one_time,6,22.0,132.0,69.0,BFO,6,2026-11-11,0.6812
+NHMD,bare-feet-toenail-fungus-supplement,Bare Feet,Bottle,LHP,subscribe_save,1,26.1,26.1,69.0,BFO1AD,1,2026-11-11,0.6217
+NHMD,bare-feet-toenail-fungus-supplement,Bare Feet,Bottle,LHP,subscribe_save,3,22.5,67.5,69.0,BFO3AD,1,2026-11-11,0.6739
+NHMD,bare-feet-toenail-fungus-supplement,Bare Feet,Bottle,LHP,subscribe_save,6,19.8,118.8,69.0,BFO6AD,1,2026-11-11,0.713
+NHMD,beet-root-supplement,Beet Root Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,BDL,1,2026-11-11,0.4348
+NHMD,beet-root-supplement,Beet Root Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,BDL,3,2026-11-11,0.4928
+NHMD,beet-root-supplement,Beet Root Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,BDL,6,2026-11-11,0.5362
+NHMD,beet-root-supplement,Beet Root Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,BDL1AD,1,2026-11-11,0.4913
+NHMD,beet-root-supplement,Beet Root Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,BDL3AD,1,2026-11-11,0.5435
+NHMD,beet-root-supplement,Beet Root Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,BDL6AD,1,2026-11-11,0.5826
+NHMD,berberine-extract-supplements,Berberine Extract Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,BE,1,2026-11-11,0.4348
+NHMD,berberine-extract-supplements,Berberine Extract Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,BE,3,2026-11-11,0.4928
+NHMD,berberine-extract-supplements,Berberine Extract Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,BE,6,2026-11-11,0.5362
+NHMD,berberine-extract-supplements,Berberine Extract Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,BEZ1AD,1,2026-11-11,0.4913
+NHMD,berberine-extract-supplements,Berberine Extract Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,BEZ3AD,1,2026-11-11,0.5435
+NHMD,berberine-extract-supplements,Berberine Extract Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,BEZ6AD,1,2026-11-11,0.5826
+NHMD,bone-complex-natural-bone-supplement,Bone Complex Capsules,Bottle,LHP,one_time,1,59.99,59.99,69.0,BTO,1,2026-11-11,0.1306
+NHMD,bone-complex-natural-bone-supplement,Bone Complex Capsules,Bottle,LHP,one_time,3,49.99,149.97,69.0,BTO,3,2026-11-11,0.2755
+NHMD,bone-complex-natural-bone-supplement,Bone Complex Capsules,Bottle,LHP,one_time,6,39.99,239.94,69.0,BTO,6,2026-11-11,0.4204
+NHMD,bone-complex-natural-bone-supplement,Bone Complex Capsules,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,BTO1AD,1,2026-11-11,0.2755
+NHMD,bone-complex-natural-bone-supplement,Bone Complex Capsules,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,BTO3AD,1,2026-11-11,0.4204
+NHMD,bone-complex-natural-bone-supplement,Bone Complex Capsules,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,BTO6AD,1,2026-11-11,0.5654
+NHMD,cl-switch-supplement-for-high-cholesterol,CL Switch - Supplement for High Cholesterol,Bottle,LHP,one_time,1,59.99,59.99,69.0,CSO,1,2026-11-11,0.1306
+NHMD,cl-switch-supplement-for-high-cholesterol,CL Switch - Supplement for High Cholesterol,Bottle,LHP,one_time,3,49.99,149.97,69.0,CSO,3,2026-11-11,0.2755
+NHMD,cl-switch-supplement-for-high-cholesterol,CL Switch - Supplement for High Cholesterol,Bottle,LHP,one_time,6,39.99,239.94,69.0,CSO,6,2026-11-11,0.4204
+NHMD,cl-switch-supplement-for-high-cholesterol,CL Switch - Supplement for High Cholesterol,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,CSO1AD,1,2026-11-11,0.2755
+NHMD,cl-switch-supplement-for-high-cholesterol,CL Switch - Supplement for High Cholesterol,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,CSO3AD,1,2026-11-11,0.4204
+NHMD,cl-switch-supplement-for-high-cholesterol,CL Switch - Supplement for High Cholesterol,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,CSO6AD,1,2026-11-11,0.5654
+NHMD,cleanse24-parasite-cleanse-supplement,Cleanse24,Bottle,LHP,one_time,1,59.99,59.99,69.0,CNU,1,2026-11-11,0.1306
+NHMD,cleanse24-parasite-cleanse-supplement,Cleanse24,Bottle,LHP,one_time,3,49.99,149.97,69.0,CNU,3,2026-11-11,0.2755
+NHMD,cleanse24-parasite-cleanse-supplement,Cleanse24,Bottle,LHP,one_time,6,39.99,239.94,69.0,CNU,6,2026-11-11,0.4204
+NHMD,cleanse24-parasite-cleanse-supplement,Cleanse24,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,CNU1AD,1,2026-11-11,0.2755
+NHMD,cleanse24-parasite-cleanse-supplement,Cleanse24,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,CNU3AD,1,2026-11-11,0.4204
+NHMD,cleanse24-parasite-cleanse-supplement,Cleanse24,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,CNU6AD,1,2026-11-11,0.5654
+NHMD,clear-toenail-oil-essential-oil-for-toenail-fungus,Clear Toenail Oil MD - Essential Oil for Toenail Fungus,Bottle,LHP,one_time,1,59.99,59.99,69.0,TOO,1,2026-11-11,0.1306
+NHMD,clear-toenail-oil-essential-oil-for-toenail-fungus,Clear Toenail Oil MD - Essential Oil for Toenail Fungus,Bottle,LHP,one_time,3,49.99,149.97,69.0,TOO,3,2026-11-11,0.2755
+NHMD,clear-toenail-oil-essential-oil-for-toenail-fungus,Clear Toenail Oil MD - Essential Oil for Toenail Fungus,Bottle,LHP,one_time,6,39.99,239.94,69.0,TOO,6,2026-11-11,0.4204
+NHMD,clear-toenail-oil-essential-oil-for-toenail-fungus,Clear Toenail Oil MD - Essential Oil for Toenail Fungus,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,TOO1AD,1,2026-11-11,0.2755
+NHMD,clear-toenail-oil-essential-oil-for-toenail-fungus,Clear Toenail Oil MD - Essential Oil for Toenail Fungus,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,TOO3AD,1,2026-11-11,0.4204
+NHMD,clear-toenail-oil-essential-oil-for-toenail-fungus,Clear Toenail Oil MD - Essential Oil for Toenail Fungus,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,TOO6AD,1,2026-11-11,0.5654
+NHMD,cognilux-memory-support-supplement,Cognilux,Bottle,LHP,one_time,1,59.99,59.99,69.0,BGR,1,2026-11-11,0.1306
+NHMD,cognilux-memory-support-supplement,Cognilux,Bottle,LHP,one_time,3,49.99,149.97,69.0,BGR,3,2026-11-11,0.2755
+NHMD,cognilux-memory-support-supplement,Cognilux,Bottle,LHP,one_time,6,39.99,239.94,69.0,BGR,6,2026-11-11,0.4204
+NHMD,cognilux-memory-support-supplement,Cognilux,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,BGR1AD,1,2026-11-11,0.2755
+NHMD,cognilux-memory-support-supplement,Cognilux,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,BGR3AD,1,2026-11-11,0.4204
+NHMD,cognilux-memory-support-supplement,Cognilux,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,BGR6AD,1,2026-11-11,0.5654
+NHMD,curcumin-extract-supplement,Curcumin Extract Supplement,Bottle,LHP,one_time,1,59.99,59.99,69.0,CMO,1,2026-11-11,0.1306
+NHMD,curcumin-extract-supplement,Curcumin Extract Supplement,Bottle,LHP,one_time,3,49.99,149.97,69.0,CMO,3,2026-11-11,0.2755
+NHMD,curcumin-extract-supplement,Curcumin Extract Supplement,Bottle,LHP,one_time,6,39.99,239.94,69.0,CMO,6,2026-11-11,0.4204
+NHMD,curcumin-extract-supplement,Curcumin Extract Supplement,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,CMO1AD,1,2026-11-11,0.2755
+NHMD,curcumin-extract-supplement,Curcumin Extract Supplement,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,CMO3AD,1,2026-11-11,0.4204
+NHMD,curcumin-extract-supplement,Curcumin Extract Supplement,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,CMO6AD,1,2026-11-11,0.5654
+NHMD,daily-multivitamins,Multivitamin Complex Capsules,Bottle,LHP,one_time,1,29.99,29.99,69.0,VXP,1,2026-11-11,0.5654
+NHMD,daily-multivitamins,Multivitamin Complex Capsules,Bottle,LHP,one_time,3,24.99,74.97,69.0,VXP,3,2026-11-11,0.6378
+NHMD,daily-multivitamins,Multivitamin Complex Capsules,Bottle,LHP,one_time,6,19.99,119.94,69.0,VXP,6,2026-11-11,0.7103
+NHMD,daily-multivitamins,Multivitamin Complex Capsules,Bottle,LHP,subscribe_save,1,24.99,24.99,69.0,VXP1AD,1,2026-11-11,0.6378
+NHMD,daily-multivitamins,Multivitamin Complex Capsules,Bottle,LHP,subscribe_save,3,19.99,59.97,69.0,VXP3AD,1,2026-11-11,0.7103
+NHMD,daily-multivitamins,Multivitamin Complex Capsules,Bottle,LHP,subscribe_save,6,14.99,89.94,69.0,VXP6AD,1,2026-11-11,0.7828
+NHMD,elderberry-supplement,Elderberry Capsules,Bottle,LHP,one_time,1,19.5,19.5,69.0,PQO,1,2026-11-11,0.7174
+NHMD,elderberry-supplement,Elderberry Capsules,Bottle,LHP,one_time,3,17.5,52.5,69.0,PQO,3,2026-11-11,0.7464
+NHMD,elderberry-supplement,Elderberry Capsules,Bottle,LHP,one_time,6,16.0,96.0,69.0,PQO,6,2026-11-11,0.7681
+NHMD,elderberry-supplement,Elderberry Capsules,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,PQO1AD,1,2026-11-11,0.7457
+NHMD,elderberry-supplement,Elderberry Capsules,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,PQO3AD,1,2026-11-11,0.7717
+NHMD,elderberry-supplement,Elderberry Capsules,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,PQO6AD,1,2026-11-11,0.7913
+NHMD,flow-active-prostate-health-supplement,Flow Active,Bottle,LHP,one_time,1,59.99,59.99,69.0,FTO,1,2026-11-11,0.1306
+NHMD,flow-active-prostate-health-supplement,Flow Active,Bottle,LHP,one_time,3,49.99,149.97,69.0,FTO,3,2026-11-11,0.2755
+NHMD,flow-active-prostate-health-supplement,Flow Active,Bottle,LHP,one_time,6,39.99,239.94,69.0,FTO,6,2026-11-11,0.4204
+NHMD,flow-active-prostate-health-supplement,Flow Active,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,FTO1AD,1,2026-11-11,0.2755
+NHMD,flow-active-prostate-health-supplement,Flow Active,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,FTO3AD,1,2026-11-11,0.4204
+NHMD,flow-active-prostate-health-supplement,Flow Active,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,FTO6AD,1,2026-11-11,0.5654
+NHMD,garlic-bulb-extract-supplement,Garlic Bulb Extract Supplement,Bottle,LHP,one_time,1,19.5,19.5,69.0,GOO,1,2026-11-11,0.7174
+NHMD,garlic-bulb-extract-supplement,Garlic Bulb Extract Supplement,Bottle,LHP,one_time,3,17.5,52.5,69.0,GOO,3,2026-11-11,0.7464
+NHMD,garlic-bulb-extract-supplement,Garlic Bulb Extract Supplement,Bottle,LHP,one_time,6,16.0,96.0,69.0,GOO,6,2026-11-11,0.7681
+NHMD,garlic-bulb-extract-supplement,Garlic Bulb Extract Supplement,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,GOO1AD,1,2026-11-11,0.7457
+NHMD,garlic-bulb-extract-supplement,Garlic Bulb Extract Supplement,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,GOO3AD,1,2026-11-11,0.7717
+NHMD,garlic-bulb-extract-supplement,Garlic Bulb Extract Supplement,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,GOO6AD,1,2026-11-11,0.7913
+NHMD,gift-card,Gift Card,,LHP,one_time,1,50.0,50.0,50.0,GCN50,1,2026-11-11,0.0
+NHMD,gift-card,Gift Card,,LHP,one_time,2,100.0,200.0,100.0,GCN100,1,2026-11-11,0.0
+NHMD,ginseng-energy-and-stamina-supplement,Ginseng,Bottle,LHP,one_time,1,19.5,19.5,69.0,GCO,1,2026-11-11,0.7174
+NHMD,ginseng-energy-and-stamina-supplement,Ginseng,Bottle,LHP,one_time,3,17.5,52.5,69.0,GCO,3,2026-11-11,0.7464
+NHMD,ginseng-energy-and-stamina-supplement,Ginseng,Bottle,LHP,one_time,6,16.0,96.0,69.0,GCO,6,2026-11-11,0.7681
+NHMD,ginseng-energy-and-stamina-supplement,Ginseng,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,GCO1AD,1,2026-11-11,0.7457
+NHMD,ginseng-energy-and-stamina-supplement,Ginseng,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,GCO3AD,1,2026-11-11,0.7717
+NHMD,ginseng-energy-and-stamina-supplement,Ginseng,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,GCO6AD,1,2026-11-11,0.7913
+NHMD,gluco24-blood-sugar-supplement,Gluco24,Bottle,LHP,one_time,1,59.99,59.99,69.0,BRE,1,2026-11-11,0.1306
+NHMD,gluco24-blood-sugar-supplement,Gluco24,Bottle,LHP,one_time,3,49.99,149.97,69.0,BRE,3,2026-11-11,0.2755
+NHMD,gluco24-blood-sugar-supplement,Gluco24,Bottle,LHP,one_time,6,39.99,239.94,69.0,BRE,6,2026-11-11,0.4204
+NHMD,gluco24-blood-sugar-supplement,Gluco24,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,BRE1AD,1,2026-11-11,0.2755
+NHMD,gluco24-blood-sugar-supplement,Gluco24,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,BRE3AD,1,2026-11-11,0.4204
+NHMD,gluco24-blood-sugar-supplement,Gluco24,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,BRE6AD,1,2026-11-11,0.5654
+NHMD,greens-gut-health-supplement,Greens - Gut Health Supplement,Jar,LHP,one_time,1,59.99,59.99,69.0,ZLO,1,2026-11-11,0.1306
+NHMD,greens-gut-health-supplement,Greens - Gut Health Supplement,Jar,LHP,one_time,3,49.99,149.97,69.0,ZLO,3,2026-11-11,0.2755
+NHMD,greens-gut-health-supplement,Greens - Gut Health Supplement,Jar,LHP,one_time,6,39.99,239.94,69.0,ZLO,6,2026-11-11,0.4204
+NHMD,greens-gut-health-supplement,Greens - Gut Health Supplement,Jar,LHP,subscribe_save,1,49.99,49.99,69.0,ZLO1AD,1,2026-11-11,0.2755
+NHMD,greens-gut-health-supplement,Greens - Gut Health Supplement,Jar,LHP,subscribe_save,3,39.99,119.97,69.0,ZLO3AD,1,2026-11-11,0.4204
+NHMD,greens-gut-health-supplement,Greens - Gut Health Supplement,Jar,LHP,subscribe_save,6,29.99,179.94,69.0,ZLO6AD,1,2026-11-11,0.5654
+NHMD,hair-switch-hair-growth-supplement,Hair Switch,Bottle,LHP,one_time,1,59.99,59.99,69.0,HSE,1,2026-11-11,0.1306
+NHMD,hair-switch-hair-growth-supplement,Hair Switch,Bottle,LHP,one_time,3,49.99,149.97,69.0,HSE,3,2026-11-11,0.2755
+NHMD,hair-switch-hair-growth-supplement,Hair Switch,Bottle,LHP,one_time,6,39.99,239.94,69.0,HSE,6,2026-11-11,0.4204
+NHMD,hair-switch-hair-growth-supplement,Hair Switch,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,HSE1AD,1,2026-11-11,0.2755
+NHMD,hair-switch-hair-growth-supplement,Hair Switch,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,HSE3AD,1,2026-11-11,0.4204
+NHMD,hair-switch-hair-growth-supplement,Hair Switch,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,HSE6AD,1,2026-11-11,0.5654
+NHMD,hawthorn-natural-herbal-supplement,Hawthorn Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,ODM,1,2026-11-11,0.4348
+NHMD,hawthorn-natural-herbal-supplement,Hawthorn Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,ODM,3,2026-11-11,0.4928
+NHMD,hawthorn-natural-herbal-supplement,Hawthorn Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,ODM,6,2026-11-11,0.5362
+NHMD,hawthorn-natural-herbal-supplement,Hawthorn Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,ODZ1AD,1,2026-11-11,0.4913
+NHMD,hawthorn-natural-herbal-supplement,Hawthorn Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,ODZ3AD,1,2026-11-11,0.5435
+NHMD,hawthorn-natural-herbal-supplement,Hawthorn Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,ODZ6AD,1,2026-11-11,0.5826
+NHMD,hearplus-hearing-support-supplement,HearPlus,Bottle,LHP,one_time,1,59.99,59.99,69.0,HPO,1,2026-11-11,0.1306
+NHMD,hearplus-hearing-support-supplement,HearPlus,Bottle,LHP,one_time,3,49.99,149.97,69.0,HPO,3,2026-11-11,0.2755
+NHMD,hearplus-hearing-support-supplement,HearPlus,Bottle,LHP,one_time,6,39.99,239.94,69.0,HPO,6,2026-11-11,0.4204
+NHMD,hearplus-hearing-support-supplement,HearPlus,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,HPO1AD,1,2026-11-11,0.2755
+NHMD,hearplus-hearing-support-supplement,HearPlus,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,HPO3AD,1,2026-11-11,0.4204
+NHMD,hearplus-hearing-support-supplement,HearPlus,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,HPO6AD,1,2026-11-11,0.5654
+NHMD,hydration-creatine-electrolyte-replacement-supplement,Premium Hydration + Creatine,Jar,LHP,one_time,1,59.99,59.99,69.0,PHCP,1,2026-11-11,0.1306
+NHMD,hydration-creatine-electrolyte-replacement-supplement,Premium Hydration + Creatine,Jar,LHP,one_time,3,49.99,149.97,69.0,PHCP,3,2026-11-11,0.2755
+NHMD,hydration-creatine-electrolyte-replacement-supplement,Premium Hydration + Creatine,Jar,LHP,one_time,6,39.99,239.94,69.0,PHCP,6,2026-11-11,0.4204
+NHMD,hydration-creatine-electrolyte-replacement-supplement,Premium Hydration + Creatine,Jar,LHP,subscribe_save,1,49.99,49.99,69.0,PHCP1AD,1,2026-11-11,0.2755
+NHMD,hydration-creatine-electrolyte-replacement-supplement,Premium Hydration + Creatine,Jar,LHP,subscribe_save,3,39.99,119.97,69.0,PHCP3AD,1,2026-11-11,0.4204
+NHMD,hydration-creatine-electrolyte-replacement-supplement,Premium Hydration + Creatine,Jar,LHP,subscribe_save,6,29.99,179.94,69.0,PHCP6AD,1,2026-11-11,0.5654
+NHMD,immunomd-immune-health-supplement,IMMUNO MD,Bottle,LHP,one_time,1,38.99,38.99,69.0,IMDP,1,2026-11-11,0.4349
+NHMD,immunomd-immune-health-supplement,IMMUNO MD,Bottle,LHP,one_time,3,32.49,97.47,69.0,IMDP,3,2026-11-11,0.5291
+NHMD,immunomd-immune-health-supplement,IMMUNO MD,Bottle,LHP,one_time,6,25.99,155.94,69.0,IMDP,6,2026-11-11,0.6233
+NHMD,immunomd-immune-health-supplement,IMMUNO MD,Bottle,LHP,subscribe_save,1,32.49,32.49,69.0,IMDP1AD,1,2026-11-11,0.5291
+NHMD,immunomd-immune-health-supplement,IMMUNO MD,Bottle,LHP,subscribe_save,3,25.99,77.97,69.0,IMDP3AD,1,2026-11-11,0.6233
+NHMD,immunomd-immune-health-supplement,IMMUNO MD,Bottle,LHP,subscribe_save,6,19.49,116.94,69.0,IMDP6AD,1,2026-11-11,0.7175
+NHMD,inside-and-out-nail-support,Inside & Out Nail Support Bundle,Set,LHP,one_time,1,108.0,108.0,207.0,IONS,1,2026-11-11,0.4783
+NHMD,inside-and-out-nail-support,Inside & Out Nail Support Bundle,Set,LHP,one_time,3,100.0,300.0,207.0,IONS,3,2026-11-11,0.5169
+NHMD,inside-and-out-nail-support,Inside & Out Nail Support Bundle,Set,LHP,one_time,6,94.0,564.0,207.0,IONS,6,2026-11-11,0.5459
+NHMD,inside-and-out-nail-support,Inside & Out Nail Support Bundle,Set,LHP,subscribe_save,1,97.2,97.2,207.0,IONS1AD,1,2026-11-11,0.5304
+NHMD,inside-and-out-nail-support,Inside & Out Nail Support Bundle,Set,LHP,subscribe_save,3,90.0,270.0,207.0,IONS3AD,1,2026-11-11,0.5652
+NHMD,inside-and-out-nail-support,Inside & Out Nail Support Bundle,Set,LHP,subscribe_save,6,84.6,507.6,207.0,IONS6AD,1,2026-11-11,0.5913
+NHMD,iron-supplement-with-vitamin-c,Iron and Vitamin C Supplement,Bottle,LHP,one_time,1,19.5,19.5,69.0,VCO,1,2026-11-11,0.7174
+NHMD,iron-supplement-with-vitamin-c,Iron and Vitamin C Supplement,Bottle,LHP,one_time,3,17.5,52.5,69.0,VCO,3,2026-11-11,0.7464
+NHMD,iron-supplement-with-vitamin-c,Iron and Vitamin C Supplement,Bottle,LHP,one_time,6,16.0,96.0,69.0,VCO,6,2026-11-11,0.7681
+NHMD,iron-supplement-with-vitamin-c,Iron and Vitamin C Supplement,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,VCO1AD,1,2026-11-11,0.7457
+NHMD,iron-supplement-with-vitamin-c,Iron and Vitamin C Supplement,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,VCO3AD,1,2026-11-11,0.7717
+NHMD,iron-supplement-with-vitamin-c,Iron and Vitamin C Supplement,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,VCO6AD,1,2026-11-11,0.7913
+NHMD,joint-complex-joint-health-supplement,Joint Complex,Bottle,LHP,one_time,1,59.99,59.99,69.0,JCE,1,2026-11-11,0.1306
+NHMD,joint-complex-joint-health-supplement,Joint Complex,Bottle,LHP,one_time,3,49.99,149.97,69.0,JCE,3,2026-11-11,0.2755
+NHMD,joint-complex-joint-health-supplement,Joint Complex,Bottle,LHP,one_time,6,39.99,239.94,69.0,JCE,6,2026-11-11,0.4204
+NHMD,joint-complex-joint-health-supplement,Joint Complex,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,JCE1AD,1,2026-11-11,0.2755
+NHMD,joint-complex-joint-health-supplement,Joint Complex,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,JCE3AD,1,2026-11-11,0.4204
+NHMD,joint-complex-joint-health-supplement,Joint Complex,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,JCE6AD,1,2026-11-11,0.5654
+NHMD,keto-md-keto-supplement,KETO MD - Keto Supplement,Bottle,LHP,one_time,1,59.99,59.99,69.0,KTO,1,2026-11-11,0.1306
+NHMD,keto-md-keto-supplement,KETO MD - Keto Supplement,Bottle,LHP,one_time,3,49.99,149.97,69.0,KTO,3,2026-11-11,0.2755
+NHMD,keto-md-keto-supplement,KETO MD - Keto Supplement,Bottle,LHP,one_time,6,39.99,239.94,69.0,KTO,6,2026-11-11,0.4204
+NHMD,keto-md-keto-supplement,KETO MD - Keto Supplement,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,KTO1AD,1,2026-11-11,0.2755
+NHMD,keto-md-keto-supplement,KETO MD - Keto Supplement,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,KTO3AD,1,2026-11-11,0.4204
+NHMD,keto-md-keto-supplement,KETO MD - Keto Supplement,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,KTO6AD,1,2026-11-11,0.5654
+NHMD,kidney-vitality-supplement,Kidney Vitality,Bottle,LHP,one_time,1,59.99,59.99,69.0,KVO,1,2026-11-11,0.1306
+NHMD,kidney-vitality-supplement,Kidney Vitality,Bottle,LHP,one_time,3,49.99,149.97,69.0,KVO,3,2026-11-11,0.2755
+NHMD,kidney-vitality-supplement,Kidney Vitality,Bottle,LHP,one_time,6,39.99,239.94,69.0,KVO,6,2026-11-11,0.4204
+NHMD,kidney-vitality-supplement,Kidney Vitality,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,KVO1AD,1,2026-11-11,0.2755
+NHMD,kidney-vitality-supplement,Kidney Vitality,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,KVO3AD,1,2026-11-11,0.4204
+NHMD,kidney-vitality-supplement,Kidney Vitality,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,KVO6AD,1,2026-11-11,0.5654
+NHMD,liver-renew-liver-health-supplement,Liver Renew,Bottle,LHP,one_time,1,59.99,59.99,69.0,LRG,1,2026-11-11,0.1306
+NHMD,liver-renew-liver-health-supplement,Liver Renew,Bottle,LHP,one_time,3,49.99,149.97,69.0,LRG,3,2026-11-11,0.2755
+NHMD,liver-renew-liver-health-supplement,Liver Renew,Bottle,LHP,one_time,6,39.99,239.94,69.0,LRG,6,2026-11-11,0.4204
+NHMD,liver-renew-liver-health-supplement,Liver Renew,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,LRG1AD,1,2026-11-11,0.2755
+NHMD,liver-renew-liver-health-supplement,Liver Renew,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,LRG3AD,1,2026-11-11,0.4204
+NHMD,liver-renew-liver-health-supplement,Liver Renew,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,LRG6AD,1,2026-11-11,0.5654
+NHMD,longevity-bundle,Longevity Bundle,Set,LHP,one_time,1,186.0,186.0,276.0,LNGBXM,1,2026-11-11,0.3261
+NHMD,longevity-bundle,Longevity Bundle,Set,LHP,one_time,3,176.0,528.0,276.0,LNGBXM,3,2026-11-11,0.3623
+NHMD,longevity-bundle,Longevity Bundle,Set,LHP,one_time,6,166.0,996.0,276.0,LNGBXM,6,2026-11-11,0.3986
+NHMD,longevity-bundle,Longevity Bundle,Set,LHP,subscribe_save,1,167.4,167.4,276.0,LNGBXM1AD,1,2026-11-11,0.3935
+NHMD,longevity-bundle,Longevity Bundle,Set,LHP,subscribe_save,3,158.4,475.2,276.0,LNGBXM3AD,1,2026-11-11,0.4261
+NHMD,longevity-bundle,Longevity Bundle,Set,LHP,subscribe_save,6,149.4,896.4,276.0,LNGBXM6AD,1,2026-11-11,0.4587
+NHMD,lycopene-supplement,Lycopene Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,NEN,1,2026-11-11,0.4348
+NHMD,lycopene-supplement,Lycopene Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,NEN,3,2026-11-11,0.4928
+NHMD,lycopene-supplement,Lycopene Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,NEN,6,2026-11-11,0.5362
+NHMD,lycopene-supplement,Lycopene Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,NEX1AD,1,2026-11-11,0.4913
+NHMD,lycopene-supplement,Lycopene Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,NEX3AD,1,2026-11-11,0.5435
+NHMD,lycopene-supplement,Lycopene Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,NEX6AD,1,2026-11-11,0.5826
+NHMD,lymph-md,Lymph MD,Bottle,LHP,one_time,1,59.99,59.99,69.0,LYMD,1,2026-11-11,0.1306
+NHMD,lymph-md,Lymph MD,Bottle,LHP,one_time,3,49.99,149.97,69.0,LYMD,3,2026-11-11,0.2755
+NHMD,lymph-md,Lymph MD,Bottle,LHP,one_time,6,39.99,239.94,69.0,LYMD,6,2026-11-11,0.4204
+NHMD,lymph-md,Lymph MD,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,LYMD1AD,1,2026-11-11,0.2755
+NHMD,lymph-md,Lymph MD,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,LYMD3AD,1,2026-11-11,0.4204
+NHMD,lymph-md,Lymph MD,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,LYMD6AD,1,2026-11-11,0.5654
+NHMD,magnesium-supplement,Magnesium Supplement,Bottle,LHP,one_time,1,39.0,39.0,69.0,NU,1,2026-11-11,0.4348
+NHMD,magnesium-supplement,Magnesium Supplement,Bottle,LHP,one_time,3,35.0,105.0,69.0,NU,3,2026-11-11,0.4928
+NHMD,magnesium-supplement,Magnesium Supplement,Bottle,LHP,one_time,6,32.0,192.0,69.0,NU,6,2026-11-11,0.5362
+NHMD,magnesium-supplement,Magnesium Supplement,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,NUZ1AD,1,2026-11-11,0.4913
+NHMD,magnesium-supplement,Magnesium Supplement,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,NUZ3AD,1,2026-11-11,0.5435
+NHMD,magnesium-supplement,Magnesium Supplement,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,NUZ6AD,1,2026-11-11,0.5826
+NHMD,matcha-antioxidant-supplement,Matcha Green Tea Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,CK,1,2026-11-11,0.4348
+NHMD,matcha-antioxidant-supplement,Matcha Green Tea Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,CK,3,2026-11-11,0.4928
+NHMD,matcha-antioxidant-supplement,Matcha Green Tea Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,CK,6,2026-11-11,0.5362
+NHMD,matcha-antioxidant-supplement,Matcha Green Tea Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,CKZ1AD,1,2026-11-11,0.4913
+NHMD,matcha-antioxidant-supplement,Matcha Green Tea Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,CKZ3AD,1,2026-11-11,0.5435
+NHMD,matcha-antioxidant-supplement,Matcha Green Tea Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,CKZ6AD,1,2026-11-11,0.5826
+NHMD,menoverra-natural-menopause-supplement,MenoVerra,Bottle,LHP,one_time,1,38.99,38.99,69.0,MLP,1,2026-11-11,0.4349
+NHMD,menoverra-natural-menopause-supplement,MenoVerra,Bottle,LHP,one_time,3,32.49,97.47,69.0,MLP,3,2026-11-11,0.5291
+NHMD,menoverra-natural-menopause-supplement,MenoVerra,Bottle,LHP,one_time,6,25.99,155.94,69.0,MLP,6,2026-11-11,0.6233
+NHMD,menoverra-natural-menopause-supplement,MenoVerra,Bottle,LHP,subscribe_save,1,32.49,32.49,69.0,MLP1AD,1,2026-11-11,0.5291
+NHMD,menoverra-natural-menopause-supplement,MenoVerra,Bottle,LHP,subscribe_save,3,25.99,77.97,69.0,MLP3AD,1,2026-11-11,0.6233
+NHMD,menoverra-natural-menopause-supplement,MenoVerra,Bottle,LHP,subscribe_save,6,19.49,116.94,69.0,MLP6AD,1,2026-11-11,0.7175
+NHMD,mens-drive-male-virility-supplement,Men’s Drive,Bottle,LHP,one_time,1,59.99,59.99,69.0,MRB,1,2026-11-11,0.1306
+NHMD,mens-drive-male-virility-supplement,Men’s Drive,Bottle,LHP,one_time,3,49.99,149.97,69.0,MRB,3,2026-11-11,0.2755
+NHMD,mens-drive-male-virility-supplement,Men’s Drive,Bottle,LHP,one_time,6,39.99,239.94,69.0,MRB,6,2026-11-11,0.4204
+NHMD,mens-drive-male-virility-supplement,Men’s Drive,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,MRB1AD,1,2026-11-11,0.2755
+NHMD,mens-drive-male-virility-supplement,Men’s Drive,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,MRB3AD,1,2026-11-11,0.4204
+NHMD,mens-drive-male-virility-supplement,Men’s Drive,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,MRB6AD,1,2026-11-11,0.5654
+NHMD,moringa-supplement,Moringa Capsules,Bottle,LHP,one_time,1,19.5,19.5,69.0,MWO,1,2026-11-11,0.7174
+NHMD,moringa-supplement,Moringa Capsules,Bottle,LHP,one_time,3,17.5,52.5,69.0,MWO,3,2026-11-11,0.7464
+NHMD,moringa-supplement,Moringa Capsules,Bottle,LHP,one_time,6,16.0,96.0,69.0,MWO,6,2026-11-11,0.7681
+NHMD,moringa-supplement,Moringa Capsules,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,MWO1AD,1,2026-11-11,0.7457
+NHMD,moringa-supplement,Moringa Capsules,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,MWO3AD,1,2026-11-11,0.7717
+NHMD,moringa-supplement,Moringa Capsules,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,MWO6AD,1,2026-11-11,0.7913
+NHMD,n-balance8-nerve-health-supplement,N-Balance 8,Bottle,LHP,one_time,1,38.99,38.99,69.0,NGR,1,2026-11-11,0.4349
+NHMD,n-balance8-nerve-health-supplement,N-Balance 8,Bottle,LHP,one_time,3,32.49,97.47,69.0,NGR,3,2026-11-11,0.5291
+NHMD,n-balance8-nerve-health-supplement,N-Balance 8,Bottle,LHP,one_time,6,25.99,155.94,69.0,NGR,6,2026-11-11,0.6233
+NHMD,n-balance8-nerve-health-supplement,N-Balance 8,Bottle,LHP,subscribe_save,1,32.49,32.49,69.0,NGR1AD,1,2026-11-11,0.5291
+NHMD,n-balance8-nerve-health-supplement,N-Balance 8,Bottle,LHP,subscribe_save,3,25.99,77.97,69.0,NGR3AD,1,2026-11-11,0.6233
+NHMD,n-balance8-nerve-health-supplement,N-Balance 8,Bottle,LHP,subscribe_save,6,19.49,116.94,69.0,NGR6AD,1,2026-11-11,0.7175
+NHMD,natural-holy-basil-supplement,Holy Basil Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,BJM,1,2026-11-11,0.4348
+NHMD,natural-holy-basil-supplement,Holy Basil Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,BJM,3,2026-11-11,0.4928
+NHMD,natural-holy-basil-supplement,Holy Basil Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,BJM,6,2026-11-11,0.5362
+NHMD,natural-holy-basil-supplement,Holy Basil Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,BJZ1AD,1,2026-11-11,0.4913
+NHMD,natural-holy-basil-supplement,Holy Basil Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,BJZ3AD,1,2026-11-11,0.5435
+NHMD,natural-holy-basil-supplement,Holy Basil Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,BJZ6AD,1,2026-11-11,0.5826
+NHMD,nootropeak-mushroom-brain-supplement,NootroPeak,Bottle,LHP,one_time,1,59.99,59.99,69.0,NPO,1,2026-11-11,0.1306
+NHMD,nootropeak-mushroom-brain-supplement,NootroPeak,Bottle,LHP,one_time,3,49.99,149.97,69.0,NPO,3,2026-11-11,0.2755
+NHMD,nootropeak-mushroom-brain-supplement,NootroPeak,Bottle,LHP,one_time,6,39.99,239.94,69.0,NPO,6,2026-11-11,0.4204
+NHMD,nootropeak-mushroom-brain-supplement,NootroPeak,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,NPO1AD,1,2026-11-11,0.2755
+NHMD,nootropeak-mushroom-brain-supplement,NootroPeak,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,NPO3AD,1,2026-11-11,0.4204
+NHMD,nootropeak-mushroom-brain-supplement,NootroPeak,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,NPO6AD,1,2026-11-11,0.5654
+NHMD,olive-leaf-supplement,Olive Leaf Capsules,Bottle,LHP,one_time,1,19.5,19.5,69.0,OLO,1,2026-11-11,0.7174
+NHMD,olive-leaf-supplement,Olive Leaf Capsules,Bottle,LHP,one_time,3,17.5,52.5,69.0,OLO,3,2026-11-11,0.7464
+NHMD,olive-leaf-supplement,Olive Leaf Capsules,Bottle,LHP,one_time,6,16.0,96.0,69.0,OLO,6,2026-11-11,0.7681
+NHMD,olive-leaf-supplement,Olive Leaf Capsules,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,OLO1AD,1,2026-11-11,0.7457
+NHMD,olive-leaf-supplement,Olive Leaf Capsules,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,OLO3AD,1,2026-11-11,0.7717
+NHMD,olive-leaf-supplement,Olive Leaf Capsules,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,OLO6AD,1,2026-11-11,0.7913
+NHMD,omega-3-md-supplement,Omega-3 MD Supplement,Bottle,LHP,one_time,1,38.99,38.99,69.0,OMP,1,2026-11-11,0.4349
+NHMD,omega-3-md-supplement,Omega-3 MD Supplement,Bottle,LHP,one_time,3,32.49,97.47,69.0,OMP,3,2026-11-11,0.5291
+NHMD,omega-3-md-supplement,Omega-3 MD Supplement,Bottle,LHP,one_time,6,25.99,155.94,69.0,OMP,6,2026-11-11,0.6233
+NHMD,omega-3-md-supplement,Omega-3 MD Supplement,Bottle,LHP,subscribe_save,1,32.49,32.49,69.0,OMP1AD,1,2026-11-11,0.5291
+NHMD,omega-3-md-supplement,Omega-3 MD Supplement,Bottle,LHP,subscribe_save,3,25.99,77.97,69.0,OMP3AD,1,2026-11-11,0.6233
+NHMD,omega-3-md-supplement,Omega-3 MD Supplement,Bottle,LHP,subscribe_save,6,19.49,116.94,69.0,OMP6AD,1,2026-11-11,0.7175
+NHMD,prebiotics-supplement,Prebiotics Supplement,Bottle,LHP,one_time,1,38.99,38.99,69.0,PTP,1,2026-11-11,0.4349
+NHMD,prebiotics-supplement,Prebiotics Supplement,Bottle,LHP,one_time,3,32.49,97.47,69.0,PTP,3,2026-11-11,0.5291
+NHMD,prebiotics-supplement,Prebiotics Supplement,Bottle,LHP,one_time,6,25.99,155.94,69.0,PTP,6,2026-11-11,0.6233
+NHMD,prebiotics-supplement,Prebiotics Supplement,Bottle,LHP,subscribe_save,1,32.49,32.49,69.0,PTP1AD,1,2026-11-11,0.5291
+NHMD,prebiotics-supplement,Prebiotics Supplement,Bottle,LHP,subscribe_save,3,25.99,77.97,69.0,PTP3AD,1,2026-11-11,0.6233
+NHMD,prebiotics-supplement,Prebiotics Supplement,Bottle,LHP,subscribe_save,6,19.49,116.94,69.0,PTP6AD,1,2026-11-11,0.7175
+NHMD,reds-metabolism-boosting-supplements,Reds - Metabolism Boosting Supplements,Jar,LHP,one_time,1,59.99,59.99,69.0,ROO,1,2026-11-11,0.1306
+NHMD,reds-metabolism-boosting-supplements,Reds - Metabolism Boosting Supplements,Jar,LHP,one_time,3,49.99,149.97,69.0,ROO,3,2026-11-11,0.2755
+NHMD,reds-metabolism-boosting-supplements,Reds - Metabolism Boosting Supplements,Jar,LHP,one_time,6,39.99,239.94,69.0,ROO,6,2026-11-11,0.4204
+NHMD,reds-metabolism-boosting-supplements,Reds - Metabolism Boosting Supplements,Jar,LHP,subscribe_save,1,49.99,49.99,69.0,ROO1AD,1,2026-11-11,0.2755
+NHMD,reds-metabolism-boosting-supplements,Reds - Metabolism Boosting Supplements,Jar,LHP,subscribe_save,3,39.99,119.97,69.0,ROO3AD,1,2026-11-11,0.4204
+NHMD,reds-metabolism-boosting-supplements,Reds - Metabolism Boosting Supplements,Jar,LHP,subscribe_save,6,29.99,179.94,69.0,ROO6AD,1,2026-11-11,0.5654
+NHMD,saw-palmetto-supplement,Saw Palmetto Supplement,Bottle,LHP,one_time,1,19.5,19.5,69.0,MPO,1,2026-11-11,0.7174
+NHMD,saw-palmetto-supplement,Saw Palmetto Supplement,Bottle,LHP,one_time,3,17.5,52.5,69.0,MPO,3,2026-11-11,0.7464
+NHMD,saw-palmetto-supplement,Saw Palmetto Supplement,Bottle,LHP,one_time,6,16.0,96.0,69.0,MPO,6,2026-11-11,0.7681
+NHMD,saw-palmetto-supplement,Saw Palmetto Supplement,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,MPO1AD,1,2026-11-11,0.7457
+NHMD,saw-palmetto-supplement,Saw Palmetto Supplement,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,MPO3AD,1,2026-11-11,0.7717
+NHMD,saw-palmetto-supplement,Saw Palmetto Supplement,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,MPO6AD,1,2026-11-11,0.7913
+NHMD,shilajit-supplement,Shilajit Supplement Capsules,Bottle,LHP,one_time,1,19.5,19.5,69.0,JKO,1,2026-11-11,0.7174
+NHMD,shilajit-supplement,Shilajit Supplement Capsules,Bottle,LHP,one_time,3,17.5,52.5,69.0,JKO,3,2026-11-11,0.7464
+NHMD,shilajit-supplement,Shilajit Supplement Capsules,Bottle,LHP,one_time,6,16.0,96.0,69.0,JKO,6,2026-11-11,0.7681
+NHMD,shilajit-supplement,Shilajit Supplement Capsules,Bottle,LHP,subscribe_save,1,17.55,17.55,69.0,JKO1AD,1,2026-11-11,0.7457
+NHMD,shilajit-supplement,Shilajit Supplement Capsules,Bottle,LHP,subscribe_save,3,15.75,47.25,69.0,JKO3AD,1,2026-11-11,0.7717
+NHMD,shilajit-supplement,Shilajit Supplement Capsules,Bottle,LHP,subscribe_save,6,14.4,86.4,69.0,JKO6AD,1,2026-11-11,0.7913
+NHMD,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Pills,Bottle,LHP,one_time,1,39.0,39.0,69.0,MNO,1,2026-11-11,0.4348
+NHMD,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Pills,Bottle,LHP,one_time,3,35.0,105.0,69.0,MNO,3,2026-11-11,0.4928
+NHMD,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Pills,Bottle,LHP,one_time,6,32.0,192.0,69.0,MNO,6,2026-11-11,0.5362
+NHMD,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Pills,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,MNO1AD,1,2026-11-11,0.4913
+NHMD,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Pills,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,MNO3AD,1,2026-11-11,0.5435
+NHMD,spirulina-chlorella-complex-supplement,Spirulina & Chlorella Pills,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,MNO6AD,1,2026-11-11,0.5826
+NHMD,stress-support-essentials-supplement,Stress Support Capsules,Bottle,LHP,one_time,1,38.99,38.99,69.0,SEP,1,2026-11-11,0.4349
+NHMD,stress-support-essentials-supplement,Stress Support Capsules,Bottle,LHP,one_time,3,32.49,97.47,69.0,SEP,3,2026-11-11,0.5291
+NHMD,stress-support-essentials-supplement,Stress Support Capsules,Bottle,LHP,one_time,6,25.99,155.94,69.0,SEP,6,2026-11-11,0.6233
+NHMD,stress-support-essentials-supplement,Stress Support Capsules,Bottle,LHP,subscribe_save,1,32.49,32.49,69.0,SEP1AD,1,2026-11-11,0.5291
+NHMD,stress-support-essentials-supplement,Stress Support Capsules,Bottle,LHP,subscribe_save,3,25.99,77.97,69.0,SEP3AD,1,2026-11-11,0.6233
+NHMD,stress-support-essentials-supplement,Stress Support Capsules,Bottle,LHP,subscribe_save,6,19.49,116.94,69.0,SEP6AD,1,2026-11-11,0.7175
+NHMD,t-forge-natural-energy-supplement,T-Forge - Natural Energy Supplement,Bottle,LHP,one_time,1,59.99,59.99,69.0,FGC,1,2026-11-11,0.1306
+NHMD,t-forge-natural-energy-supplement,T-Forge - Natural Energy Supplement,Bottle,LHP,one_time,3,49.99,149.97,69.0,FGC,3,2026-11-11,0.2755
+NHMD,t-forge-natural-energy-supplement,T-Forge - Natural Energy Supplement,Bottle,LHP,one_time,6,39.99,239.94,69.0,FGC,6,2026-11-11,0.4204
+NHMD,t-forge-natural-energy-supplement,T-Forge - Natural Energy Supplement,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,FGC1AD,1,2026-11-11,0.2755
+NHMD,t-forge-natural-energy-supplement,T-Forge - Natural Energy Supplement,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,FGC3AD,1,2026-11-11,0.4204
+NHMD,t-forge-natural-energy-supplement,T-Forge - Natural Energy Supplement,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,FGC6AD,1,2026-11-11,0.5654
+NHMD,thyro-support-thyroid-health-supplement,Thyroid Support Capsules,Bottle,LHP,one_time,1,59.99,59.99,69.0,TSP,1,2026-11-11,0.1306
+NHMD,thyro-support-thyroid-health-supplement,Thyroid Support Capsules,Bottle,LHP,one_time,3,49.99,149.97,69.0,TSP,3,2026-11-11,0.2755
+NHMD,thyro-support-thyroid-health-supplement,Thyroid Support Capsules,Bottle,LHP,one_time,6,39.99,239.94,69.0,TSP,6,2026-11-11,0.4204
+NHMD,thyro-support-thyroid-health-supplement,Thyroid Support Capsules,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,TSP1AD,1,2026-11-11,0.2755
+NHMD,thyro-support-thyroid-health-supplement,Thyroid Support Capsules,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,TSP3AD,1,2026-11-11,0.4204
+NHMD,thyro-support-thyroid-health-supplement,Thyroid Support Capsules,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,TSP6AD,1,2026-11-11,0.5654
+NHMD,tongkat-ali-supplement,Tongkat Ali Capsules,Bottle,LHP,one_time,1,39.0,39.0,69.0,QAL,1,2026-11-11,0.4348
+NHMD,tongkat-ali-supplement,Tongkat Ali Capsules,Bottle,LHP,one_time,3,35.0,105.0,69.0,QAL,3,2026-11-11,0.4928
+NHMD,tongkat-ali-supplement,Tongkat Ali Capsules,Bottle,LHP,one_time,6,32.0,192.0,69.0,QAL,6,2026-11-11,0.5362
+NHMD,tongkat-ali-supplement,Tongkat Ali Capsules,Bottle,LHP,subscribe_save,1,35.1,35.1,69.0,QAZ1AD,1,2026-11-11,0.4913
+NHMD,tongkat-ali-supplement,Tongkat Ali Capsules,Bottle,LHP,subscribe_save,3,31.5,94.5,69.0,QAZ3AD,1,2026-11-11,0.5435
+NHMD,tongkat-ali-supplement,Tongkat Ali Capsules,Bottle,LHP,subscribe_save,6,28.8,172.8,69.0,QAZ6AD,1,2026-11-11,0.5826
+NHMD,urobliss-urinary-tract-supplement,UroBliss,Bottle,LHP,one_time,1,59.99,59.99,69.0,UBR,1,2026-11-11,0.1306
+NHMD,urobliss-urinary-tract-supplement,UroBliss,Bottle,LHP,one_time,3,49.99,149.97,69.0,UBR,3,2026-11-11,0.2755
+NHMD,urobliss-urinary-tract-supplement,UroBliss,Bottle,LHP,one_time,6,39.99,239.94,69.0,UBR,6,2026-11-11,0.4204
+NHMD,urobliss-urinary-tract-supplement,UroBliss,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,UBR1AD,1,2026-11-11,0.2755
+NHMD,urobliss-urinary-tract-supplement,UroBliss,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,UBR3AD,1,2026-11-11,0.4204
+NHMD,urobliss-urinary-tract-supplement,UroBliss,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,UBR6AD,1,2026-11-11,0.5654
+NHMD,veinrenew-vein-health-supplement,VeinRenew,Bottle,LHP,one_time,1,59.99,59.99,69.0,VRE,1,2026-11-11,0.1306
+NHMD,veinrenew-vein-health-supplement,VeinRenew,Bottle,LHP,one_time,3,49.99,149.97,69.0,VRE,3,2026-11-11,0.2755
+NHMD,veinrenew-vein-health-supplement,VeinRenew,Bottle,LHP,one_time,6,39.99,239.94,69.0,VRE,6,2026-11-11,0.4204
+NHMD,veinrenew-vein-health-supplement,VeinRenew,Bottle,LHP,subscribe_save,1,49.99,49.99,69.0,VRE1AD,1,2026-11-11,0.2755
+NHMD,veinrenew-vein-health-supplement,VeinRenew,Bottle,LHP,subscribe_save,3,39.99,119.97,69.0,VRE3AD,1,2026-11-11,0.4204
+NHMD,veinrenew-vein-health-supplement,VeinRenew,Bottle,LHP,subscribe_save,6,29.99,179.94,69.0,VRE6AD,1,2026-11-11,0.5654
+NHMD,vision-nutri-complex-eye-health-supplement,Vision Nutri Complex,Bottle,LHP,one_time,1,38.99,38.99,69.0,VNK,1,2026-11-11,0.4349
+NHMD,vision-nutri-complex-eye-health-supplement,Vision Nutri Complex,Bottle,LHP,one_time,3,32.49,97.47,69.0,VNK,3,2026-11-11,0.5291
+NHMD,vision-nutri-complex-eye-health-supplement,Vision Nutri Complex,Bottle,LHP,one_time,6,25.99,155.94,69.0,VNK,6,2026-11-11,0.6233
+NHMD,vision-nutri-complex-eye-health-supplement,Vision Nutri Complex,Bottle,LHP,subscribe_save,1,32.49,32.49,69.0,VNK1AD,1,2026-11-11,0.5291
+NHMD,vision-nutri-complex-eye-health-supplement,Vision Nutri Complex,Bottle,LHP,subscribe_save,3,25.99,77.97,69.0,VNK3AD,1,2026-11-11,0.6233
+NHMD,vision-nutri-complex-eye-health-supplement,Vision Nutri Complex,Bottle,LHP,subscribe_save,6,19.49,116.94,69.0,VNK6AD,1,2026-11-11,0.7175
+NHMD,weight-management-bundle,Weight Management Bundle,Set,LHP,one_time,1,186.0,186.0,276.0,WMNBSB,1,2026-11-11,0.3261
+NHMD,weight-management-bundle,Weight Management Bundle,Set,LHP,one_time,3,176.0,528.0,276.0,WMNBSB,3,2026-11-11,0.3623
+NHMD,weight-management-bundle,Weight Management Bundle,Set,LHP,one_time,6,166.0,996.0,276.0,WMNBSB,6,2026-11-11,0.3986
+NHMD,weight-management-bundle,Weight Management Bundle,Set,LHP,subscribe_save,1,167.4,167.4,276.0,WMNBSB1ADS,1,2026-11-11,0.3935
+NHMD,weight-management-bundle,Weight Management Bundle,Set,LHP,subscribe_save,3,158.4,475.2,276.0,WMNBSB3ADS,1,2026-11-11,0.4261
+NHMD,weight-management-bundle,Weight Management Bundle,Set,LHP,subscribe_save,6,149.4,896.4,276.0,WMNBSB6ADS,1,2026-11-11,0.4587
+PUR,cellular-glow-thermal-beauty-duo-bundle,“Cellular Glow“ Thermal Beauty Duo,,PRN,one_time,1,148.0,148.0,168.0,BCHBUN,1,2026-11-11,0.119
+PUR,cellular-hydration-serum,Cellular Hydration Serum,Jar,PRN,one_time,1,49.0,49.0,69.0,CHO,1,2026-11-11,0.2899
+PUR,cellular-hydration-serum,Cellular Hydration Serum,Jar,PRN,one_time,2,45.0,90.0,69.0,CHO,2,2026-11-11,0.3478
+PUR,cellular-hydration-serum,Cellular Hydration Serum,Jar,PRN,one_time,3,42.0,126.0,69.0,CHO,3,2026-11-11,0.3913
+PUR,cellular-hydration-serum,Cellular Hydration Serum,Jar,PRN,subscribe_save,1,44.1,44.1,69.0,CHO1AD,1,2026-11-11,0.3609
+PUR,cellular-hydration-serum,Cellular Hydration Serum,Jar,PRN,subscribe_save,2,40.5,81.0,69.0,CHO2AD,1,2026-11-11,0.413
+PUR,cellular-hydration-serum,Cellular Hydration Serum,Jar,PRN,subscribe_save,3,37.8,113.4,69.0,CHO3AD,1,2026-11-11,0.4522
+PUR,cellular-restore-serum,Cellular Restore Serum,Bottle,PRN,one_time,1,49.0,49.0,69.0,CRAN,1,2026-11-11,0.2899
+PUR,cellular-restore-serum,Cellular Restore Serum,Bottle,PRN,one_time,2,45.0,90.0,69.0,CRAN,2,2026-11-11,0.3478
+PUR,cellular-restore-serum,Cellular Restore Serum,Bottle,PRN,one_time,3,42.0,126.0,69.0,CRAN,3,2026-11-11,0.3913
+PUR,cellular-restore-serum,Cellular Restore Serum,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,CRAN1AD,1,2026-11-11,0.3609
+PUR,cellular-restore-serum,Cellular Restore Serum,Bottle,PRN,subscribe_save,2,40.5,81.0,69.0,CRAN2AD,1,2026-11-11,0.413
+PUR,cellular-restore-serum,Cellular Restore Serum,Bottle,PRN,subscribe_save,3,37.8,113.4,69.0,CRAN3AD,1,2026-11-11,0.4522
+PUR,circulex-vein-health-supplement,Circulex - Vein Health Supplement,Bottle,PRN,one_time,1,49.0,49.0,69.0,CXN,1,2026-11-11,0.2899
+PUR,circulex-vein-health-supplement,Circulex - Vein Health Supplement,Bottle,PRN,one_time,3,45.0,135.0,69.0,CXN,3,2026-11-11,0.3478
+PUR,circulex-vein-health-supplement,Circulex - Vein Health Supplement,Bottle,PRN,one_time,6,42.0,252.0,69.0,CXN,6,2026-11-11,0.3913
+PUR,circulex-vein-health-supplement,Circulex - Vein Health Supplement,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,CXN1AD,1,2026-11-11,0.3609
+PUR,circulex-vein-health-supplement,Circulex - Vein Health Supplement,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,CXN3AD,3,2026-11-11,0.413
+PUR,circulex-vein-health-supplement,Circulex - Vein Health Supplement,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,CXN6AD,6,2026-11-11,0.4522
+PUR,contour-massage-roller,Contour Massage Roller,/Product,PRN,one_time,1,69.0,69.0,69.0,CMROL,1,2026-11-11,0.0
+PUR,deepsea-collagen-marine-collagen-supplement,DeepSea Collagen - Marine Collagen Supplement,Bottle,PRN,one_time,1,49.0,49.0,69.0,DSO,1,2026-11-11,0.2899
+PUR,deepsea-collagen-marine-collagen-supplement,DeepSea Collagen - Marine Collagen Supplement,Bottle,PRN,one_time,3,45.0,135.0,69.0,DSO,3,2026-11-11,0.3478
+PUR,deepsea-collagen-marine-collagen-supplement,DeepSea Collagen - Marine Collagen Supplement,Bottle,PRN,one_time,6,42.0,252.0,69.0,DSO,6,2026-11-11,0.3913
+PUR,deepsea-collagen-marine-collagen-supplement,DeepSea Collagen - Marine Collagen Supplement,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,DSO1AD,1,2026-11-11,0.3609
+PUR,deepsea-collagen-marine-collagen-supplement,DeepSea Collagen - Marine Collagen Supplement,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,DSO3AD,3,2026-11-11,0.413
+PUR,deepsea-collagen-marine-collagen-supplement,DeepSea Collagen - Marine Collagen Supplement,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,DSO6AD,6,2026-11-11,0.4522
+PUR,dermaluxe-hydrolyzed-collagen-supplement,Dermaluxe – Hydrolyzed Collagen Supplement,Bottle,PRN,one_time,1,49.0,49.0,69.0,DXO,1,2026-11-11,0.2899
+PUR,dermaluxe-hydrolyzed-collagen-supplement,Dermaluxe – Hydrolyzed Collagen Supplement,Bottle,PRN,one_time,3,45.0,135.0,69.0,DXO,3,2026-11-11,0.3478
+PUR,dermaluxe-hydrolyzed-collagen-supplement,Dermaluxe – Hydrolyzed Collagen Supplement,Bottle,PRN,one_time,6,42.0,252.0,69.0,DXO,6,2026-11-11,0.3913
+PUR,dermaluxe-hydrolyzed-collagen-supplement,Dermaluxe – Hydrolyzed Collagen Supplement,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,DXO1AD,1,2026-11-11,0.3609
+PUR,dermaluxe-hydrolyzed-collagen-supplement,Dermaluxe – Hydrolyzed Collagen Supplement,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,DXO3AD,3,2026-11-11,0.413
+PUR,dermaluxe-hydrolyzed-collagen-supplement,Dermaluxe – Hydrolyzed Collagen Supplement,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,DXO6AD,6,2026-11-11,0.4522
+PUR,even-flow-lymphatic-support-supplement,Even Flow - Lymphatic Support Supplement,Bottle,PRN,one_time,1,49.0,49.0,69.0,FWP,1,2026-11-11,0.2899
+PUR,even-flow-lymphatic-support-supplement,Even Flow - Lymphatic Support Supplement,Bottle,PRN,one_time,3,45.0,135.0,69.0,FWP,3,2026-11-11,0.3478
+PUR,even-flow-lymphatic-support-supplement,Even Flow - Lymphatic Support Supplement,Bottle,PRN,one_time,6,42.0,252.0,69.0,FWP,6,2026-11-11,0.3913
+PUR,even-flow-lymphatic-support-supplement,Even Flow - Lymphatic Support Supplement,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,FWP1AD,1,2026-11-11,0.3609
+PUR,even-flow-lymphatic-support-supplement,Even Flow - Lymphatic Support Supplement,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,FWP3AD,3,2026-11-11,0.413
+PUR,even-flow-lymphatic-support-supplement,Even Flow - Lymphatic Support Supplement,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,FWP6AD,6,2026-11-11,0.4522
+PUR,even-glow,Even Glow,Bottle,PRN,one_time,1,49.0,49.0,69.0,EGI,1,2026-11-11,0.2899
+PUR,even-glow,Even Glow,Bottle,PRN,one_time,2,45.0,90.0,69.0,EGI,2,2026-11-11,0.3478
+PUR,even-glow,Even Glow,Bottle,PRN,one_time,3,42.0,126.0,69.0,EGI,3,2026-11-11,0.3913
+PUR,even-glow,Even Glow,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,EGI1AD,1,2026-11-11,0.3609
+PUR,even-glow,Even Glow,Bottle,PRN,subscribe_save,2,40.5,81.0,69.0,EGI2AD,1,2026-11-11,0.413
+PUR,even-glow,Even Glow,Bottle,PRN,subscribe_save,3,37.8,113.4,69.0,EGI3AD,1,2026-11-11,0.4522
+PUR,fine-lines-saggy-skin-system,Fine Lines & Saggy Skin System,System,PRN,one_time,1,99.0,99.0,207.0,HRG,1,2026-11-11,0.5217
+PUR,fine-lines-saggy-skin-system,Fine Lines & Saggy Skin System,System,PRN,one_time,2,95.0,190.0,207.0,HRG,2,2026-11-11,0.5411
+PUR,fine-lines-saggy-skin-system,Fine Lines & Saggy Skin System,System,PRN,one_time,3,92.0,276.0,207.0,HRG,3,2026-11-11,0.5556
+PUR,fine-lines-saggy-skin-system,Fine Lines & Saggy Skin System,System,PRN,subscribe_save,1,89.1,89.1,207.0,HRG1AD,1,2026-11-11,0.5696
+PUR,fine-lines-saggy-skin-system,Fine Lines & Saggy Skin System,System,PRN,subscribe_save,2,85.5,171.0,207.0,HRG2AD,1,2026-11-11,0.587
+PUR,fine-lines-saggy-skin-system,Fine Lines & Saggy Skin System,System,PRN,subscribe_save,3,82.8,248.4,207.0,HRG3AD,1,2026-11-11,0.6
+PUR,gentle-cleansing-foam,Cleansing Foam,Bottle,PRN,one_time,1,39.0,39.0,39.0,PUN,1,2026-11-11,0.0
+PUR,gentle-cleansing-foam,Cleansing Foam,Bottle,PRN,one_time,3,35.0,105.0,39.0,PUN,3,2026-11-11,0.1026
+PUR,gentle-cleansing-foam,Cleansing Foam,Bottle,PRN,one_time,6,32.0,192.0,39.0,PUN,6,2026-11-11,0.1795
+PUR,gentle-cleansing-foam,Cleansing Foam,Bottle,PRN,subscribe_save,1,35.1,35.1,39.0,PUN1AD,1,2026-11-11,0.1
+PUR,gentle-cleansing-foam,Cleansing Foam,Bottle,PRN,subscribe_save,3,31.5,94.5,39.0,PUN3AD,3,2026-11-11,0.1923
+PUR,gentle-cleansing-foam,Cleansing Foam,Bottle,PRN,subscribe_save,6,28.8,172.8,39.0,PUN6AD,6,2026-11-11,0.2615
+PUR,gift-certificates,Pureance Gift Certificate,,PRN,one_time,1,50.0,50.0,50.0,GCER50,1,2026-11-11,0.0
+PUR,gift-certificates,Pureance Gift Certificate,,PRN,one_time,2,100.0,200.0,100.0,GCER100,1,2026-11-11,0.0
+PUR,giftbox,“MATURE GLOW” SKIN RECOVERY SET, (Value $265),PRN,one_time,1,187.0,187.0,187.0,PRNGFBN,1,2026-11-11,0.0
+PUR,hair-re-bond-mask,Re-Bond Hair Mask,Jar,PRN,one_time,1,49.0,49.0,69.0,HBMO,1,2026-11-11,0.2899
+PUR,hair-re-bond-mask,Re-Bond Hair Mask,Jar,PRN,one_time,3,45.0,135.0,69.0,HBMO,3,2026-11-11,0.3478
+PUR,hair-re-bond-mask,Re-Bond Hair Mask,Jar,PRN,one_time,6,42.0,252.0,69.0,HBMO,6,2026-11-11,0.3913
+PUR,hair-re-bond-mask,Re-Bond Hair Mask,Jar,PRN,subscribe_save,1,44.1,44.1,69.0,HBMO1AD,1,2026-11-11,0.3609
+PUR,hair-re-bond-mask,Re-Bond Hair Mask,Jar,PRN,subscribe_save,3,40.5,121.5,69.0,HBMO3AD,1,2026-11-11,0.413
+PUR,hair-re-bond-mask,Re-Bond Hair Mask,Jar,PRN,subscribe_save,6,37.8,226.8,69.0,HBMO6AD,1,2026-11-11,0.4522
+PUR,hair-therapy-scalp-nourishment-moisturizing-oil,Hair Therapy Scalp Nourishment Oil,Bottle,PRN,one_time,1,49.0,49.0,69.0,HTO,1,2026-11-11,0.2899
+PUR,hair-therapy-scalp-nourishment-moisturizing-oil,Hair Therapy Scalp Nourishment Oil,Bottle,PRN,one_time,3,45.0,135.0,69.0,HTO,3,2026-11-11,0.3478
+PUR,hair-therapy-scalp-nourishment-moisturizing-oil,Hair Therapy Scalp Nourishment Oil,Bottle,PRN,one_time,6,42.0,252.0,69.0,HTO,6,2026-11-11,0.3913
+PUR,hair-therapy-scalp-nourishment-moisturizing-oil,Hair Therapy Scalp Nourishment Oil,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,HTO1AD,1,2026-11-11,0.3609
+PUR,hair-therapy-scalp-nourishment-moisturizing-oil,Hair Therapy Scalp Nourishment Oil,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,HTO3AD,1,2026-11-11,0.413
+PUR,hair-therapy-scalp-nourishment-moisturizing-oil,Hair Therapy Scalp Nourishment Oil,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,HTO6AD,1,2026-11-11,0.4522
+PUR,hairlux-supplement-for-hair-growth,HairLux - Hair Growth Supplement,Bottle,PRN,one_time,1,49.0,49.0,69.0,HLO,1,2026-11-11,0.2899
+PUR,hairlux-supplement-for-hair-growth,HairLux - Hair Growth Supplement,Bottle,PRN,one_time,3,45.0,135.0,69.0,HLO,3,2026-11-11,0.3478
+PUR,hairlux-supplement-for-hair-growth,HairLux - Hair Growth Supplement,Bottle,PRN,one_time,6,42.0,252.0,69.0,HLO,6,2026-11-11,0.3913
+PUR,hairlux-supplement-for-hair-growth,HairLux - Hair Growth Supplement,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,HLO1AD,1,2026-11-11,0.3609
+PUR,hairlux-supplement-for-hair-growth,HairLux - Hair Growth Supplement,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,HLO3AD,1,2026-11-11,0.413
+PUR,hairlux-supplement-for-hair-growth,HairLux - Hair Growth Supplement,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,HLO6AD,1,2026-11-11,0.4522
+PUR,hot-cold-beauty-device,Hot & Cold Beauty Instrument,/Product,PRN,one_time,1,99.0,99.0,99.0,CBIK,1,2026-11-11,0.0
+PUR,hydracleanse-deep-clean-detox-shampoo,HydraCleanse - Deep-Clean Detox Shampoo,Bottle,PRN,one_time,1,49.0,49.0,69.0,HDO,1,2026-11-11,0.2899
+PUR,hydracleanse-deep-clean-detox-shampoo,HydraCleanse - Deep-Clean Detox Shampoo,Bottle,PRN,one_time,3,45.0,135.0,69.0,HDO,3,2026-11-11,0.3478
+PUR,hydracleanse-deep-clean-detox-shampoo,HydraCleanse - Deep-Clean Detox Shampoo,Bottle,PRN,one_time,6,42.0,252.0,69.0,HDO,6,2026-11-11,0.3913
+PUR,hydracleanse-deep-clean-detox-shampoo,HydraCleanse - Deep-Clean Detox Shampoo,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,HDO1AD,1,2026-11-11,0.3609
+PUR,hydracleanse-deep-clean-detox-shampoo,HydraCleanse - Deep-Clean Detox Shampoo,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,HDO3AD,1,2026-11-11,0.413
+PUR,hydracleanse-deep-clean-detox-shampoo,HydraCleanse - Deep-Clean Detox Shampoo,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,HDO6AD,1,2026-11-11,0.4522
+PUR,hydralift-volumizing-shampoo,HydraLift Volumizing Shampoo,Bottle,PRN,one_time,1,29.0,29.0,69.0,KOE,1,2026-11-11,0.5797
+PUR,hydralift-volumizing-shampoo,HydraLift Volumizing Shampoo,Bottle,PRN,one_time,3,25.0,75.0,69.0,KOE,3,2026-11-11,0.6377
+PUR,hydralift-volumizing-shampoo,HydraLift Volumizing Shampoo,Bottle,PRN,one_time,6,22.0,132.0,69.0,KOE,6,2026-11-11,0.6812
+PUR,hydralift-volumizing-shampoo,HydraLift Volumizing Shampoo,Bottle,PRN,subscribe_save,1,26.1,26.1,69.0,KOE1AD,1,2026-11-11,0.6217
+PUR,hydralift-volumizing-shampoo,HydraLift Volumizing Shampoo,Bottle,PRN,subscribe_save,3,22.5,67.5,69.0,KOE3AD,3,2026-11-11,0.6739
+PUR,hydralift-volumizing-shampoo,HydraLift Volumizing Shampoo,Bottle,PRN,subscribe_save,6,19.8,118.8,69.0,KOE6AD,6,2026-11-11,0.713
+PUR,hydrasilk-moisturizing-conditioner,HydraSilk Moisturizing Conditioner,Bottle,PRN,one_time,1,29.0,29.0,69.0,COE,1,2026-11-11,0.5797
+PUR,hydrasilk-moisturizing-conditioner,HydraSilk Moisturizing Conditioner,Bottle,PRN,one_time,3,25.0,75.0,69.0,COE,3,2026-11-11,0.6377
+PUR,hydrasilk-moisturizing-conditioner,HydraSilk Moisturizing Conditioner,Bottle,PRN,one_time,6,22.0,132.0,69.0,COE,6,2026-11-11,0.6812
+PUR,hydrasilk-moisturizing-conditioner,HydraSilk Moisturizing Conditioner,Bottle,PRN,subscribe_save,1,26.1,26.1,69.0,COE1AD,1,2026-11-11,0.6217
+PUR,hydrasilk-moisturizing-conditioner,HydraSilk Moisturizing Conditioner,Bottle,PRN,subscribe_save,3,22.5,67.5,69.0,COE3AD,3,2026-11-11,0.6739
+PUR,hydrasilk-moisturizing-conditioner,HydraSilk Moisturizing Conditioner,Bottle,PRN,subscribe_save,6,19.8,118.8,69.0,COE6AD,6,2026-11-11,0.713
+PUR,keratin-shine-mist,Keratin Shine Mist,Bottle,PRN,one_time,1,49.0,49.0,69.0,KSMN,1,2026-11-11,0.2899
+PUR,keratin-shine-mist,Keratin Shine Mist,Bottle,PRN,one_time,3,45.0,135.0,69.0,KSMN,3,2026-11-11,0.3478
+PUR,keratin-shine-mist,Keratin Shine Mist,Bottle,PRN,one_time,6,42.0,252.0,69.0,KSMN,6,2026-11-11,0.3913
+PUR,keratin-shine-mist,Keratin Shine Mist,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,KSMN1AD,1,2026-11-11,0.3609
+PUR,keratin-shine-mist,Keratin Shine Mist,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,KSMN3AD,1,2026-11-11,0.413
+PUR,keratin-shine-mist,Keratin Shine Mist,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,KSMN6AD,1,2026-11-11,0.4522
+PUR,lift-and-glow,Lift & Glow,Bottle,PRN,one_time,1,49.0,49.0,69.0,LGW,1,2026-11-11,0.2899
+PUR,lift-and-glow,Lift & Glow,Bottle,PRN,one_time,2,45.0,90.0,69.0,LGW,2,2026-11-11,0.3478
+PUR,lift-and-glow,Lift & Glow,Bottle,PRN,one_time,3,42.0,126.0,69.0,LGW,3,2026-11-11,0.3913
+PUR,lift-and-glow,Lift & Glow,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,LGW1AD,1,2026-11-11,0.3609
+PUR,lift-and-glow,Lift & Glow,Bottle,PRN,subscribe_save,2,40.5,81.0,69.0,LGW2AD,1,2026-11-11,0.413
+PUR,lift-and-glow,Lift & Glow,Bottle,PRN,subscribe_save,3,37.8,113.4,69.0,LGW3AD,1,2026-11-11,0.4522
+PUR,moisturizing-hydralift-shampoo-hydrasilk-conditioner,HydraLift & HydraSilk Protein Support Hair Duo,Bundle,PRN,one_time,1,55.0,55.0,138.0,COKOK,1,2026-11-11,0.6014
+PUR,moisturizing-hydralift-shampoo-hydrasilk-conditioner,HydraLift & HydraSilk Protein Support Hair Duo,Bundle,PRN,one_time,2,51.0,102.0,138.0,COKOK,2,2026-11-11,0.6304
+PUR,moisturizing-hydralift-shampoo-hydrasilk-conditioner,HydraLift & HydraSilk Protein Support Hair Duo,Bundle,PRN,one_time,3,49.0,147.0,138.0,COKOK,3,2026-11-11,0.6449
+PUR,moisturizing-hydralift-shampoo-hydrasilk-conditioner,HydraLift & HydraSilk Protein Support Hair Duo,Bundle,PRN,subscribe_save,1,49.5,49.5,138.0,COKOK1AD,1,2026-11-11,0.6413
+PUR,moisturizing-hydralift-shampoo-hydrasilk-conditioner,HydraLift & HydraSilk Protein Support Hair Duo,Bundle,PRN,subscribe_save,2,45.9,91.8,138.0,COKOK2AD,1,2026-11-11,0.6674
+PUR,moisturizing-hydralift-shampoo-hydrasilk-conditioner,HydraLift & HydraSilk Protein Support Hair Duo,Bundle,PRN,subscribe_save,3,44.1,132.3,138.0,COKOK3AD,1,2026-11-11,0.6804
+PUR,peptide-fusion-face-cream,Peptide Fusion Face Cream,Bottle,PRN,one_time,1,49.0,49.0,69.0,PPF,1,2026-11-11,0.2899
+PUR,peptide-fusion-face-cream,Peptide Fusion Face Cream,Bottle,PRN,one_time,2,45.0,90.0,69.0,PPF,2,2026-11-11,0.3478
+PUR,peptide-fusion-face-cream,Peptide Fusion Face Cream,Bottle,PRN,one_time,3,42.0,126.0,69.0,PPF,3,2026-11-11,0.3913
+PUR,peptide-fusion-face-cream,Peptide Fusion Face Cream,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,PPF1AD,1,2026-11-11,0.3609
+PUR,peptide-fusion-face-cream,Peptide Fusion Face Cream,Bottle,PRN,subscribe_save,2,40.5,81.0,69.0,PPF2AD,1,2026-11-11,0.413
+PUR,peptide-fusion-face-cream,Peptide Fusion Face Cream,Bottle,PRN,subscribe_save,3,37.8,113.4,69.0,PPF3AD,1,2026-11-11,0.4522
+PUR,serene-probiotics-natural-probiotic-supplement,Serene Probiotics – Natural Probiotic Supplement,Bottle,PRN,one_time,1,49.0,49.0,69.0,PSO,1,2026-11-11,0.2899
+PUR,serene-probiotics-natural-probiotic-supplement,Serene Probiotics – Natural Probiotic Supplement,Bottle,PRN,one_time,3,45.0,135.0,69.0,PSO,3,2026-11-11,0.3478
+PUR,serene-probiotics-natural-probiotic-supplement,Serene Probiotics – Natural Probiotic Supplement,Bottle,PRN,one_time,6,42.0,252.0,69.0,PSO,6,2026-11-11,0.3913
+PUR,serene-probiotics-natural-probiotic-supplement,Serene Probiotics – Natural Probiotic Supplement,Bottle,PRN,subscribe_save,1,44.1,44.1,69.0,PSO1AD,1,2026-11-11,0.3609
+PUR,serene-probiotics-natural-probiotic-supplement,Serene Probiotics – Natural Probiotic Supplement,Bottle,PRN,subscribe_save,3,40.5,121.5,69.0,PSO3AD,3,2026-11-11,0.413
+PUR,serene-probiotics-natural-probiotic-supplement,Serene Probiotics – Natural Probiotic Supplement,Bottle,PRN,subscribe_save,6,37.8,226.8,69.0,PSO6AD,6,2026-11-11,0.4522
+PUR,under-eye-renewal-system,Under-Eye Renewal System,Bundle,PRN,one_time,1,79.0,79.0,138.0,RYLGN,1,2026-11-11,0.4275
+PUR,under-eye-renewal-system,Under-Eye Renewal System,Bundle,PRN,one_time,2,75.0,150.0,138.0,RYLGN,2,2026-11-11,0.4565
+PUR,under-eye-renewal-system,Under-Eye Renewal System,Bundle,PRN,one_time,3,72.0,216.0,138.0,RYLGN,3,2026-11-11,0.4783
+PUR,under-eye-renewal-system,Under-Eye Renewal System,Bundle,PRN,subscribe_save,1,71.1,71.1,138.0,RYLGN1AD,1,2026-11-11,0.4848
+PUR,under-eye-renewal-system,Under-Eye Renewal System,Bundle,PRN,subscribe_save,2,67.5,135.0,138.0,RYLGN2AD,1,2026-11-11,0.5109
+PUR,under-eye-renewal-system,Under-Eye Renewal System,Bundle,PRN,subscribe_save,3,64.8,194.4,138.0,RYLGN3AD,1,2026-11-11,0.5304
+TRU,bone-broth-protein,Bone Broth Protein,jar,TRU,one_time,1,39.0,39.0,39.0,TBPB1,1,2026-11-11,0.0
+TRU,bone-broth-protein,Bone Broth Protein,jar,TRU,one_time,3,35.0,105.0,39.0,TBPB1,3,2026-11-11,0.1026
+TRU,bone-broth-protein,Bone Broth Protein,jar,TRU,one_time,6,32.0,192.0,43.16,TBPB6B,1,2026-11-11,0.2586
+TRU,bone-broth-protein,Bone Broth Protein,jar,TRU,subscribe_save,1,35.1,35.1,39.0,TBPB1SS,1,2026-11-11,0.1
+TRU,bone-broth-protein,Bone Broth Protein,jar,TRU,subscribe_save,3,31.5,94.5,39.0,TBPB3SS,1,2026-11-11,0.1923
+TRU,bone-broth-protein,Bone Broth Protein,jar,TRU,subscribe_save,6,28.8,172.8,43.16,TBPB6SS,1,2026-11-11,0.3327
+TRU,creatine,Creatine,jar,TRU,one_time,1,29.0,29.0,29.0,TIC1,1,2026-11-11,0.0
+TRU,creatine,Creatine,jar,TRU,one_time,3,25.0,75.0,29.0,TIC3,1,2026-11-11,0.1379
+TRU,creatine,Creatine,jar,TRU,one_time,6,22.0,132.0,33.16,TIC6,1,2026-11-11,0.3366
+TRU,creatine,Creatine,jar,TRU,subscribe_save,1,26.1,26.1,29.0,TIC1SS,1,2026-11-11,0.1
+TRU,creatine,Creatine,jar,TRU,subscribe_save,3,22.5,67.5,29.0,TIC3SS,1,2026-11-11,0.2241
+TRU,creatine,Creatine,jar,TRU,subscribe_save,6,19.8,118.8,33.16,TIC6SS,1,2026-11-11,0.4029
+TRU,greens-and-reds-powders,Metabolic Greens and Reds Powders Bundle,set,TRU,one_time,1,55.0,55.0,58.0,RGMB1,1,2026-11-11,0.0517
+TRU,greens-and-reds-powders,Metabolic Greens and Reds Powders Bundle,set,TRU,subscribe_save,1,46.98,46.98,82.99,RGMBAD1,1,2026-11-11,0.4339
+TRU,metabolic-greens,Trumeta Greens,jar,TRU,one_time,1,29.0,29.0,29.0,TGJ,1,2026-11-11,0.0
+TRU,metabolic-greens,Trumeta Greens,jar,TRU,one_time,3,25.0,75.0,29.0,TGJ,3,2026-11-11,0.1379
+TRU,metabolic-greens,Trumeta Greens,jar,TRU,one_time,6,22.0,132.0,33.16,TGJ6,1,2026-11-11,0.3366
+TRU,metabolic-greens,Trumeta Greens,jar,TRU,subscribe_save,1,26.1,26.1,29.0,TGJ1SS,1,2026-11-11,0.1
+TRU,metabolic-greens,Trumeta Greens,jar,TRU,subscribe_save,3,22.5,67.5,29.0,TGJ3SS,1,2026-11-11,0.2241
+TRU,metabolic-greens,Trumeta Greens,jar,TRU,subscribe_save,6,19.8,118.8,33.16,TGJ6SS,1,2026-11-11,0.4029
+TRU,metabolic-reds,Reds,jar,TRU,one_time,1,29.0,29.0,29.0,RT,1,2026-11-11,0.0
+TRU,metabolic-reds,Reds,jar,TRU,one_time,3,25.0,75.0,29.0,RT,3,2026-11-11,0.1379
+TRU,metabolic-reds,Reds,jar,TRU,one_time,6,22.0,132.0,33.16,RT6,1,2026-11-11,0.3366
+TRU,metabolic-reds,Reds,jar,TRU,subscribe_save,1,26.1,26.1,29.0,RT1SS,1,2026-11-11,0.1
+TRU,metabolic-reds,Reds,jar,TRU,subscribe_save,3,22.5,67.5,29.0,RT3SS,1,2026-11-11,0.2241
+TRU,metabolic-reds,Reds,jar,TRU,subscribe_save,6,19.8,118.8,33.16,RT6SS,1,2026-11-11,0.4029
+TRU,mixer,Mixer,mixer,TRU,one_time,1,24.99,24.99,24.99,MX,1,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,2,24.99,49.98,24.99,MX,2,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,3,24.99,74.97,24.99,MX,3,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,4,24.99,99.96,24.99,MX,4,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,5,24.99,124.95,24.99,MX,5,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,6,24.99,149.94,24.99,MX,6,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,7,24.99,174.93,24.99,MX,7,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,8,24.99,199.92,24.99,MX,8,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,9,24.99,224.91,24.99,MX,9,2026-11-11,0.0
+TRU,mixer,Mixer,mixer,TRU,one_time,10,24.99,249.9,24.99,MX,10,2026-11-11,0.0
+TRU,performance-recovery-set,Performance & Recovery Set,set,TRU,one_time,1,119.7,119.7,126.0,TPRSH1,1,2026-11-11,0.05
+TRU,performance-recovery-set,Performance & Recovery Set,set,TRU,subscribe_save,1,102.06,102.06,150.99,TPRSH1SS,1,2026-11-11,0.3241
+TRU,pre-workout,Pre-Workout Powder,jar,TRU,one_time,1,29.0,29.0,29.0,TW1,1,2026-11-11,0.0
+TRU,pre-workout,Pre-Workout Powder,jar,TRU,one_time,3,25.0,75.0,29.0,TW1,3,2026-11-11,0.1379
+TRU,pre-workout,Pre-Workout Powder,jar,TRU,one_time,6,22.0,132.0,33.16,TW6,1,2026-11-11,0.3366
+TRU,pre-workout,Pre-Workout Powder,jar,TRU,subscribe_save,1,26.1,26.1,29.0,TW1SS,1,2026-11-11,0.1
+TRU,pre-workout,Pre-Workout Powder,jar,TRU,subscribe_save,3,22.5,67.5,29.0,TW3SS,1,2026-11-11,0.2241
+TRU,pre-workout,Pre-Workout Powder,jar,TRU,subscribe_save,6,19.8,118.8,33.16,TW6SS,1,2026-11-11,0.4029
+TRU,recovery,Muscle Recovery Supplement,jar,TRU,one_time,1,29.0,29.0,29.0,TVR1,1,2026-11-11,0.0
+TRU,recovery,Muscle Recovery Supplement,jar,TRU,one_time,3,25.0,75.0,29.0,TVR1,3,2026-11-11,0.1379
+TRU,recovery,Muscle Recovery Supplement,jar,TRU,one_time,6,22.0,132.0,33.16,TVR6,1,2026-11-11,0.3366
+TRU,recovery,Muscle Recovery Supplement,jar,TRU,subscribe_save,1,26.1,26.1,29.0,TVR1SS,1,2026-11-11,0.1
+TRU,recovery,Muscle Recovery Supplement,jar,TRU,subscribe_save,3,22.5,67.5,29.0,TVR3SS,1,2026-11-11,0.2241
+TRU,recovery,Muscle Recovery Supplement,jar,TRU,subscribe_save,6,19.8,118.8,33.16,TVR6SS,1,2026-11-11,0.4029
+PET,anti-inflammatory-daily-bundle,Anti-Inflammatory Daily Bundle,Set,PAW,one_time,1,78.0,78.0,78.0,ESBNDSN,1,2026-11-11,0.0
+PET,anti-inflammatory-daily-bundle,Anti-Inflammatory Daily Bundle,Set,PAW,one_time,2,72.0,144.0,78.0,ESBNDSN,2,2026-11-11,0.0769
+PET,anti-inflammatory-daily-bundle,Anti-Inflammatory Daily Bundle,Set,PAW,one_time,3,66.0,198.0,78.0,ESBNDSN,3,2026-11-11,0.1538
+PET,anti-inflammatory-daily-bundle,Anti-Inflammatory Daily Bundle,Set,PAW,subscribe_save,1,70.2,70.2,78.0,ESBNDSN1AD,1,2026-11-11,0.1
+PET,anti-inflammatory-daily-bundle,Anti-Inflammatory Daily Bundle,Set,PAW,subscribe_save,2,64.5,129.0,78.0,ESBNDSN2AD,1,2026-11-11,0.1731
+PET,anti-inflammatory-daily-bundle,Anti-Inflammatory Daily Bundle,Set,PAW,subscribe_save,3,59.8,179.4,78.0,ESBNDSN3AD,1,2026-11-11,0.2333
+PET,calm-soft-dog-chews,Calm Soft Dog Chews,Bottle,PAW,one_time,1,39.0,39.0,39.0,CFOF,1,2026-11-11,0.0
+PET,calm-soft-dog-chews,Calm Soft Dog Chews,Bottle,PAW,one_time,3,35.0,105.0,39.0,CFOF,3,2026-11-11,0.1026
+PET,calm-soft-dog-chews,Calm Soft Dog Chews,Bottle,PAW,one_time,6,32.0,192.0,39.0,CFOF,6,2026-11-11,0.1795
+PET,calm-soft-dog-chews,Calm Soft Dog Chews,Bottle,PAW,subscribe_save,1,35.1,35.1,39.0,CFOF1AD,1,2026-11-11,0.1
+PET,calm-soft-dog-chews,Calm Soft Dog Chews,Bottle,PAW,subscribe_save,3,31.5,94.5,39.0,CFOF3AD,3,2026-11-11,0.1923
+PET,calm-soft-dog-chews,Calm Soft Dog Chews,Bottle,PAW,subscribe_save,6,28.8,172.8,39.0,CFOF6AD,6,2026-11-11,0.2615
+PET,dog-ear-cleaner-wipes,Dog Ear Cleaner Wipes,jar,PAW,one_time,1,39.0,39.0,39.0,CTDM,1,2026-11-11,0.0
+PET,dog-ear-cleaner-wipes,Dog Ear Cleaner Wipes,jar,PAW,one_time,3,35.0,105.0,39.0,CTDM,3,2026-11-11,0.1026
+PET,dog-ear-cleaner-wipes,Dog Ear Cleaner Wipes,jar,PAW,one_time,6,32.0,192.0,39.0,CTDM,6,2026-11-11,0.1795
+PET,dog-ear-cleaner-wipes,Dog Ear Cleaner Wipes,jar,PAW,subscribe_save,1,35.1,35.1,39.0,CTDY1AD,1,2026-11-11,0.1
+PET,dog-ear-cleaner-wipes,Dog Ear Cleaner Wipes,jar,PAW,subscribe_save,3,31.5,94.5,39.0,CTDY3AD,3,2026-11-11,0.1923
+PET,dog-ear-cleaner-wipes,Dog Ear Cleaner Wipes,jar,PAW,subscribe_save,6,28.8,172.8,39.0,CTDY6AD,6,2026-11-11,0.2615
+PET,essential-start-bundle,Essential Start Bundle,Set,PAW,one_time,1,117.0,117.0,117.0,ESBNDN,1,2026-11-11,0.0
+PET,essential-start-bundle,Essential Start Bundle,Set,PAW,one_time,2,107.0,214.0,117.0,ESBNDN,2,2026-11-11,0.0855
+PET,essential-start-bundle,Essential Start Bundle,Set,PAW,one_time,3,100.0,300.0,117.0,ESBNDN,3,2026-11-11,0.1453
+PET,essential-start-bundle,Essential Start Bundle,Set,PAW,subscribe_save,1,105.3,105.3,117.0,ESBNDN1AD,1,2026-11-11,0.1
+PET,essential-start-bundle,Essential Start Bundle,Set,PAW,subscribe_save,2,96.7,193.4,117.0,ESBNDN2AD,1,2026-11-11,0.1735
+PET,essential-start-bundle,Essential Start Bundle,Set,PAW,subscribe_save,3,90.3,270.9,117.0,ESBNDN3AD,1,2026-11-11,0.2282
+PET,gift-card,Digital Gift Card,jar,PAW,one_time,1,50.0,50.0,50.0,GC50,1,2026-11-11,0.0
+PET,gift-card,Digital Gift Card,jar,PAW,one_time,2,100.0,200.0,100.0,GC100,1,2026-11-11,0.0
+PET,hip-and-joint-formula,Hip & Joint Formula Powder,jar,PAW,one_time,1,39.0,39.0,69.0,HJFB,1,2026-11-11,0.4348
+PET,hip-and-joint-formula,Hip & Joint Formula Powder,jar,PAW,one_time,3,35.0,105.0,69.0,HJFB,3,2026-11-11,0.4928
+PET,hip-and-joint-formula,Hip & Joint Formula Powder,jar,PAW,one_time,6,32.0,192.0,69.0,HJFB,6,2026-11-11,0.5362
+PET,hip-and-joint-formula,Hip & Joint Formula Powder,jar,PAW,subscribe_save,1,35.1,35.1,69.0,HJFB1AD,1,2026-11-11,0.4913
+PET,hip-and-joint-formula,Hip & Joint Formula Powder,jar,PAW,subscribe_save,3,31.5,94.5,69.0,HJFB3AD,3,2026-11-11,0.5435
+PET,hip-and-joint-formula,Hip & Joint Formula Powder,jar,PAW,subscribe_save,6,28.8,172.8,69.0,HJFB6AD,6,2026-11-11,0.5826
+PET,longevity-formula,Longevity Formula,jar,PAW,one_time,1,39.0,39.0,39.0,PLOC,1,2026-11-11,0.0
+PET,longevity-formula,Longevity Formula,jar,PAW,one_time,3,35.0,105.0,39.0,PLOC,3,2026-11-11,0.1026
+PET,longevity-formula,Longevity Formula,jar,PAW,one_time,6,32.0,192.0,39.0,PLOC,6,2026-11-11,0.1795
+PET,longevity-formula,Longevity Formula,jar,PAW,subscribe_save,1,35.1,35.1,39.0,PLOC1AD,1,2026-11-11,0.1
+PET,longevity-formula,Longevity Formula,jar,PAW,subscribe_save,3,31.5,94.5,39.0,PLOC3AD,3,2026-11-11,0.1923
+PET,longevity-formula,Longevity Formula,jar,PAW,subscribe_save,6,28.8,172.8,39.0,PLOC6AD,6,2026-11-11,0.2615
+PET,omega-3-plus-formula,Omega 3 Plus Formula,Bottle,PAW,one_time,1,39.0,39.0,39.0,POFO,1,2026-11-11,0.0
+PET,omega-3-plus-formula,Omega 3 Plus Formula,Bottle,PAW,one_time,3,35.0,105.0,39.0,POFO,3,2026-11-11,0.1026
+PET,omega-3-plus-formula,Omega 3 Plus Formula,Bottle,PAW,one_time,6,32.0,192.0,39.0,POFO,6,2026-11-11,0.1795
+PET,omega-3-plus-formula,Omega 3 Plus Formula,Bottle,PAW,subscribe_save,1,35.1,35.1,39.0,POFO1AD,1,2026-11-11,0.1
+PET,omega-3-plus-formula,Omega 3 Plus Formula,Bottle,PAW,subscribe_save,3,31.5,94.5,39.0,POFO3AD,3,2026-11-11,0.1923
+PET,omega-3-plus-formula,Omega 3 Plus Formula,Bottle,PAW,subscribe_save,6,28.8,172.8,39.0,POFO6AD,6,2026-11-11,0.2615
+NBL,cardiora-heart-health-supplement,Cardiora,Jar,NBL,one_time,1,59.99,59.99,69.0,CCO,1,2026-11-11,0.1306
+NBL,cardiora-heart-health-supplement,Cardiora,Jar,NBL,one_time,3,49.99,149.97,69.0,CCO,3,2026-11-11,0.2755
+NBL,cardiora-heart-health-supplement,Cardiora,Jar,NBL,one_time,6,39.99,239.94,69.0,CCO,6,2026-11-11,0.4204
+NBL,cardiora-heart-health-supplement,Cardiora,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,CCO1AD,1,2026-11-11,0.2755
+NBL,cardiora-heart-health-supplement,Cardiora,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,CCO3AD,1,2026-11-11,0.4204
+NBL,cardiora-heart-health-supplement,Cardiora,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,CCO6AD,1,2026-11-11,0.5654
+NBL,cognicharge-brain-health-supplement,CogniCharge,Jar,NBL,one_time,1,14.99,14.99,49.0,CGA,1,2026-11-11,0.6941
+NBL,cognicharge-brain-health-supplement,CogniCharge,Jar,NBL,one_time,2,12.99,25.98,49.0,CGA,2,2026-11-11,0.7349
+NBL,cognicharge-brain-health-supplement,CogniCharge,Jar,NBL,one_time,3,9.99,29.97,49.0,CGA,3,2026-11-11,0.7961
+NBL,cognicharge-brain-health-supplement,CogniCharge,Jar,NBL,subscribe_save,1,13.49,13.49,49.0,CGA1AD,1,2026-11-11,0.7247
+NBL,cognicharge-brain-health-supplement,CogniCharge,Jar,NBL,subscribe_save,2,11.69,23.38,49.0,CGA2AD,1,2026-11-11,0.7614
+NBL,cognicharge-brain-health-supplement,CogniCharge,Jar,NBL,subscribe_save,3,8.99,26.97,49.0,CGA3AD,1,2026-11-11,0.8165
+NBL,gluco-powder-glucose-control-supplement,Gluco Powder,Jar,NBL,one_time,1,59.99,59.99,69.0,GPO,1,2026-11-11,0.1306
+NBL,gluco-powder-glucose-control-supplement,Gluco Powder,Jar,NBL,one_time,3,49.99,149.97,69.0,GPO,3,2026-11-11,0.2755
+NBL,gluco-powder-glucose-control-supplement,Gluco Powder,Jar,NBL,one_time,6,39.99,239.94,69.0,GPO,6,2026-11-11,0.4204
+NBL,gluco-powder-glucose-control-supplement,Gluco Powder,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,GPO1AD,1,2026-11-11,0.2755
+NBL,gluco-powder-glucose-control-supplement,Gluco Powder,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,GPO3AD,1,2026-11-11,0.4204
+NBL,gluco-powder-glucose-control-supplement,Gluco Powder,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,GPO6AD,1,2026-11-11,0.5654
+NBL,hairvive-hair-growth-supplement,HairVive,Jar,NBL,one_time,1,59.99,59.99,69.0,HVO,1,2026-11-11,0.1306
+NBL,hairvive-hair-growth-supplement,HairVive,Jar,NBL,one_time,3,49.99,149.97,69.0,HVO,3,2026-11-11,0.2755
+NBL,hairvive-hair-growth-supplement,HairVive,Jar,NBL,one_time,6,39.99,239.94,69.0,HVO,6,2026-11-11,0.4204
+NBL,hairvive-hair-growth-supplement,HairVive,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,HVO1AD,1,2026-11-11,0.2755
+NBL,hairvive-hair-growth-supplement,HairVive,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,HVO3AD,1,2026-11-11,0.4204
+NBL,hairvive-hair-growth-supplement,HairVive,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,HVO6AD,1,2026-11-11,0.5654
+NBL,liver-360-liver-health-supplement,Liver 360,Jar,NBL,one_time,1,59.99,59.99,69.0,LVE,1,2026-11-11,0.1306
+NBL,liver-360-liver-health-supplement,Liver 360,Jar,NBL,one_time,3,49.99,149.97,69.0,LVE,3,2026-11-11,0.2755
+NBL,liver-360-liver-health-supplement,Liver 360,Jar,NBL,one_time,6,39.99,239.94,69.0,LVE,6,2026-11-11,0.4204
+NBL,liver-360-liver-health-supplement,Liver 360,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,LVE1AD,1,2026-11-11,0.2755
+NBL,liver-360-liver-health-supplement,Liver 360,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,LVE3AD,1,2026-11-11,0.4204
+NBL,liver-360-liver-health-supplement,Liver 360,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,LVE6AD,1,2026-11-11,0.5654
+NBL,lymph-go-lymphatic-support-supplement,Lymph Go,Bottle,NBL,one_time,1,59.99,59.99,69.0,LPE,1,2026-11-11,0.1306
+NBL,lymph-go-lymphatic-support-supplement,Lymph Go,Bottle,NBL,one_time,3,49.99,149.97,69.0,LPE,3,2026-11-11,0.2755
+NBL,lymph-go-lymphatic-support-supplement,Lymph Go,Bottle,NBL,one_time,6,39.99,239.94,69.0,LPE,6,2026-11-11,0.4204
+NBL,lymph-go-lymphatic-support-supplement,Lymph Go,Bottle,NBL,subscribe_save,1,49.99,49.99,69.0,LPE1AD,1,2026-11-11,0.2755
+NBL,lymph-go-lymphatic-support-supplement,Lymph Go,Bottle,NBL,subscribe_save,3,39.99,119.97,69.0,LPE3AD,1,2026-11-11,0.4204
+NBL,lymph-go-lymphatic-support-supplement,Lymph Go,Bottle,NBL,subscribe_save,6,29.99,179.94,69.0,LPE6AD,1,2026-11-11,0.5654
+NBL,man-pulse-mens-health-supplement,Man Pulse,Jar,NBL,one_time,1,59.99,59.99,69.0,PMO,1,2026-11-11,0.1306
+NBL,man-pulse-mens-health-supplement,Man Pulse,Jar,NBL,one_time,3,49.99,149.97,69.0,PMO,3,2026-11-11,0.2755
+NBL,man-pulse-mens-health-supplement,Man Pulse,Jar,NBL,one_time,6,39.99,239.94,69.0,PMO,6,2026-11-11,0.4204
+NBL,man-pulse-mens-health-supplement,Man Pulse,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,PMO1AD,1,2026-11-11,0.2755
+NBL,man-pulse-mens-health-supplement,Man Pulse,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,PMO3AD,1,2026-11-11,0.4204
+NBL,man-pulse-mens-health-supplement,Man Pulse,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,PMO6AD,1,2026-11-11,0.5654
+NBL,metabolic-greens-superfood-powder,Metabolic Greens,Jar,NBL,one_time,1,59.99,59.99,69.0,ZDO,1,2026-11-11,0.1306
+NBL,metabolic-greens-superfood-powder,Metabolic Greens,Jar,NBL,one_time,3,49.99,149.97,69.0,ZDO,3,2026-11-11,0.2755
+NBL,metabolic-greens-superfood-powder,Metabolic Greens,Jar,NBL,one_time,6,39.99,239.94,69.0,ZDO,6,2026-11-11,0.4204
+NBL,metabolic-greens-superfood-powder,Metabolic Greens,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,ZDO1AD,1,2026-11-11,0.2755
+NBL,metabolic-greens-superfood-powder,Metabolic Greens,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,ZDO3AD,1,2026-11-11,0.4204
+NBL,metabolic-greens-superfood-powder,Metabolic Greens,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,ZDO6AD,1,2026-11-11,0.5654
+NBL,metabolic-reds-superfood-powder,Metabolic Reds,Jar,NBL,one_time,1,59.99,59.99,69.0,RAO,1,2026-11-11,0.1306
+NBL,metabolic-reds-superfood-powder,Metabolic Reds,Jar,NBL,one_time,3,49.99,149.97,69.0,RAO,3,2026-11-11,0.2755
+NBL,metabolic-reds-superfood-powder,Metabolic Reds,Jar,NBL,one_time,6,39.99,239.94,69.0,RAO,6,2026-11-11,0.4204
+NBL,metabolic-reds-superfood-powder,Metabolic Reds,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,RAO1AD,1,2026-11-11,0.2755
+NBL,metabolic-reds-superfood-powder,Metabolic Reds,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,RAO3AD,1,2026-11-11,0.4204
+NBL,metabolic-reds-superfood-powder,Metabolic Reds,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,RAO6AD,1,2026-11-11,0.5654
+NBL,motion-bliss-joint-health-supplement,Motion Bliss,Jar,NBL,one_time,1,14.99,14.99,49.0,MBA,1,2026-11-11,0.6941
+NBL,motion-bliss-joint-health-supplement,Motion Bliss,Jar,NBL,one_time,2,12.99,25.98,49.0,MBA,2,2026-11-11,0.7349
+NBL,motion-bliss-joint-health-supplement,Motion Bliss,Jar,NBL,one_time,3,9.99,29.97,49.0,MBA,3,2026-11-11,0.7961
+NBL,motion-bliss-joint-health-supplement,Motion Bliss,Jar,NBL,subscribe_save,1,13.49,13.49,49.0,MBA1AD,1,2026-11-11,0.7247
+NBL,motion-bliss-joint-health-supplement,Motion Bliss,Jar,NBL,subscribe_save,2,11.69,23.38,49.0,MBA2AD,1,2026-11-11,0.7614
+NBL,motion-bliss-joint-health-supplement,Motion Bliss,Jar,NBL,subscribe_save,3,8.99,26.97,49.0,MBA3AD,1,2026-11-11,0.8165
+NBL,paratarget-parasite-cleanse-supplement,ParaTarget,Jar,NBL,one_time,1,59.99,59.99,69.0,PAO,1,2026-11-11,0.1306
+NBL,paratarget-parasite-cleanse-supplement,ParaTarget,Jar,NBL,one_time,3,49.99,149.97,69.0,PAO,3,2026-11-11,0.2755
+NBL,paratarget-parasite-cleanse-supplement,ParaTarget,Jar,NBL,one_time,6,39.99,239.94,69.0,PAO,6,2026-11-11,0.4204
+NBL,paratarget-parasite-cleanse-supplement,ParaTarget,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,PAO1AD,1,2026-11-11,0.2755
+NBL,paratarget-parasite-cleanse-supplement,ParaTarget,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,PAO3AD,1,2026-11-11,0.4204
+NBL,paratarget-parasite-cleanse-supplement,ParaTarget,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,PAO6AD,1,2026-11-11,0.5654
+NBL,shape-fusion-appetite-suppressant-supplement,Shape Fusion,Jar,NBL,one_time,1,59.99,59.99,69.0,SUT,1,2026-11-11,0.1306
+NBL,shape-fusion-appetite-suppressant-supplement,Shape Fusion,Jar,NBL,one_time,3,49.99,149.97,69.0,SUT,3,2026-11-11,0.2755
+NBL,shape-fusion-appetite-suppressant-supplement,Shape Fusion,Jar,NBL,one_time,6,39.99,239.94,69.0,SUT,6,2026-11-11,0.4204
+NBL,shape-fusion-appetite-suppressant-supplement,Shape Fusion,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,SUT1AD,1,2026-11-11,0.2755
+NBL,shape-fusion-appetite-suppressant-supplement,Shape Fusion,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,SUT3AD,1,2026-11-11,0.4204
+NBL,shape-fusion-appetite-suppressant-supplement,Shape Fusion,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,SUT6AD,1,2026-11-11,0.5654
+NBL,sight-max-vision-supplement,SightMax,Jar,NBL,one_time,1,14.99,14.99,49.0,SMA,1,2026-11-11,0.6941
+NBL,sight-max-vision-supplement,SightMax,Jar,NBL,one_time,2,12.99,25.98,49.0,SMA,2,2026-11-11,0.7349
+NBL,sight-max-vision-supplement,SightMax,Jar,NBL,one_time,3,9.99,29.97,49.0,SMA,3,2026-11-11,0.7961
+NBL,sight-max-vision-supplement,SightMax,Jar,NBL,subscribe_save,1,13.49,13.49,49.0,SMA1AD,1,2026-11-11,0.7247
+NBL,sight-max-vision-supplement,SightMax,Jar,NBL,subscribe_save,2,11.69,23.38,49.0,SMA2AD,1,2026-11-11,0.7614
+NBL,sight-max-vision-supplement,SightMax,Jar,NBL,subscribe_save,3,8.99,26.97,49.0,SMA3AD,1,2026-11-11,0.8165
+NBL,youthspark-longevity-supplement,YouthSpark,Jar,NBL,one_time,1,59.99,59.99,69.0,YKO,1,2026-11-11,0.1306
+NBL,youthspark-longevity-supplement,YouthSpark,Jar,NBL,one_time,3,49.99,149.97,69.0,YKO,3,2026-11-11,0.2755
+NBL,youthspark-longevity-supplement,YouthSpark,Jar,NBL,one_time,6,39.99,239.94,69.0,YKO,6,2026-11-11,0.4204
+NBL,youthspark-longevity-supplement,YouthSpark,Jar,NBL,subscribe_save,1,49.99,49.99,69.0,YKO1AD,1,2026-11-11,0.2755
+NBL,youthspark-longevity-supplement,YouthSpark,Jar,NBL,subscribe_save,3,39.99,119.97,69.0,YKO3AD,1,2026-11-11,0.4204
+NBL,youthspark-longevity-supplement,YouthSpark,Jar,NBL,subscribe_save,6,29.99,179.94,69.0,YKO6AD,1,2026-11-11,0.5654

@@ -1,0 +1,16 @@
+# Python 3.11+ (built and tested with 3.13)
+pandas==3.1.1
+numpy==2.5.4
+requests==2.34.2
+duckdb==2.0.0
+pyarrow==26.0.1
+matplotlib==3.11.2
+python-dotenv==1.2.4
+pytrends==4.9.2
+pypdfium2==5.15.2
+dbt-core==1.12.6
+dbt-duckdb==1.11.1
+
+# Optional, only to run the same project on BigQuery
+# dbt-bigquery==1.12.2
+# google-cloud-bigquery==3.47.0

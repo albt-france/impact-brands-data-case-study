@@ -1,0 +1,360 @@
+{
+ "brand": "petmade",
+ "base_url": "https://www.petmade.com",
+ "snapshot_date": "2026-11-11",
+ "collected_at_utc": "2026-11-10T23:26:31+00:00",
+ "method": "sitemap.xml -> /product/ pages -> embedded product JSON",
+ "products": [
+  {
+   "url": "https://www.petmade.com/product/anti-inflammatory-daily-bundle",
+   "name": "Anti-Inflammatory Daily Bundle",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "Set",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 78,
+      "save": 0,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD_ESBNDSN=1"
+     },
+     "2": {
+      "price": 72,
+      "save": 12,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD_ESBNDSN=2"
+     },
+     "3": {
+      "price": 66,
+      "save": 36,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD_ESBNDSN=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 70.2,
+      "save": 7.8,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDSN1AD"
+     },
+     "2": {
+      "price": 64.5,
+      "save": 27,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDSN2AD"
+     },
+     "3": {
+      "price": 59.8,
+      "save": 54.6,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDSN3AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.petmade.com/product/calm-soft-dog-chews",
+   "name": "Calm Soft Dog Chews",
+   "regular_price": 39.0,
+   "price_options": {
+    "calculateSavePct": true,
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 0,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CFOF"
+     },
+     "3": {
+      "price": 35,
+      "save": 12,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CFOF&QUANTITY=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 42,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CFOF&QUANTITY=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 3.9,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CFOF1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 22.5,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CFOF3AD&QUANTITY=3"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 61.2,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CFOF6AD&QUANTITY=6"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.petmade.com/product/dog-ear-cleaner-wipes",
+   "name": "Dog Ear Cleaner Wipes",
+   "regular_price": 39.0,
+   "price_options": {
+    "calculateSavePct": true,
+    "measurementUnit": "jar",
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 0,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CTDM"
+     },
+     "3": {
+      "price": 35,
+      "save": 12,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CTDM&QUANTITY=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 42,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CTDM&QUANTITY=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 3.9,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CTDY1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 22.5,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CTDY3AD&QUANTITY=3"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 61.2,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=CTDY6AD&QUANTITY=6"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.petmade.com/product/essential-start-bundle",
+   "name": "Essential Start Bundle",
+   "regular_price": null,
+   "price_options": {
+    "calculateSavePct": false,
+    "measurementUnit": "Set",
+    "regular": {
+     "1": {
+      "price": 117,
+      "save": 0,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDN"
+     },
+     "2": {
+      "price": 107,
+      "save": 20,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDN&QUANTITY=2"
+     },
+     "3": {
+      "price": 100,
+      "save": 51,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDN&QUANTITY=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 105.3,
+      "save": 11.7,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDN1AD"
+     },
+     "2": {
+      "price": 96.7,
+      "save": 40.6,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDN2AD"
+     },
+     "3": {
+      "price": 90.3,
+      "save": 80.1,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=ESBNDN3AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.petmade.com/product/gift-card",
+   "name": "Digital Gift Card",
+   "regular_price": null,
+   "price_options": {
+    "calculateSavePct": false,
+    "measurementUnit": "jar",
+    "priceMin": 50,
+    "regular": {
+     "1": {
+      "price": 50,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=GC50"
+     },
+     "2": {
+      "price": 100,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=GC100"
+     }
+    },
+    "vip": {}
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.petmade.com/product/hip-and-joint-formula",
+   "name": "Hip & Joint Formula Powder",
+   "regular_price": 69.0,
+   "price_options": {
+    "calculateSavePct": true,
+    "measurementUnit": "jar",
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=HJFB"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=HJFB&QUANTITY=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=HJFB&QUANTITY=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=HJFB1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=HJFB3AD&QUANTITY=3"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=HJFB6AD&QUANTITY=6"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.petmade.com/product/longevity-formula",
+   "name": "Longevity Formula",
+   "regular_price": 39.0,
+   "price_options": {
+    "calculateSavePct": true,
+    "measurementUnit": "jar",
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 0,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=PLOC"
+     },
+     "3": {
+      "price": 35,
+      "save": 12,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=PLOC&QUANTITY=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 42,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=PLOC&QUANTITY=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 3.9,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=PLOC1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 22.5,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=PLOC3AD&QUANTITY=3"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 61.2,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=PLOC6AD&QUANTITY=6"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.petmade.com/product/omega-3-plus-formula",
+   "name": "Omega 3 Plus Formula",
+   "regular_price": 39.0,
+   "price_options": {
+    "calculateSavePct": true,
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 0,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=POFO"
+     },
+     "3": {
+      "price": 35,
+      "save": 12,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=POFO&QUANTITY=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 42,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=POFO&QUANTITY=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 3.9,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=POFO1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 22.5,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=POFO3AD&QUANTITY=3"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 61.2,
+      "orderLink": "https://secure.petmade.com/cgi-bin/UCEditor?MerchantID=PAW&ADD=POFO6AD&QUANTITY=6"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": null,
+   "http_status": 200
+  }
+ ]
+}

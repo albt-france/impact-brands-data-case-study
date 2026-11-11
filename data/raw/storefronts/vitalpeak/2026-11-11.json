@@ -1,0 +1,144 @@
+{
+ "brand": "vitalpeak",
+ "base_url": "https://www.thevitalpeak.com",
+ "snapshot_date": "2026-11-11",
+ "collected_at_utc": "2026-11-10T23:38:24+00:00",
+ "method": "sitemap.xml -> /product/ pages -> embedded product JSON",
+ "products": [
+  {
+   "url": "https://www.thevitalpeak.com/product/artichoke-extract",
+   "name": "Artichoke Extract",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/brain-peak",
+   "name": "Brain Peak",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/elderberry-peak",
+   "name": "Shop",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/hair-peak",
+   "name": "Hair Peak",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/hearing-peak",
+   "name": "Hearing Peak",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/liver-cleanse-detox",
+   "name": "Liver Cleanse & Detox",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/longevity-peak",
+   "name": "Longevity Peak",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/lymph-peak",
+   "name": "Lymph Peak",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/milk-thistle-extract",
+   "name": "Milk Thistle Extract",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/odorless-garlic-extract",
+   "name": "Odorless Garlic Extract",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/paracleanse",
+   "name": "ParaCleanse",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/provision-formula",
+   "name": "ProVision",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/toenail-peak",
+   "name": "Toenail Peak",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/turmeric-curcumin-extract",
+   "name": "Turmeric Curcumin Extract",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.thevitalpeak.com/product/vein-care-blend",
+   "name": "Vein Care Blend",
+   "regular_price": null,
+   "price_options": null,
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  }
+ ]
+}

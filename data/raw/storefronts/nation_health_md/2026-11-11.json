@@ -1,0 +1,2758 @@
+{
+ "brand": "nation_health_md",
+ "base_url": "https://www.nationhealthmd.com",
+ "snapshot_date": "2026-11-11",
+ "collected_at_utc": "2026-11-10T23:33:20+00:00",
+ "method": "sitemap.xml -> /product/ pages -> embedded product JSON",
+ "products": [
+  {
+   "url": "https://www.nationhealthmd.com/product/activespan-longevity-supplement",
+   "name": "ActiveSpan",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ATK=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ATK=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ATK=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ATK1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ATK3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ATK6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 132,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/artichoke-extract-supplement",
+   "name": "Artichoke Extract Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OKN=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OKN=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OKN=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OKZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OKZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OKZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/ashwagandha-supplement",
+   "name": "Ashwagandha Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_DHM=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_DHM=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_DHM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=DHZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=DHZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=DHZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/bacopa-monnieri-supplement",
+   "name": "Bacopa Monnieri Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MUO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MUO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MUO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MUO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MUO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MUO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/balance-biotics-supplement",
+   "name": "Balance Biotics",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BIO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BIO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BIO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BIO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BIO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BIO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 16,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/bare-feet-toenail-fungus-supplement",
+   "name": "Bare Feet",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 40,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BFO=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 132,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BFO=3"
+     },
+     "6": {
+      "price": 22,
+      "save": 282,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BFO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "save": 42.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BFO1AD"
+     },
+     "3": {
+      "price": 22.5,
+      "save": 139.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BFO3AD"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 295.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BFO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 204,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/beet-root-supplement",
+   "name": "Beet Root Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BDL=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BDL=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BDL=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BDL1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BDL3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BDL6AD"
+     }
+    }
+   },
+   "site_rating_value": 0.0,
+   "site_rating_count": 0,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/berberine-extract-supplements",
+   "name": "Berberine Extract Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BE=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BE=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BEZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BEZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BEZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/bone-complex-natural-bone-supplement",
+   "name": "Bone Complex Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BTO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BTO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BTO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BTO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BTO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BTO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 51,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/cl-switch-supplement-for-high-cholesterol",
+   "name": "CL Switch - Supplement for High Cholesterol",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CSO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CSO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CSO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CSO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CSO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CSO6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 41,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/cleanse24-parasite-cleanse-supplement",
+   "name": "Cleanse24",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CNU=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CNU=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CNU=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CNU1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CNU3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CNU6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 98,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/clear-toenail-oil-essential-oil-for-toenail-fungus",
+   "name": "Clear Toenail Oil MD - Essential Oil for Toenail Fungus",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_TOO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_TOO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_TOO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=TOO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=TOO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=TOO6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 10,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/cognilux-memory-support-supplement",
+   "name": "Cognilux",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BGR=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BGR=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BGR=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BGR1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BGR3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BGR6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 136,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/curcumin-extract-supplement",
+   "name": "Curcumin Extract Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CMO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CMO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CMO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CMO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CMO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CMO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 9,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/daily-multivitamins",
+   "name": "Multivitamin Complex Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 29.99,
+      "save": 39.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VXP=1"
+     },
+     "3": {
+      "price": 24.99,
+      "save": 132.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VXP=3"
+     },
+     "6": {
+      "price": 19.99,
+      "save": 294.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VXP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 24.99,
+      "save": 44.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VXP1AD"
+     },
+     "3": {
+      "price": 19.99,
+      "save": 147.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VXP3AD"
+     },
+     "6": {
+      "price": 14.99,
+      "save": 324.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VXP6AD"
+     }
+    }
+   },
+   "site_rating_value": 0.0,
+   "site_rating_count": 0,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/elderberry-supplement",
+   "name": "Elderberry Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PQO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PQO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PQO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PQO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PQO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PQO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/flow-active-prostate-health-supplement",
+   "name": "Flow Active",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_FTO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_FTO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_FTO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=FTO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=FTO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=FTO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 25,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/garlic-bulb-extract-supplement",
+   "name": "Garlic Bulb Extract Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_GOO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_GOO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_GOO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=GOO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=GOO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=GOO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/gift-card",
+   "name": "Gift Card",
+   "regular_price": null,
+   "price_options": {
+    "isBilledMonthly": false,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 50,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_GCN50=1"
+     },
+     "2": {
+      "price": 100,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_GCN100=1"
+     }
+    },
+    "vip": {}
+   },
+   "site_rating_value": 0.0,
+   "site_rating_count": 0,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/ginseng-energy-and-stamina-supplement",
+   "name": "Ginseng",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_GCO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_GCO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_GCO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=GCO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=GCO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=GCO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/gluco24-blood-sugar-supplement",
+   "name": "Gluco24",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BRE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BRE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BRE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BRE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BRE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BRE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 252,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/greens-gut-health-supplement",
+   "name": "Greens - Gut Health Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Jar",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ZLO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ZLO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ZLO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ZLO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ZLO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ZLO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 193,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/hair-switch-hair-growth-supplement",
+   "name": "Hair Switch",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_HSE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_HSE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_HSE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=HSE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=HSE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=HSE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 164,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/hawthorn-natural-herbal-supplement",
+   "name": "Hawthorn Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ODM=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ODM=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ODM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ODZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ODZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ODZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/hearplus-hearing-support-supplement",
+   "name": "HearPlus",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_HPO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_HPO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_HPO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=HPO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=HPO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=HPO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 17,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/hydration-creatine-electrolyte-replacement-supplement",
+   "name": "Premium Hydration + Creatine",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Jar",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PHCP=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PHCP=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PHCP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PHCP1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PHCP3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PHCP6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/immunomd-immune-health-supplement",
+   "name": "IMMUNO MD",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_IMDP=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_IMDP=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_IMDP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=IMDP1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=IMDP3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=IMDP6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 24,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/inside-and-out-nail-support",
+   "name": "Inside & Out Nail Support Bundle",
+   "regular_price": 207.0,
+   "price_options": {
+    "measurementUnit": "Set",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 108,
+      "save": 99,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_IONS=1"
+     },
+     "3": {
+      "price": 100,
+      "save": 321,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_IONS=3"
+     },
+     "6": {
+      "price": 94,
+      "save": 678,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_IONS=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 97.2,
+      "save": 109.8,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=IONS1AD"
+     },
+     "3": {
+      "price": 90,
+      "save": 351,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=IONS3AD"
+     },
+     "6": {
+      "price": 84.6,
+      "save": 734.4,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=IONS6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 235,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/iron-supplement-with-vitamin-c",
+   "name": "Iron and Vitamin C Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VCO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VCO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VCO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VCO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VCO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VCO6AD"
+     }
+    }
+   },
+   "site_rating_value": 0.0,
+   "site_rating_count": 0,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/joint-complex-joint-health-supplement",
+   "name": "Joint Complex",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_JCE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_JCE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_JCE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=JCE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=JCE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=JCE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 200,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/keto-md-keto-supplement",
+   "name": "KETO MD - Keto Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_KTO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_KTO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_KTO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=KTO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=KTO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=KTO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/kidney-vitality-supplement",
+   "name": "Kidney Vitality",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_KVO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_KVO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_KVO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=KVO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=KVO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=KVO6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 10,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/liver-renew-liver-health-supplement",
+   "name": "Liver Renew",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LRG=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LRG=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LRG=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LRG1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LRG3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LRG6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 781,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/longevity-bundle",
+   "name": "Longevity Bundle",
+   "regular_price": 276.0,
+   "price_options": {
+    "measurementUnit": "Set",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 186,
+      "save": 90,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LNGBXM=1"
+     },
+     "3": {
+      "price": 176,
+      "save": 300,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LNGBXM=3"
+     },
+     "6": {
+      "price": 166,
+      "save": 660,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LNGBXM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 167.4,
+      "save": 108.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LNGBXM1AD"
+     },
+     "3": {
+      "price": 158.4,
+      "save": 352.8,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LNGBXM3AD"
+     },
+     "6": {
+      "price": 149.4,
+      "save": 759.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LNGBXM6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 16,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/lycopene-supplement",
+   "name": "Lycopene Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NEN=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NEN=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NEN=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NEX1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NEX3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NEX6AD"
+     }
+    }
+   },
+   "site_rating_value": 0.0,
+   "site_rating_count": 0,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/lymph-md",
+   "name": "Lymph MD",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LYMD=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LYMD=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_LYMD=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LYMD1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LYMD3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=LYMD6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 365,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/magnesium-supplement",
+   "name": "Magnesium Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NU=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NU=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NU=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NUZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NUZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NUZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/matcha-antioxidant-supplement",
+   "name": "Matcha Green Tea Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CK=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CK=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_CK=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CKZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CKZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=CKZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/menoverra-natural-menopause-supplement",
+   "name": "MenoVerra",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MLP=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MLP=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MLP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MLP1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MLP3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MLP6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 6,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/mens-drive-male-virility-supplement",
+   "name": "Men’s Drive",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MRB=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MRB=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MRB=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MRB1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MRB3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MRB6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.7,
+   "site_rating_count": 11,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/moringa-supplement",
+   "name": "Moringa Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MWO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MWO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MWO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MWO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MWO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MWO6AD"
+     }
+    }
+   },
+   "site_rating_value": 0.0,
+   "site_rating_count": 0,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/n-balance8-nerve-health-supplement",
+   "name": "N-Balance 8",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NGR=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NGR=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NGR=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NGR1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NGR3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NGR6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 165,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/natural-holy-basil-supplement",
+   "name": "Holy Basil Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BJM=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BJM=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_BJM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BJZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BJZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=BJZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/nootropeak-mushroom-brain-supplement",
+   "name": "NootroPeak",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NPO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NPO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_NPO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NPO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NPO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=NPO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 15,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/olive-leaf-supplement",
+   "name": "Olive Leaf Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OLO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OLO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OLO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OLO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OLO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OLO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/omega-3-md-supplement",
+   "name": "Omega-3 MD Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OMP=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OMP=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_OMP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OMP1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OMP3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=OMP6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/prebiotics-supplement",
+   "name": "Prebiotics Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PTP=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PTP=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_PTP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PTP1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PTP3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=PTP6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 20,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/reds-metabolism-boosting-supplements",
+   "name": "Reds - Metabolism Boosting Supplements",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Jar",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ROO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ROO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_ROO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ROO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ROO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=ROO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 97,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/saw-palmetto-supplement",
+   "name": "Saw Palmetto Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MPO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MPO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MPO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MPO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MPO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MPO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/shilajit-supplement",
+   "name": "Shilajit Supplement Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_JKO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_JKO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_JKO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=JKO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=JKO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=JKO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/spirulina-chlorella-complex-supplement",
+   "name": "Spirulina & Chlorella Pills",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MNO=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MNO=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_MNO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MNO1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MNO3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=MNO6AD"
+     }
+    }
+   },
+   "site_rating_value": 0.0,
+   "site_rating_count": 0,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/stress-support-essentials-supplement",
+   "name": "Stress Support Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_SEP=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_SEP=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_SEP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=SEP1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=SEP3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=SEP6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 7,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/t-forge-natural-energy-supplement",
+   "name": "T-Forge - Natural Energy Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_FGC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_FGC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_FGC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=FGC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=FGC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=FGC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 236,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/thyro-support-thyroid-health-supplement",
+   "name": "Thyroid Support Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_TSP=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_TSP=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_TSP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=TSP1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=TSP3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=TSP6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 46,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/tongkat-ali-supplement",
+   "name": "Tongkat Ali Capsules",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_QAL=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_QAL=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_QAL=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=QAZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=QAZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=QAZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/urobliss-urinary-tract-supplement",
+   "name": "UroBliss",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_UBR=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_UBR=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_UBR=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=UBR1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=UBR3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=UBR6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 55,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/veinrenew-vein-health-supplement",
+   "name": "VeinRenew",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VRE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VRE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VRE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VRE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VRE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VRE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 83,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/vision-nutri-complex-eye-health-supplement",
+   "name": "Vision Nutri Complex",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VNK=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VNK=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_VNK=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VNK1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VNK3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=VNK6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 128,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.nationhealthmd.com/product/weight-management-bundle",
+   "name": "Weight Management Bundle",
+   "regular_price": 276.0,
+   "price_options": {
+    "measurementUnit": "Set",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 186,
+      "save": 90,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_WMNBSB=1"
+     },
+     "3": {
+      "price": 176,
+      "save": 300,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_WMNBSB=3"
+     },
+     "6": {
+      "price": 166,
+      "save": 660,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD_WMNBSB=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 167.4,
+      "save": 108.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=WMNBSB1ADS"
+     },
+     "3": {
+      "price": 158.4,
+      "save": 352.8,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=WMNBSB3ADS"
+     },
+     "6": {
+      "price": 149.4,
+      "save": 759.6,
+      "orderLink": "https://secure.nationhealthmd.com/cgi-bin/UCEditor?MerchantID=LHP&ADD=WMNBSB6ADS"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 12,
+   "http_status": 200
+  }
+ ]
+}

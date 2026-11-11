@@ -1,0 +1,3701 @@
+{
+ "brand": "purehealth_research",
+ "base_url": "https://www.purehealthresearch.com",
+ "snapshot_date": "2026-11-11",
+ "collected_at_utc": "2026-11-10T23:30:26+00:00",
+ "method": "sitemap.xml -> /product/ pages -> embedded product JSON",
+ "products": [
+  {
+   "url": "https://www.purehealthresearch.com/product/ageless-brain-health-supplement",
+   "name": "Ageless Brain",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ABE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ABE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ABE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ABE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ABE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ABE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 457,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/artichoke-extract-supplement",
+   "name": "Artichoke Extract",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RTV=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RTV=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RTV=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RTV1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RTV3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RTV6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/ashwagandha-supplement",
+   "name": "Ashwagandha",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_WGH=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_WGH=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_WGH=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=WGZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=WGZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=WGZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/bacopa-monnieri",
+   "name": "Bacopa Monnieri",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_AF=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_AF=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_AF=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=AFZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=AFZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=AFZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/beet-root-supplement",
+   "name": "Beet Root",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BVK=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BVK=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BVK=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BVK1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BVK3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BVK6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/berberine-extract-supplement",
+   "name": "Berberine Extract",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KS=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KS=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KS=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KSZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KSZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KSZ6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 1,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/blood-sugar-formula-supplement",
+   "name": "Blood Sugar Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BSE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BSE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BSE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BSE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BSE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BSE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 694,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/bone-broth-protein-powder",
+   "name": "Bone Broth Protein",
+   "regular_price": 98.0,
+   "price_options": {
+    "measurementUnit": "Jar",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 69,
+      "save": 29,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TXM=1"
+     },
+     "3": {
+      "price": 65,
+      "save": 99,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TXM=3"
+     },
+     "6": {
+      "price": 62,
+      "save": 216,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TXM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 62.1,
+      "save": 35.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TXM1AD"
+     },
+     "3": {
+      "price": 58.5,
+      "save": 118.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TXM3AD"
+     },
+     "6": {
+      "price": 55.8,
+      "save": 253.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TXM6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 10,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/bone-health-formula-supplement",
+   "name": "Bone Health Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BHE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BHE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BHE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BHE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BHE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BHE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 56,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/breathecore-clear-lungs-supplement",
+   "name": "BreatheCore",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BZO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BZO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_BZO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BZO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BZO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=BZO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/cl-balance-supplement-for-high-cholesterol",
+   "name": "CL BALANCE",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CLE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CLE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CLE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CLE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CLE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CLE6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 48,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/comfortiq",
+   "name": "Comfortiq",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CQF=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CQF=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CQF=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CQF1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CQF3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CQF6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/complete-omega-3",
+   "name": "Complete Omega-3",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MCR=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MCR=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MCR=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MCR1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MCR3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MCR6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/complete-vision-formula-supplement",
+   "name": "Complete Vision Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VIC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VIC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VIC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VIC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VIC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VIC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 228,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/cortisol-capsules",
+   "name": "Cortisol & Sleep Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SFZM=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SFZM=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SFZM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SFZM1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SFZM3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SFZM6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/creatine-monohydrate-powder-agilance",
+   "name": "Agilance",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Jar",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_AIZ=1"
+     },
+     "2": {
+      "price": 45,
+      "save": 48,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_AIZ=2"
+     },
+     "3": {
+      "price": 42,
+      "save": 81,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_AIZ=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=AIZ1AD"
+     },
+     "2": {
+      "price": 40.5,
+      "save": 57,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=AIZ2AD"
+     },
+     "3": {
+      "price": 37.8,
+      "save": 93.6,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=AIZ3AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 10,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/curbfit-appetite-suppressant-supplement",
+   "name": "CurbFit",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CFE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CFE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CFE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CFE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CFE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CFE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 40,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/curcumin-extract-supplement",
+   "name": "Curcumin Extract",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CEC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CEC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CEC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CEC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CEC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CEC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 9,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/daily-multivitamins",
+   "name": "MultiBlend",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ML=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ML=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ML=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ML1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ML3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ML6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 1,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/dermal-restore-repair-supplement",
+   "name": "Dermal Restore",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PDRC=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PDRC=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PDRC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PDRC1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PDRC3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PDRC6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 31,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/earcare-ear-comfort-drops",
+   "name": "EarCare",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ECC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ECC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_ECC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ECC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ECC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ECC6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/elderberry-supplement",
+   "name": "Elderberry",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EY=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EY=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EY=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EYZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EYZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EYZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/every-beat-heart-health-supplement",
+   "name": "Every Beat",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 29.99,
+      "save": 39.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EBC=1"
+     },
+     "3": {
+      "price": 24.99,
+      "save": 132.3,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EBC=3"
+     },
+     "6": {
+      "price": 19.99,
+      "save": 294.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EBC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 24.99,
+      "save": 44.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EBC1AD"
+     },
+     "3": {
+      "price": 19.99,
+      "save": 147.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EBC3AD"
+     },
+     "6": {
+      "price": 14.99,
+      "save": 324.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EBC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 10,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/express-weight-loss-system",
+   "name": "Express Weight Loss System",
+   "regular_price": 207.0,
+   "price_options": {
+    "measurementUnit": "Set",
+    "numberOfBottles": 3,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 139,
+      "save": 68,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EWLSA=1"
+     },
+     "3": {
+      "price": 129,
+      "save": 234,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EWLSA=3"
+     },
+     "6": {
+      "price": 119,
+      "save": 528,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EWLSA=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 125.1,
+      "save": 81.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EWLSA1ADS"
+     },
+     "3": {
+      "price": 116.1,
+      "save": 272.7,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EWLSA3ADS"
+     },
+     "6": {
+      "price": 107.1,
+      "save": 599.4,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EWLSA6ADS"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 296,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/exuberant",
+   "name": "Exuberant",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TBE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TBE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TBE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TBE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TBE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TBE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 424,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/fast-enzymes-supplement",
+   "name": "FastEnzymes",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EZC=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EZC=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_EZC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EZC1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EZC3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=EZC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 12,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/fit-on-powder-supplement",
+   "name": "Fit ON",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LF=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LF=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LF=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LF1AD"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LF3AD"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LF6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.5,
+   "site_rating_count": 2,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/formidable-fungus-protocol",
+   "name": "Formidable Fungus Protocol",
+   "regular_price": 207.0,
+   "price_options": {
+    "measurementUnit": "Set",
+    "numberOfBottles": 3,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 139,
+      "save": 68,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_FFPSA=1"
+     },
+     "3": {
+      "price": 129,
+      "save": 234,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_FFPSA=3"
+     },
+     "6": {
+      "price": 119,
+      "save": 528,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_FFPSA=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 125.1,
+      "save": 81.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=FFPSA1ADS"
+     },
+     "3": {
+      "price": 116.1,
+      "save": 272.7,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=FFPSA3ADS"
+     },
+     "6": {
+      "price": 107.1,
+      "save": 599.4,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=FFPSA6ADS"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 12,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/fullswitch-natural-glp-capsules",
+   "name": "FullSwitch",
+   "regular_price": 89.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 69,
+      "save": 20,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_POZ=1"
+     },
+     "3": {
+      "price": 59,
+      "save": 90,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_POZ=3"
+     },
+     "6": {
+      "price": 49,
+      "save": 240,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_POZ=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 62.1,
+      "save": 26.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=POZ1AD"
+     },
+     "3": {
+      "price": 53.1,
+      "save": 107.7,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=POZ3AD"
+     },
+     "6": {
+      "price": 44.1,
+      "save": 269.4,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=POZ6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 4,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/fungus-eliminator-toenail-supplement",
+   "name": "Fungus Eliminator",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 40,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_FELM=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 132,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_FELM=3"
+     },
+     "6": {
+      "price": 22,
+      "save": 282,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_FELM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "rebill": 44.1,
+      "save": 42.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=FELM1AD"
+     },
+     "3": {
+      "price": 22.5,
+      "rebill": 40.5,
+      "save": 139.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=FELM3AD"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 295.2,
+      "rebill": 37.8,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=FELM6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 1913,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/garlic-bulb-extract-supplement",
+   "name": "Garlic Bulb Extract",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GBO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GBO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GBO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GBO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GBO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GBO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/gastro-health-supplement",
+   "name": "Gastro Health Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GHC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GHC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GHC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GHC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GHC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GHC6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 13,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/gift-card",
+   "name": "Gift Card",
+   "regular_price": null,
+   "price_options": {
+    "numberOfBottles": 1,
+    "isBilledMonthly": false,
+    "regular": {
+     "1": {
+      "price": 50,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GC50=1"
+     },
+     "2": {
+      "price": 100,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GC100=1"
+     }
+    },
+    "vip": {}
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/ginseng-energy-and-focus-supplement",
+   "name": "Ginseng",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GU=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GU=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GU=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GUZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GUZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GUZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/gut-support-formula-supplement",
+   "name": "Gut Support Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LGRC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LGRC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LGRC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LGRC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LGRC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LGRC6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 27,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/hawthorn",
+   "name": "Hawthorn",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_OR=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_OR=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_OR=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ORZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ORZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=ORZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/hearing-support-formula-supplement",
+   "name": "Hearing Support Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_HEC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_HEC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_HEC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=HEC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=HEC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=HEC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 17,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/holy-basil-holistic-health-supplement",
+   "name": "Holy Basil",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SKO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SKO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SKO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SKO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SKO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SKO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/immune-health-supplement",
+   "name": "Immuno",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_IMC=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_IMC=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_IMC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=IMC1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=IMC3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=IMC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 23,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/improbiome-glp-digestive-health-capsules",
+   "name": "ImproBiome",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PBC=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PBC=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PBC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PBC1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PBC3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PBC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 21,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/iron-supplement-with-vitamin-c",
+   "name": "Iron & Vitamin C",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VTO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VTO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VTO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VTO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VTO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VTO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/joint-support-formula-supplement",
+   "name": "Joint Support",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JSK=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JSK=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JSK=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JSK1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JSK3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JSK6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 335,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/keto-formula",
+   "name": "Keto Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KFC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KFC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KFC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KFC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KFC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KFC6AD"
+     }
+    }
+   },
+   "site_rating_value": 0.0,
+   "site_rating_count": 0,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/kidney-health-formula-supplement",
+   "name": "Kidney Health Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KHEN=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KHEN=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_KHEN=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KHEN1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KHEN3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=KHEN6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 11,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/kombucha-tea-powder",
+   "name": "Gut Kombucha",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GKC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GKC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GKC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GKC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GKC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GKC6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/liver-health-formula-supplement",
+   "name": "Liver Health Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LHFU=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LHFU=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LHFU=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LHFU1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LHFU3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LHFU6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 2552,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/lycopene-supplement",
+   "name": "Lycopene",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NL=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NL=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NL=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NLZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NLZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NLZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/lymph-system-support",
+   "name": "Lymph System Support",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LMOK=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LMOK=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LMOK=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LMOK1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LMOK3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LMOK6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 217,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/magnesium-supplement",
+   "name": "Magnesium",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SN=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SN=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SN=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SNZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SNZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SNZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/marine-collagen-booster-supplement",
+   "name": "Marine Collagen Booster",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GNC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GNC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GNC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GNC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GNC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GNC6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 5,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/matcha-green-tea-capsules",
+   "name": "Matcha",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TH=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TH=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TH=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=THZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=THZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=THZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/menoharmony-menopause-supplement",
+   "name": "MenoHarmony",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MHC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MHC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MHC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MHC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MHC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MHC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 6,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/metabolic-greens-plus",
+   "name": "Metabolic Greens+",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GRC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GRC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_GRC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GRC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GRC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=GRC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 239,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/metabolic-reds",
+   "name": "Metabolic Reds+",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RDC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RDC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RDC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RDC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RDC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RDC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 139,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/metal-detox-supplement",
+   "name": "Metal Detox Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MDC=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MDC=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MDC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MDC1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MDC3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MDC6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 6,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/moringa-supplement",
+   "name": "Moringa",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MQ=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MQ=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_MQ=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MQ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MQ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=MQ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/nerve-regeneration-formula-supplement",
+   "name": "Nerve ReGen Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NRGE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NRGE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NRGE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NRGE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NRGE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NRGE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 574,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/nmn-resveratrol-cellular-longevity-complex",
+   "name": "Cellular Longevity Complex",
+   "regular_price": 89.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 69,
+      "save": 20,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CLC=1"
+     },
+     "3": {
+      "price": 59,
+      "save": 90,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CLC=3"
+     },
+     "6": {
+      "price": 49,
+      "save": 240,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_CLC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 62.1,
+      "save": 26.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CLC1AD"
+     },
+     "3": {
+      "price": 53.1,
+      "save": 107.7,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CLC3AD"
+     },
+     "6": {
+      "price": 44.1,
+      "save": 269.4,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=CLC6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/nootropic-mushroom-formula-supplement",
+   "name": "Nootropic Mushroom Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NMC=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NMC=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_NMC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NMC1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NMC3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=NMC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 16,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/olive-leaf",
+   "name": "Olive Leaf",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JOO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JOO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JOO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JOO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JOO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JOO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/oral-health-support",
+   "name": "Oral Health Support",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 29.99,
+      "save": 39.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_OHC=1"
+     },
+     "3": {
+      "price": 24.99,
+      "save": 132.3,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_OHC=3"
+     },
+     "6": {
+      "price": 19.99,
+      "save": 294.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_OHC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 24.99,
+      "save": 44.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=OHC1AD"
+     },
+     "3": {
+      "price": 19.99,
+      "save": 147.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=OHC3AD"
+     },
+     "6": {
+      "price": 14.99,
+      "save": 324.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=OHC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 12,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/parabroom-parasite-cleanse-supplement",
+   "name": "Parabroom",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RME=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RME=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_RME=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RME1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RME3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=RME6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 154,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/proflow-prostate-health-supplement",
+   "name": "ProFlow+",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PRE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PRE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PRE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PRE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PRE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PRE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 25,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/purizen-body-balance-supplement",
+   "name": "PuriZen",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PZC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PZC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PZC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PZC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PZC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PZC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 10,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/regrow-hair-growth-supplement",
+   "name": "ReGROW – HAIR Activation Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_HRGE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_HRGE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_HRGE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=HRGE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=HRGE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=HRGE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 266,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/sapienbiotics-probiotics-prebiotics-supplement",
+   "name": "Sapienbiotics",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 38.99,
+      "save": 30.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SPF=1"
+     },
+     "3": {
+      "price": 32.49,
+      "save": 109.53,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SPF=3"
+     },
+     "6": {
+      "price": 25.99,
+      "save": 258.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SPF=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 32.49,
+      "save": 36.51,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SPF1AD"
+     },
+     "3": {
+      "price": 25.99,
+      "save": 129.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SPF3AD"
+     },
+     "6": {
+      "price": 19.49,
+      "save": 297.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SPF6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 17,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/saw-palmetto-urinary-tract-supplement",
+   "name": "Saw Palmetto",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 30,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PJM=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 102,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PJM=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 222,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_PJM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 33.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PJZ1AD"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 112.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PJZ3AD"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 241.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=PJZ6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/shilajit-supplement",
+   "name": "Shilajit",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JTM=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JTM=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_JTM=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JTM1AD"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JTM3AD"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=JTM6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/sleep-formula-supplement",
+   "name": "Sleep Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SFO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SFO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SFO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SFO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SFO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SFO6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 33,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/spirulina-chlorella-complex-supplement",
+   "name": "Spirulina & Chlorella Complex",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LKT=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LKT=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_LKT=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LKT1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LKT3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=LKT6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/stress-relief-supplement",
+   "name": "Stress Release Complex",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SRC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SRC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_SRC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SRC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SRC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=SRC6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 7,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/thyroid-harmony-supplement",
+   "name": "Thyroid Harmony Formula",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TYR=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TYR=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TYR=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TYR1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TYR3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TYR6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 45,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/toenail-wellness",
+   "name": "Toenail Wellness",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TTC=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TTC=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_TTC=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TTC1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TTC3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=TTC6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 53,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/tongkat-ali-supplement",
+   "name": "Tongkat Ali",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 19.5,
+      "save": 49.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_WAO=1"
+     },
+     "3": {
+      "price": 17.5,
+      "save": 154.5,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_WAO=3"
+     },
+     "6": {
+      "price": 16,
+      "save": 318,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_WAO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 17.55,
+      "save": 51.45,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=WAO1AD"
+     },
+     "3": {
+      "price": 15.75,
+      "save": 159.75,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=WAO3AD"
+     },
+     "6": {
+      "price": 14.4,
+      "save": 327.6,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=WAO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/ultimate-heart-health-protocol",
+   "name": "Ultimate Heart Health Protocol",
+   "regular_price": 207.0,
+   "price_options": {
+    "measurementUnit": "Set",
+    "numberOfBottles": 3,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 139,
+      "save": 68,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_UHA=1"
+     },
+     "3": {
+      "price": 129,
+      "save": 234,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_UHA=3"
+     },
+     "6": {
+      "price": 119,
+      "save": 528,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_UHA=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 125.1,
+      "save": 81.9,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=UHA1AD"
+     },
+     "3": {
+      "price": 116.1,
+      "save": 272.7,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=UHA3AD"
+     },
+     "6": {
+      "price": 107.1,
+      "save": 599.4,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=UHA6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 10,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/ut-fix-urinary-tract-supplement",
+   "name": "UT FIX",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_UTE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_UTE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_UTE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=UTE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=UTE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=UTE6AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 84,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/venease-vein-health-supplement",
+   "name": "VenEase",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VEE=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VEE=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_VEE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VEE1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VEE3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=VEE6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 143,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/yeast-protein-creatine-electrolytes",
+   "name": "Yeast Protein + Creatine + Hydration",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Jar",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_YCH=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_YCH=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_YCH=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=YCH1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=YCH3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=YCH6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.purehealthresearch.com/product/youth-switch-longevity-supplement",
+   "name": "Youth Switch",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "isBilledMonthly": true,
+    "regular": {
+     "1": {
+      "price": 59.99,
+      "save": 9.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_YSO=1"
+     },
+     "3": {
+      "price": 49.99,
+      "save": 57.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_YSO=3"
+     },
+     "6": {
+      "price": 39.99,
+      "save": 174.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD_YSO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.99,
+      "save": 19.01,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=YSO1AD"
+     },
+     "3": {
+      "price": 39.99,
+      "save": 87.03,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=YSO3AD"
+     },
+     "6": {
+      "price": 29.99,
+      "save": 234.06,
+      "orderLink": "https://secure.purehealthresearchstore.com/cgi-bin/UCEditor?MerchantID=PHR1&ADD=YSO6AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 235,
+   "http_status": 200
+  }
+ ]
+}

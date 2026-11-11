@@ -1,0 +1,1173 @@
+{
+ "brand": "pureance",
+ "base_url": "https://www.pureance.com",
+ "snapshot_date": "2026-11-11",
+ "collected_at_utc": "2026-11-10T23:34:36+00:00",
+ "method": "sitemap.xml -> /product/ pages -> embedded product JSON",
+ "products": [
+  {
+   "url": "https://www.pureance.com/product/cellular-glow-thermal-beauty-duo-bundle",
+   "name": "“Cellular Glow“ Thermal Beauty Duo",
+   "regular_price": null,
+   "price_options": {
+    "availableQty": [
+     1
+    ],
+    "regular": {
+     "1": {
+      "price": 148,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_BCHBUN=1"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/cellular-hydration-serum",
+   "name": "Cellular Hydration Serum",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Jar",
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CHO=1"
+     },
+     "2": {
+      "price": 45,
+      "save": 48,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CHO=2"
+     },
+     "3": {
+      "price": 42,
+      "save": 81,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CHO=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CHO1AD=1"
+     },
+     "2": {
+      "price": 40.5,
+      "save": 57,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CHO2AD=1"
+     },
+     "3": {
+      "price": 37.8,
+      "save": 93.6,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CHO3AD=1"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 27,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/cellular-restore-serum",
+   "name": "Cellular Restore Serum",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "regularPrice": 69,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CRAN=1"
+     },
+     "2": {
+      "price": 45,
+      "save": 48,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CRAN=2"
+     },
+     "3": {
+      "price": 42,
+      "save": 81,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CRAN=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CRAN1AD=1"
+     },
+     "2": {
+      "price": 40.5,
+      "save": 57,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CRAN2AD=1"
+     },
+     "3": {
+      "price": 37.8,
+      "save": 93.6,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CRAN3AD=1"
+     }
+    }
+   },
+   "site_rating_value": 4.8,
+   "site_rating_count": 11,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/circulex-vein-health-supplement",
+   "name": "Circulex - Vein Health Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CXN=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CXN=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CXN=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CXN1AD=1"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CXN3AD=3"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CXN6AD=6"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/contour-massage-roller",
+   "name": "Contour Massage Roller",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": "/Product",
+    "numberOfBottles": 1,
+    "availableQty": [
+     1,
+     2,
+     3
+    ],
+    "regular": {
+     "1": {
+      "price": 69,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CMROL=1"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 1,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/deepsea-collagen-marine-collagen-supplement",
+   "name": "DeepSea Collagen - Marine Collagen Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 6,
+    "maxQtyVip": 1,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DSO=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DSO=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DSO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DSO1AD=1"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DSO3AD=3"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DSO6AD=6"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 4,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/dermaluxe-hydrolyzed-collagen-supplement",
+   "name": "Dermaluxe – Hydrolyzed Collagen Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DXO=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DXO=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DXO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DXO1AD=1"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DXO3AD=3"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_DXO6AD=6"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 29,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/even-flow-lymphatic-support-supplement",
+   "name": "Even Flow - Lymphatic Support Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_FWP=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_FWP=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_FWP=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_FWP1AD=1"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_FWP3AD=3"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_FWP6AD=6"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/even-glow",
+   "name": "Even Glow",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_EGI=1"
+     },
+     "2": {
+      "price": 45,
+      "save": 48,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_EGI=2"
+     },
+     "3": {
+      "price": 42,
+      "save": 81,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_EGI=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=EGI1AD"
+     },
+     "2": {
+      "price": 40.5,
+      "save": 57,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=EGI2AD"
+     },
+     "3": {
+      "price": 37.8,
+      "save": 93.6,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=EGI3AD"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 71,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/fine-lines-saggy-skin-system",
+   "name": "Fine Lines & Saggy Skin System",
+   "regular_price": 207.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "System",
+    "numberOfBottles": 1,
+    "regularPrice": 207,
+    "regular": {
+     "1": {
+      "price": 99,
+      "save": 108,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HRG=1"
+     },
+     "2": {
+      "price": 95,
+      "save": 224,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HRG=2"
+     },
+     "3": {
+      "price": 92,
+      "save": 345,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HRG=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 89.1,
+      "save": 117.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HRG1AD"
+     },
+     "2": {
+      "price": 85.5,
+      "save": 243,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HRG2AD"
+     },
+     "3": {
+      "price": 82.8,
+      "save": 372.6,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HRG3AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/gentle-cleansing-foam",
+   "name": "Cleansing Foam",
+   "regular_price": 39.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 39,
+    "regular": {
+     "1": {
+      "price": 39,
+      "save": 0,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PUN=1"
+     },
+     "3": {
+      "price": 35,
+      "save": 12,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PUN=3"
+     },
+     "6": {
+      "price": 32,
+      "save": 42,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PUN=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 35.1,
+      "save": 3.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PUN1AD=1"
+     },
+     "3": {
+      "price": 31.5,
+      "save": 22.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PUN3AD=3"
+     },
+     "6": {
+      "price": 28.8,
+      "save": 61.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PUN6AD=6"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/gift-certificates",
+   "name": "Pureance Gift Certificate",
+   "regular_price": null,
+   "price_options": {
+    "numberOfBottles": 1,
+    "availableQty": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "regular": {
+     "1": {
+      "price": 50,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_GCER50=1"
+     },
+     "2": {
+      "price": 100,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_GCER100=1"
+     }
+    }
+   },
+   "site_rating_value": 5.0,
+   "site_rating_count": 1,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/giftbox",
+   "name": "“MATURE GLOW” SKIN RECOVERY SET",
+   "regular_price": null,
+   "price_options": {
+    "measurementUnit": " (Value $265)",
+    "numberOfBottles": 1,
+    "availableQty": [
+     1
+    ],
+    "regular": {
+     "1": {
+      "price": 187,
+      "value": 265,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PRNGFBN=1"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/hair-re-bond-mask",
+   "name": "Re-Bond Hair Mask",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Jar",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HBMO=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HBMO=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HBMO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HBMO1AD"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HBMO3AD"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HBMO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/hair-therapy-scalp-nourishment-moisturizing-oil",
+   "name": "Hair Therapy Scalp Nourishment Oil",
+   "regular_price": 69.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bottle",
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HTO=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HTO=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HTO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HTO1AD=1"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HTO3AD=1"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HTO6AD=1"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/hairlux-supplement-for-hair-growth",
+   "name": "HairLux - Hair Growth Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HLO=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HLO=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HLO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HLO1AD=1"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HLO3AD=1"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HLO6AD=1"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/hot-cold-beauty-device",
+   "name": "Hot & Cold Beauty Instrument",
+   "regular_price": 99.0,
+   "price_options": {
+    "measurementUnit": "/Product",
+    "numberOfBottles": 1,
+    "availableQty": [
+     1
+    ],
+    "regularPrice": 99,
+    "regular": {
+     "1": {
+      "price": 99,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_CBIK=1"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/hydracleanse-deep-clean-detox-shampoo",
+   "name": "HydraCleanse - Deep-Clean Detox Shampoo",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HDO=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HDO=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_HDO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HDO1AD"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HDO3AD"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=HDO6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/hydralift-volumizing-shampoo",
+   "name": "HydraLift Volumizing Shampoo",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 40,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KOE=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 132,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KOE=3"
+     },
+     "6": {
+      "price": 22,
+      "save": 282,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KOE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "save": 42.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KOE1AD=1"
+     },
+     "3": {
+      "price": 22.5,
+      "save": 139.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KOE3AD=3"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 295.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KOE6AD=6"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/hydrasilk-moisturizing-conditioner",
+   "name": "HydraSilk Moisturizing Conditioner",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 29,
+      "save": 40,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COE=1"
+     },
+     "3": {
+      "price": 25,
+      "save": 132,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COE=3"
+     },
+     "6": {
+      "price": 22,
+      "save": 282,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COE=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 26.1,
+      "save": 42.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COE1AD=1"
+     },
+     "3": {
+      "price": 22.5,
+      "save": 139.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COE3AD=3"
+     },
+     "6": {
+      "price": 19.8,
+      "save": 295.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COE6AD=6"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/keratin-shine-mist",
+   "name": "Keratin Shine Mist",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KSMN=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KSMN=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_KSMN=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=KSMN1AD"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=KSMN3AD"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=KSMN6AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/lift-and-glow",
+   "name": "Lift & Glow",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_LGW=1"
+     },
+     "2": {
+      "price": 45,
+      "save": 48,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_LGW=2"
+     },
+     "3": {
+      "price": 42,
+      "save": 81,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_LGW=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=LGW1AD"
+     },
+     "2": {
+      "price": 40.5,
+      "save": 57,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=LGW2AD"
+     },
+     "3": {
+      "price": 37.8,
+      "save": 93.6,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=LGW3AD"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 57,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/moisturizing-hydralift-shampoo-hydrasilk-conditioner",
+   "name": "HydraLift & HydraSilk Protein Support Hair Duo",
+   "regular_price": 138.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bundle",
+    "numberOfBottles": 1,
+    "regularPrice": 138,
+    "regular": {
+     "1": {
+      "price": 55,
+      "save": 83,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COKOK=1"
+     },
+     "2": {
+      "price": 51,
+      "save": 174,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COKOK=2"
+     },
+     "3": {
+      "price": 49,
+      "save": 267,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_COKOK=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 49.5,
+      "save": 88.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=COKOK1AD"
+     },
+     "2": {
+      "price": 45.9,
+      "save": 184.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=COKOK2AD"
+     },
+     "3": {
+      "price": 44.1,
+      "save": 281.7,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=COKOK3AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/peptide-fusion-face-cream",
+   "name": "Peptide Fusion Face Cream",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PPF=1"
+     },
+     "2": {
+      "price": 45,
+      "save": 48,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PPF=2"
+     },
+     "3": {
+      "price": 42,
+      "save": 81,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PPF=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=PPF1AD"
+     },
+     "2": {
+      "price": 40.5,
+      "save": 57,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=PPF2AD"
+     },
+     "3": {
+      "price": 37.8,
+      "save": 93.6,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=PPF3AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/serene-probiotics-natural-probiotic-supplement",
+   "name": "Serene Probiotics – Natural Probiotic Supplement",
+   "regular_price": 69.0,
+   "price_options": {
+    "measurementUnit": "Bottle",
+    "isBilledMonthly": true,
+    "numberOfBottles": 1,
+    "maxQtyRegular": 10,
+    "maxQtyVip": 10,
+    "regularPrice": 69,
+    "regular": {
+     "1": {
+      "price": 49,
+      "save": 20,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PSO=1"
+     },
+     "3": {
+      "price": 45,
+      "save": 72,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PSO=3"
+     },
+     "6": {
+      "price": 42,
+      "save": 162,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PSO=6"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 44.1,
+      "save": 24.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PSO1AD=1"
+     },
+     "3": {
+      "price": 40.5,
+      "save": 85.5,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PSO3AD=3"
+     },
+     "6": {
+      "price": 37.8,
+      "save": 187.2,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_PSO6AD=6"
+     }
+    }
+   },
+   "site_rating_value": 4.9,
+   "site_rating_count": 16,
+   "http_status": 200
+  },
+  {
+   "url": "https://www.pureance.com/product/under-eye-renewal-system",
+   "name": "Under-Eye Renewal System",
+   "regular_price": 138.0,
+   "price_options": {
+    "isBilledMonthly": true,
+    "measurementUnit": "Bundle",
+    "numberOfBottles": 1,
+    "regularPrice": 138,
+    "regular": {
+     "1": {
+      "price": 79,
+      "save": 59,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_RYLGN=1"
+     },
+     "2": {
+      "price": 75,
+      "save": 126,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_RYLGN=2"
+     },
+     "3": {
+      "price": 72,
+      "save": 198,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD_RYLGN=3"
+     }
+    },
+    "vip": {
+     "1": {
+      "price": 71.1,
+      "save": 66.9,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=RYLGN1AD"
+     },
+     "2": {
+      "price": 67.5,
+      "save": 141,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=RYLGN2AD"
+     },
+     "3": {
+      "price": 64.8,
+      "save": 219.6,
+      "orderLink": "https://secure.pureance.com/cgi-bin/UCEditor?MerchantID=PRN&ADD=RYLGN3AD"
+     }
+    }
+   },
+   "site_rating_value": null,
+   "site_rating_count": null,
+   "http_status": 200
+  }
+ ]
+}
