@@ -1,0 +1,45 @@
+version: 2
+
+models:
+  - name: mart_media_buying
+    description: >
+      Media Buying table: campaign x day in the ad account's time zone. Platform-reported conversions and value
+      next to first-party orders carrying the campaign id. CPA = spend / first_party_orders,
+      ROAS = first_party_gross_revenue / spend (METRICS.md). Looker Studio page 1.
+    columns:
+      - name: spend_usd
+        description: "Spend converted to USD."
+      - name: platform_conversion_value_usd
+        description: "Revenue the platform claims (its own attribution windows, incl. view-through)."
+      - name: first_party_gross_revenue_usd
+        description: "Revenue of real orders whose UTM carries this campaign id."
+
+  - name: mart_finance_reconciliation
+    description: >
+      Finance table: brand x month. Shop sales vs payment provider charges, refunds and chargebacks by the month
+      they happened (incl. those hitting earlier months), fees, net revenue, ad spend for MER. Looker Studio page 2.
+    data_tests:
+      - unique_combination_of_columns:
+          arguments:
+            columns: ["brand_code", "month_start"]
+
+  - name: mart_subscription_health
+    description: >
+      Operations table: brand x month. Active subscriptions (documented definition) vs the tool's naive count,
+      paused and past-due, new subscriptions, voluntary and involuntary cancellations, churn rate. Looker Studio page 3.
+    data_tests:
+      - unique_combination_of_columns:
+          arguments:
+            columns: ["brand_code", "month_start"]
+
+  - name: mart_roas_bridge
+    description: "One row per month: each step from the ROAS shown in the ad platforms to the return on net revenue Finance sees."
+    columns:
+      - name: month_start
+        data_tests: [unique, not_null]
+      - name: step_attribution_window_usd
+        description: "Platform-claimed value minus real attributed orders (same day convention)."
+      - name: step_time_zone_usd
+        description: "Revenue that moves between months when orders are dated in the business time zone instead of the ad account's."
+      - name: step_refunds_chargebacks_usd
+        description: "Refunds and chargebacks on paid orders."
