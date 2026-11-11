@@ -1,0 +1,8 @@
+defaultProject: impact-brands-case-study
+defaultLocation: EU
+defaultDataset: analytics
+defaultAssertionDataset: audit
+dataformCoreVersion: 3.0.0
+vars:
+  reportingTimezone: America/New_York
+  fixVersion: "1"

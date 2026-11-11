@@ -1,0 +1,65 @@
+config {
+  type: "table",
+  schema: "intermediate",
+  description: "Product & brand mapping of every ad campaign. Same logic as dbt/models/intermediate/int_campaigns_mapped.sql.",
+  assertions: {
+    uniqueKey: ["campaign_id"]
+  }
+}
+
+-- Brand from the ad account, product from the rules table (override first, then the longest token
+-- found in the squashed campaign name within that brand).
+with campaigns as (
+  select platform, account_id, campaign_id, max(campaign_name) as campaign_name, sum(spend_usd) as total_spend_usd
+  from ${ref("int_ad_spend_daily")}
+  group by platform, account_id, campaign_id
+),
+
+campaigns_with_brand as (
+  select
+    c.*,
+    a.brand_code,
+    replace(trim(regexp_replace(lower(c.campaign_name), r'[^a-z0-9]+', ' ')), ' ', '') as squashed_name
+  from campaigns as c
+  left join ${ref("ad_accounts")} as a
+    on a.account_id = c.account_id
+    and a.fixed_in_version <= ${dataform.projectConfig.vars.fixVersion}
+),
+
+rules as (
+  select * from ${ref("campaign_product_rules")}
+  where fixed_in_version <= ${dataform.projectConfig.vars.fixVersion}
+),
+
+token_match as (
+  select
+    c.campaign_id,
+    r.product_key,
+    row_number() over (partition by c.campaign_id order by length(r.match_token) desc) as match_rank
+  from campaigns_with_brand as c
+  join rules as r
+    on r.brand_code = c.brand_code
+    and r.match_token is not null
+    and c.squashed_name like concat('%', r.match_token, '%')
+)
+
+select
+  c.platform,
+  c.account_id,
+  c.campaign_id,
+  c.campaign_name,
+  c.total_spend_usd,
+  c.brand_code,
+  coalesce(o.product_key, t.product_key) as product_key,
+  case
+    when c.brand_code is null then 'unmapped_account'
+    when o.product_key is not null then 'override'
+    when t.product_key is not null then 'rule'
+    else 'unmapped_campaign'
+  end as mapping_method
+from campaigns_with_brand as c
+left join rules as o
+  on o.campaign_id = c.campaign_id
+left join token_match as t
+  on t.campaign_id = c.campaign_id
+  and t.match_rank = 1

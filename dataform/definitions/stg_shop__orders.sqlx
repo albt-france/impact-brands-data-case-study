@@ -1,0 +1,35 @@
+config {
+  type: "view",
+  schema: "staging",
+  description: "One row per order. Webhook replays removed, store local time converted to UTC. Same logic as dbt/models/staging/stg_shop__orders.sql.",
+  assertions: {
+    uniqueKey: ["order_id"],
+    nonNull: ["order_id", "store_code", "created_at_utc"]
+  }
+}
+
+-- BigQuery SQL. In Dataform, ${ref()} replaces dbt's {{ ref() }} / {{ source() }}.
+with deduplicated as (
+  select
+    *,
+    row_number() over (partition by order_id order by _received_at) as copy_number
+  from ${ref("raw", "raw_shop_orders")}
+)
+
+select
+  order_id,
+  store                                               as store_code,
+  customer_id,
+  customer_email_sha256,
+  ship_country,
+  upper(currency)                                     as currency,
+  cast(order_total as numeric)                        as order_total,
+  order_source,
+  coalesce(utm_source, 'none')                        as utm_source,
+  cast(utm_campaign_id as string)                     as utm_campaign_id,
+  subscription_id,
+  order_source = 'subscription_renewal'               as is_renewal,
+  timestamp(cast(created_at as datetime), store_timezone)                         as created_at_utc,
+  date(timestamp(cast(created_at as datetime), store_timezone), "${dataform.projectConfig.vars.reportingTimezone}") as order_date
+from deduplicated
+where copy_number = 1
