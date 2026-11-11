@@ -1,0 +1,65 @@
+version: 2
+
+seeds:
+  # ---------------------------------------------------------------- PUBLIC DATA
+  - name: public_brands
+    description: "PUBLIC DATA. The 7 brands named in the job post, with their verified storefront and catalogue size (snapshot 2026-11-11)."
+    columns:
+      - name: brand_code
+        description: "Short brand code used across the warehouse (PHR, NHMD, PUR, TRU, PET, NBL, VPK)."
+        data_tests: [unique, not_null]
+  - name: public_catalog_products
+    description: "PUBLIC DATA. One row per product page of the 7 storefronts: name, category, list price, bundle and subscribe & save prices, on-site rating."
+  - name: public_catalog_offers
+    description: "PUBLIC DATA. One row per product x purchase type (one-time / subscribe & save) x bundle size, with the real store SKU code taken from the add-to-cart link."
+
+  # ---------------------------------------------------------------- MAPPING (versioned rules)
+  - name: product_mapping
+    description: >
+      Versioned product mapping. Maps every source SKU (shop SKU codes, warehouse codes) to one
+      canonical product_key (brand_code:product_slug). Rows with fixed_in_version = 1 were added after
+      an alert; run with --vars '{fix_version: 0}' to replay the warehouse without them.
+    config:
+      column_types:
+        source_sku: "{{ 'string' if target.type == 'bigquery' else 'varchar' }}"
+    columns:
+      - name: source_system
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["shop", "warehouse"]
+      - name: product_key
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_product')
+                field: product_key
+  - name: campaign_product_rules
+    description: >
+      Rules that map messy campaign names to a product. A campaign matches a rule when its squashed name
+      (lower case, no spaces or symbols) contains match_token, within the brand of its ad account.
+      campaign_id rows are exact overrides. The longest matching token wins.
+    config:
+      column_types:
+        campaign_id: "{{ 'string' if target.type == 'bigquery' else 'varchar' }}"
+        match_token: "{{ 'string' if target.type == 'bigquery' else 'varchar' }}"
+  - name: ad_accounts
+    description: "Every ad account and the brand it buys for. A new account must be added here on day one."
+    config:
+      column_types:
+        account_id: "{{ 'string' if target.type == 'bigquery' else 'varchar' }}"
+    columns:
+      - name: account_id
+        data_tests: [unique, not_null]
+  - name: brand_name_tokens
+    description: "Words a campaign name may start with for each brand (used to catch a wrong brand in a campaign name)."
+  - name: store_brand
+    description: "Store merchant code (from the public add-to-cart links) -> brand_code. Nation Health MD's store code is LHP."
+    columns:
+      - name: store
+        data_tests: [unique, not_null]
+
+  # ---------------------------------------------------------------- REFERENCE
+  - name: fx_rates_monthly
+    description: "Approximate monthly FX rates (USD per unit of currency), rounded. Used to convert SIMULATED amounts to USD."

@@ -1,0 +1,51 @@
+name: impact_brands
+version: "1.0.0"
+config-version: 2
+profile: impact_brands
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+analysis-paths: ["analyses"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages", "logs"]
+
+vars:
+  # 1 = warehouse with every fix applied (default).
+  # 0 = replay the warehouse as it was BEFORE the fixes (mapping rows not added yet,
+  #     connector backfill not loaded). Used to measure how many injected issues the tests catch.
+  fix_version: 1
+  # Business timezone used for reporting days and months (the stores report in US Eastern time).
+  reporting_timezone: "America/New_York"
+  # Calendar covered by the warehouse and last day of simulated activity
+  calendar_start: "2025-01-01"
+  calendar_end: "2026-12-31"
+  data_end_date: "2026-09-30"
+  # Reconciliation tolerances
+  ad_spend_tolerance_pct: 0.01
+  payment_tolerance_usd: 0.05
+
+models:
+  impact_brands:
+    staging:
+      +materialized: view
+      +schema: staging
+    intermediate:
+      +materialized: view
+      +schema: intermediate
+    marts:
+      +materialized: table
+      +schema: marts
+
+seeds:
+  impact_brands:
+    +schema: seeds
+    public:
+      +column_types:
+        snapshot_date: date
+
+data_tests:
+  impact_brands:
+    +store_failures: true
+    +schema: audit

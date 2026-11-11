@@ -1,0 +1,34 @@
+# Copy to ~/.dbt/profiles.yml (or keep it here and run with --profiles-dir .)
+impact_brands:
+  target: duckdb
+  outputs:
+    # Local, no account needed. Reads the simulated Parquet files in ../data/simulated
+    duckdb:
+      type: duckdb
+      path: impact_brands.duckdb
+      threads: 4
+      extensions: ["icu"]
+      settings:
+        TimeZone: "UTC"
+
+    # Same thing in a separate file, used with --vars '{fix_version: 0}' to replay the
+    # warehouse BEFORE the fixes and measure how many injected issues the tests catch.
+    duckdb_before_fix:
+      type: duckdb
+      path: impact_brands_before_fix.duckdb
+      threads: 4
+      extensions: ["icu"]
+      settings:
+        TimeZone: "UTC"
+
+    # Same project on BigQuery (sandbox works). Load the raw tables first: python src/load_bigquery.py
+    bigquery:
+      type: bigquery
+      method: oauth            # gcloud auth application-default login
+      # method: service-account
+      # keyfile: "{{ env_var('GOOGLE_APPLICATION_CREDENTIALS') }}"
+      project: "{{ env_var('GCP_PROJECT_ID', 'impact-brands-case-study') }}"
+      dataset: analytics
+      location: EU
+      threads: 4
+      priority: interactive

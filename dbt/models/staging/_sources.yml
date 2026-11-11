@@ -1,0 +1,79 @@
+version: 2
+
+# SIMULATED raw tables. Locally they are Parquet files read by DuckDB (external_location);
+# on BigQuery they are loaded into the `raw` dataset by src/load_bigquery.py.
+sources:
+  - name: shop
+    description: "Storefront orders (SIMULATED). Order timestamps are store local time (America/New_York), amounts in order currency units."
+    schema: "{{ 'raw' if target.type == 'bigquery' else 'main' }}"
+    config:
+      freshness:
+        warn_after: {count: 2, period: day}
+        error_after: {count: 5, period: day}
+      loaded_at_field: "cast(_received_at as timestamp)"
+    tables:
+      - name: raw_shop_orders
+        config: {meta: {external_location: "../data/simulated/raw_shop_orders.parquet"}}
+        description: "One row per order webhook received. Webhook replays create duplicate rows (same order_id)."
+      - name: raw_shop_order_lines
+        config:
+          meta: {external_location: "../data/simulated/raw_shop_order_lines.parquet"}
+          freshness: null
+        description: "Order lines with the store SKU code (real catalogue codes)."
+
+  - name: subscriptions
+    description: "Subscription tool (SIMULATED, Recharge-like). Timestamps UTC."
+    schema: "{{ 'raw' if target.type == 'bigquery' else 'main' }}"
+    tables:
+      - name: raw_subscriptions
+        config: {meta: {external_location: "../data/simulated/raw_subscriptions.parquet"}}
+        description: "Current state per subscription. status is only ACTIVE or CANCELLED, so paused and failing subscriptions show as ACTIVE."
+      - name: raw_subscription_events
+        config: {meta: {external_location: "../data/simulated/raw_subscription_events.parquet"}}
+        description: "Full event history: created, charge_succeeded, charge_failed, paused, resumed, cancelled, reactivated."
+
+  - name: payments
+    description: "Payment provider (SIMULATED, Stripe-like). Unix epoch seconds (UTC), amounts in cents of the payment currency."
+    schema: "{{ 'raw' if target.type == 'bigquery' else 'main' }}"
+    tables:
+      - name: raw_payments
+        config: {meta: {external_location: "../data/simulated/raw_payments.parquet"}}
+
+  - name: fulfillment
+    description: "3PL warehouse (SIMULATED). Uses its own SKU codes. Timestamps UTC."
+    schema: "{{ 'raw' if target.type == 'bigquery' else 'main' }}"
+    tables:
+      - name: raw_fulfillment
+        config: {meta: {external_location: "../data/simulated/raw_fulfillment.parquet"}}
+
+  - name: ads
+    description: "Ad platform connectors (SIMULATED). Dates are in the ad account time zone, amounts in account currency."
+    schema: "{{ 'raw' if target.type == 'bigquery' else 'main' }}"
+    tables:
+      - name: raw_meta_ads
+        description: "Meta Ads insights at ad set x day. spend is a string, as in the Marketing API."
+        config:
+          meta: {external_location: "../data/simulated/raw_meta_ads.parquet"}
+          freshness:
+            warn_after: {count: 2, period: day}
+          loaded_at_field: "cast(_loaded_at as timestamp)"
+      - name: raw_google_ads
+        config: {meta: {external_location: "../data/simulated/raw_google_ads.parquet"}}
+        description: "Google Ads campaign x day. Cost in micros (1,000,000 = 1 unit of currency)."
+      - name: raw_ad_billing
+        config: {meta: {external_location: "../data/simulated/raw_ad_billing.parquet"}}
+        description: "Monthly invoices from the ad platforms: the external reference for spend reconciliation."
+
+  - name: crm
+    description: "E-mail / CRM contacts (SIMULATED). Only hashed e-mails."
+    schema: "{{ 'raw' if target.type == 'bigquery' else 'main' }}"
+    tables:
+      - name: raw_crm_customers
+        config: {meta: {external_location: "../data/simulated/raw_crm_customers.parquet"}}
+
+  - name: finance
+    description: "Finance books (SIMULATED): net revenue per month as booked at month close."
+    schema: "{{ 'raw' if target.type == 'bigquery' else 'main' }}"
+    tables:
+      - name: raw_finance_month_close
+        config: {meta: {external_location: "../data/simulated/raw_finance_month_close.parquet"}}

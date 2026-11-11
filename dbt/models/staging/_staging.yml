@@ -1,0 +1,109 @@
+version: 2
+
+models:
+  - name: stg_shop__orders
+    description: "One row per order. Webhook replays removed (first copy kept), store local time converted to UTC, reporting date in the business time zone."
+    columns:
+      - name: order_id
+        description: "Store order number, prefixed by the store code (e.g. PHR1-1000234)."
+        data_tests: [unique, not_null]
+      - name: store_code
+        description: "Store merchant code (PHR1, LHP, PRN, TRU, PAW, NBL, VPK)."
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('store_brand')
+                field: store
+      - name: currency
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["USD", "EUR", "GBP"]
+      - name: order_source
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["web", "subscription_renewal"]
+      - name: created_at_utc
+        description: "Order time in UTC (converted from the store's local wall-clock time)."
+        data_tests: [not_null]
+      - name: order_date
+        description: "Reporting date in the business time zone (var reporting_timezone)."
+        data_tests: [not_null]
+      - name: utm_campaign_id
+        description: "Ad platform campaign id passed in the landing URL; null for organic, e-mail, direct and renewals."
+
+  - name: stg_shop__order_lines
+    description: "One row per order line with the store SKU code as sent by the shop."
+    columns:
+      - name: store_sku
+        description: "Store item code from the add-to-cart link (e.g. LHFU, LHFU3AD, CFOF)."
+        data_tests: [not_null]
+      - name: quantity
+        description: "Number of store items (one item can be one bottle or a whole bundle, depending on the code)."
+
+  - name: stg_subscriptions__subscriptions
+    description: "Current state per subscription, as the subscription tool shows it (status is only active or cancelled)."
+    columns:
+      - name: subscription_id
+        data_tests: [unique, not_null]
+      - name: tool_status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["active", "cancelled"]
+
+  - name: stg_subscriptions__events
+    description: "Subscription event history in UTC with the reporting date of each event."
+    columns:
+      - name: event_id
+        data_tests: [unique, not_null]
+      - name: event_type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["created", "charge_succeeded", "charge_failed", "paused", "resumed", "cancelled", "reactivated"]
+
+  - name: stg_payments__payments
+    description: "Money movements at the payment provider. Epoch seconds converted to UTC, cents to currency units. Refunds and chargebacks are negative."
+    columns:
+      - name: payment_id
+        data_tests: [unique, not_null]
+      - name: payment_type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["charge", "refund", "chargeback"]
+      - name: order_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_shop__orders')
+                field: order_id
+
+  - name: stg_fulfillment__shipments
+    description: "Items shipped by the 3PL with its own SKU codes and the order number without the store prefix."
+
+  - name: stg_ads__meta
+    description: "Meta Ads at ad set x day (account time zone and currency). Re-synced days deduplicated (latest load kept)."
+  - name: stg_ads__google
+    description: "Google Ads at campaign x day (account time zone and currency). Cost converted from micros."
+  - name: stg_ads__billing
+    description: "Monthly ad platform invoices per account, in account currency."
+    columns:
+      - name: invoice_id
+        data_tests: [unique, not_null]
+  - name: stg_crm__customers
+    description: "CRM contacts identified by the SHA-256 hash of their e-mail."
+    columns:
+      - name: crm_contact_id
+        data_tests: [unique, not_null]
+  - name: stg_finance__month_close
+    description: "Net revenue per month booked by Finance at month close (USD)."
+    columns:
+      - name: revenue_month
+        data_tests: [unique, not_null]
+  - name: stg_reference__fx_rates
+    description: "Monthly FX rates (USD per unit of currency) with a proper month date."
